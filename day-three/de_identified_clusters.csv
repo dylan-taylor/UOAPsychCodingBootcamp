@@ -1,0 +1,31 @@
+frequency_space,frequency_west,frequency_winter,clusters,movie,title,category
+0.00149328,9.96e-4,0.054255849,4,movie_1,a muppet family christmas,c
+0.023243528,5.28e-4,0.001056524,1,movie_10,gravity,s
+0,9.68e-4,0.005803149,2,movie_11,home alone,c
+4.04e-4,8.08e-4,0.05210053,4,movie_12,how the grinch stole the christmas,c
+0.016652014,4.27e-4,0.001920956,1,movie_13,interstellar,s
+9.9e-4,0.001236,0.00271979999999999,3,movie_14,minority report,s
+3.49e-4,6.98e-4,0.034566391,4,movie_15,miracle on 34st,c
+7.84e-4,0.017254588,0.001176471,5,movie_16,no name on the bullet,w
+0,0.00195039,0,3,movie_17,once upon a time in the west,w
+0.006596675,0,0.001979261,3,movie_18,planet of the apes,s
+6.01e-4,6.01e-4,0.042643042,4,movie_19,polar express,c
+0,0.0010699,0.004636601,2,movie_2,bicentennial man,s
+7.5e-4,0.009745127,0.00149925,5,movie_20,seven men from now,w
+0.008390706,0,6.99e-4,3,movie_21,solaris,s
+0.011520701,0.001152074,0,1,movie_22,space odyssey,s
+0.001584119,1.98e-4,0.013267267,2,movie_23,spirited,c
+0.001774585,0.003903616,3.55e-4,3,movie_24,starwars episode 2,s
+0.003336114,0.001668038,0,3,movie_25,starwars episode 4,s
+3.87e-4,0.014302732,0.001546644,5,movie_26,the gun fighter,w
+0.017565641,0,0.002195734,1,movie_27,the martian,s
+3.76e-4,0.009012843,0.002629549,5,movie_28,the searchers,w
+0.00123,0.00246,0,3,movie_29,the vast of night,s
+0.002202644,0.004405286,0.00220332199999999,3,movie_3,blade runner,s
+5.24e-4,0.014150671,0.003406709,5,movie_30,true grit,w
+3.85e-4,0,0.035452793,4,movie_4,christmas chronicles,c
+0.001455,0.002038234,2.91e-4,3,movie_5,coherence,s
+0.01170509,0,6.33e-4,1,movie_6,district 9,s
+0.001191,0.001588422,7.94e-4,3,movie_7,dune 1,s
+5.04e-4,0.002014099,0.006042771,2,movie_8,dune 2,s
+4.83e-4,0.001930502,0,3,movie_9,ex-machina,s
