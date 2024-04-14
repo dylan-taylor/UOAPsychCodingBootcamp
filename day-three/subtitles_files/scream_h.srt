@@ -1,0 +1,6402 @@
+﻿1
+00:00:35,388 --> 00:00:36,388
+Hello?
+
+2
+00:00:36,472 --> 00:00:38,432
+<i>- Hello.</i>
+- Yes?
+
+3
+00:00:38,516 --> 00:00:39,767
+<i>Who is this?</i>
+
+4
+00:00:39,851 --> 00:00:41,268
+Who are you trying to reach?
+
+5
+00:00:41,352 --> 00:00:42,603
+<i>What number is this?</i>
+
+6
+00:00:42,687 --> 00:00:44,438
+What number are you trying to reach?
+
+7
+00:00:44,522 --> 00:00:45,648
+<i>I don't know.</i>
+
+8
+00:00:45,732 --> 00:00:47,399
+Well, I think you have the wrong number.
+
+9
+00:00:47,483 --> 00:00:49,777
+<i>- Do I?</i>
+- It happens. Take it easy.
+
+10
+00:00:58,828 --> 00:00:59,829
+Hello?
+
+11
+00:00:59,913 --> 00:01:02,414
+<i>I'm sorry.
+I guess I dialed the wrong number.</i>
+
+12
+00:01:02,498 --> 00:01:04,291
+Well, so why'd you dial it again?
+
+13
+00:01:04,375 --> 00:01:06,001
+<i>To apologize.</i>
+
+14
+00:01:06,085 --> 00:01:07,878
+You're forgiven. Bye now.
+
+15
+00:01:07,962 --> 00:01:09,630
+<i>Wait. Wait. Don't hang up.</i>
+
+16
+00:01:09,714 --> 00:01:12,008
+- What?
+<i>- I want to talk to you for a second.</i>
+
+17
+00:01:12,592 --> 00:01:14,761
+They've got 900 numbers for that. See ya.
+
+18
+00:01:36,574 --> 00:01:37,575
+Hello?
+
+19
+00:01:37,659 --> 00:01:39,660
+<i>Why don't you want to talk to me?</i>
+
+20
+00:01:39,744 --> 00:01:40,744
+Who is this?
+
+21
+00:01:40,828 --> 00:01:42,928
+<i>You tell me your name, I'll tell you mine.</i>
+
+22
+00:01:43,873 --> 00:01:45,083
+I don't think so.
+
+23
+00:01:46,709 --> 00:01:47,918
+<i>What's that noise?</i>
+
+24
+00:01:48,002 --> 00:01:50,046
+- Popcorn.
+<i>- You're making popcorn?</i>
+
+25
+00:01:50,838 --> 00:01:52,882
+<i>I only eat popcorn at the movies.</i>
+
+26
+00:01:52,966 --> 00:01:54,884
+Well, I'm getting ready to watch a video.
+
+27
+00:01:54,968 --> 00:01:56,385
+<i>Really? What?</i>
+
+28
+00:01:56,469 --> 00:01:58,637
+Oh, just some scary movie.
+
+29
+00:01:58,721 --> 00:02:00,264
+<i>You like scary movies?</i>
+
+30
+00:02:01,099 --> 00:02:02,850
+<i>What's your favorite scary movie?</i>
+
+31
+00:02:03,434 --> 00:02:04,476
+I don't know.
+
+32
+00:02:04,560 --> 00:02:07,063
+<i>You have to have a favorite.
+What comes to mind?</i>
+
+33
+00:02:08,982 --> 00:02:10,024
+<i>Halloween.</i>
+
+34
+00:02:10,566 --> 00:02:12,443
+You know, the one
+with the guy in the white mask
+
+35
+00:02:12,527 --> 00:02:14,612
+who walks around and stalks babysitters.
+
+36
+00:02:15,321 --> 00:02:17,197
+<i>- Yeah.</i>
+- What's yours?
+
+37
+00:02:17,281 --> 00:02:18,324
+<i>Guess.</i>
+
+38
+00:02:20,451 --> 00:02:22,036
+<i>Nightmare on Elm Street.</i>
+
+39
+00:02:22,120 --> 00:02:24,663
+<i>Is that the one
+where the guy had knives for fingers?</i>
+
+40
+00:02:24,747 --> 00:02:25,998
+Yeah, Freddy Krueger.
+
+41
+00:02:26,082 --> 00:02:29,668
+<i>Freddy. That's right.
+I like that movie. It was scary.</i>
+
+42
+00:02:29,752 --> 00:02:32,212
+Well, the first one was,
+but the rest sucked.
+
+43
+00:02:32,296 --> 00:02:34,340
+<i>So, you got a boyfriend?</i>
+
+44
+00:02:35,133 --> 00:02:37,801
+Why? You wanna ask me out on a date?
+
+45
+00:02:37,885 --> 00:02:40,346
+<i>Maybe. Do you have a boyfriend?</i>
+
+46
+00:02:41,305 --> 00:02:43,599
+- No.
+<i>- You never told me your name.</i>
+
+47
+00:02:44,100 --> 00:02:45,392
+Why do you want to know my name?
+
+48
+00:02:45,476 --> 00:02:47,526
+<i>'Cause I want to know who I'm looking at.</i>
+
+49
+00:02:49,397 --> 00:02:50,523
+What did you say?
+
+50
+00:02:51,858 --> 00:02:53,943
+<i>I want to know who I'm talking to.</i>
+
+51
+00:02:54,027 --> 00:02:55,277
+That's not what you said.
+
+52
+00:02:55,361 --> 00:02:56,612
+<i>What do you think I said?</i>
+
+53
+00:02:59,866 --> 00:03:01,117
+<i>What?</i>
+
+54
+00:03:02,660 --> 00:03:03,661
+<i>Hello?</i>
+
+55
+00:03:04,996 --> 00:03:06,622
+Look, I gotta go.
+
+56
+00:03:06,706 --> 00:03:08,556
+<i>Wait. I thought we were gonna go out.</i>
+
+57
+00:03:09,083 --> 00:03:11,001
+Nah, I don't think so.
+
+58
+00:03:11,085 --> 00:03:12,295
+<i>Don't hang up on me.</i>
+
+59
+00:03:21,179 --> 00:03:22,263
+Shit.
+
+60
+00:03:24,057 --> 00:03:25,057
+Yes?
+
+61
+00:03:25,141 --> 00:03:27,893
+<i>I told you not to hang up on me.</i>
+
+62
+00:03:27,977 --> 00:03:29,895
+- What do you want?
+<i>- To talk.</i>
+
+63
+00:03:29,979 --> 00:03:32,231
+Well, dial someone else, okay?
+
+64
+00:03:41,866 --> 00:03:43,075
+Listen, asshole...
+
+65
+00:03:43,159 --> 00:03:44,702
+<i>No, you listen, you little bitch!</i>
+
+66
+00:03:44,786 --> 00:03:47,914
+<i>You hang up on me again,
+I'll gut you like a fish, understand?</i>
+
+67
+00:03:50,333 --> 00:03:51,709
+<i>Yeah.</i>
+
+68
+00:03:51,793 --> 00:03:53,752
+Is this some kind of joke?
+
+69
+00:03:53,836 --> 00:03:56,172
+<i>More of a game, really.</i>
+
+70
+00:03:58,091 --> 00:03:59,675
+<i>Can you handle that...</i>
+
+71
+00:04:01,761 --> 00:04:02,887
+<i>Blondie?</i>
+
+72
+00:04:14,273 --> 00:04:15,483
+<i>Can you see me?</i>
+
+73
+00:04:18,444 --> 00:04:22,990
+Listen. I am two seconds away
+from calling the police.
+
+74
+00:04:23,074 --> 00:04:27,327
+<i>They'd never make it in time.
+We're out in the middle of nowhere.</i>
+
+75
+00:04:27,411 --> 00:04:29,038
+What do you want?
+
+76
+00:04:29,122 --> 00:04:32,375
+<i>To see what your insides look like.</i>
+
+77
+00:04:40,716 --> 00:04:41,801
+Who's there?
+
+78
+00:04:43,094 --> 00:04:44,220
+Who's there?
+
+79
+00:04:45,388 --> 00:04:46,848
+I'm calling the police.
+
+80
+00:04:50,101 --> 00:04:51,894
+<i>You should never say, "Who's there?"</i>
+
+81
+00:04:51,978 --> 00:04:54,605
+<i>Don't you watch scary movies?
+It's a death wish.</i>
+
+82
+00:04:55,398 --> 00:04:59,148
+<i>You might as well come out here to
+investigate a strange noise or something.</i>
+
+83
+00:04:59,861 --> 00:05:00,862
+Look
+
+84
+00:05:01,487 --> 00:05:05,199
+you've had your fun now, so I think
+you'd better just leave or else.
+
+85
+00:05:05,283 --> 00:05:06,867
+<i>Or else what?</i>
+
+86
+00:05:06,951 --> 00:05:09,328
+Or else my boyfriend
+will be here any second,
+
+87
+00:05:09,412 --> 00:05:11,663
+and he'll be pissed when he finds out.
+
+88
+00:05:11,747 --> 00:05:13,290
+<i>I thought you didn't have a boyfriend.</i>
+
+89
+00:05:13,374 --> 00:05:15,751
+I lied! I do have a boyfriend,
+
+90
+00:05:15,835 --> 00:05:18,128
+and he'll be here any second,
+so your ass better be gone.
+
+91
+00:05:18,212 --> 00:05:19,297
+<i>Sure.</i>
+
+92
+00:05:20,298 --> 00:05:21,549
+I swear.
+
+93
+00:05:23,092 --> 00:05:27,596
+He's big, and he plays football,
+and he'll kick the shit out of you!
+
+94
+00:05:27,680 --> 00:05:29,306
+<i>I'm getting scared.</i>
+
+95
+00:05:29,390 --> 00:05:30,933
+<i>I'm shaking in my boots.</i>
+
+96
+00:05:31,726 --> 00:05:33,727
+So you'd better just leave.
+
+97
+00:05:33,811 --> 00:05:35,646
+<i>His name wouldn't be...</i>
+
+98
+00:05:35,730 --> 00:05:37,231
+<i>Steve, would it?</i>
+
+99
+00:05:39,567 --> 00:05:41,319
+How do you know his name?
+
+100
+00:05:41,861 --> 00:05:43,738
+<i>Turn on the patio lights</i>
+
+101
+00:05:44,614 --> 00:05:45,615
+<i>again.</i>
+
+102
+00:05:57,543 --> 00:05:58,711
+Oh, God!
+
+103
+00:05:59,712 --> 00:06:01,380
+<i>I wouldn't do that if I were you.</i>
+
+104
+00:06:01,464 --> 00:06:03,382
+- Where are you? Where are you?
+<i>- Guess.</i>
+
+105
+00:06:03,466 --> 00:06:04,925
+Please don't hurt him.
+
+106
+00:06:05,009 --> 00:06:06,552
+<i>That all depends on you.</i>
+
+107
+00:06:06,636 --> 00:06:08,220
+Why are you doing this?
+
+108
+00:06:08,304 --> 00:06:10,764
+<i>- I want to play a game.</i>
+- No.
+
+109
+00:06:10,848 --> 00:06:13,433
+<i>- Then he dies right now.</i>
+- No! No!
+
+110
+00:06:13,517 --> 00:06:14,727
+<i>Which is it?</i>
+
+111
+00:06:15,895 --> 00:06:17,396
+<i>Which is it?</i>
+
+112
+00:06:19,982 --> 00:06:21,942
+What kind of game?
+
+113
+00:06:22,026 --> 00:06:26,030
+<i>Turn off the light.
+You'll see what kind of game.</i>
+
+114
+00:06:26,906 --> 00:06:28,032
+<i>Just do it!</i>
+
+115
+00:06:30,993 --> 00:06:33,955
+Casey! No! No!
+
+116
+00:06:34,538 --> 00:06:36,081
+No! Casey!
+
+117
+00:06:36,165 --> 00:06:37,917
+<i>Here's how we play.</i>
+
+118
+00:06:38,542 --> 00:06:42,504
+<i>I ask a question.
+If you get it right, Steve lives.</i>
+
+119
+00:06:42,588 --> 00:06:44,798
+- Please don't do this.
+<i>- Come on. It'll be fun.</i>
+
+120
+00:06:44,882 --> 00:06:48,635
+- Please. Please.
+<i>- It's an easy category. Movie trivia.</i>
+
+121
+00:06:48,719 --> 00:06:50,846
+<i>I'll even give you a warm-up question.</i>
+
+122
+00:06:50,930 --> 00:06:52,222
+Don't do this. I can't...
+
+123
+00:06:52,306 --> 00:06:55,434
+<i>- Name the killer in</i> Halloween.
+- No.
+
+124
+00:06:55,518 --> 00:06:58,604
+<i>Come on. It's your favorite
+scary movie, remember?</i>
+
+125
+00:06:58,688 --> 00:07:01,106
+<i>He had a white mask.
+He stalked the babysitters.</i>
+
+126
+00:07:01,190 --> 00:07:03,150
+- I don't know.
+<i>- Come on. Yes, you do.</i>
+
+127
+00:07:03,234 --> 00:07:06,570
+- No. Please.
+<i>- What's his name?</i>
+
+128
+00:07:06,654 --> 00:07:09,615
+- I can't think.
+<i>- Steve's counting on you.</i>
+
+129
+00:07:11,409 --> 00:07:13,827
+Michael. Michael Myers.
+
+130
+00:07:13,911 --> 00:07:16,413
+<i>Yes! Very good.</i>
+
+131
+00:07:16,497 --> 00:07:18,207
+<i>Now for the real question.</i>
+
+132
+00:07:18,291 --> 00:07:20,710
+- No!
+<i>- But you're doing so well.</i>
+
+133
+00:07:21,252 --> 00:07:22,586
+<i>We can't stop now.</i>
+
+134
+00:07:22,670 --> 00:07:24,213
+Stop! Leave us alone.
+
+135
+00:07:24,297 --> 00:07:26,966
+<i>Then answer the question. Same category.</i>
+
+136
+00:07:28,175 --> 00:07:30,136
+Oh, please, stop.
+
+137
+00:07:30,886 --> 00:07:33,972
+<i>Name the killer in</i> Friday the 13th.
+
+138
+00:07:34,056 --> 00:07:36,558
+Jason! Jason! Jason!
+
+139
+00:07:36,642 --> 00:07:39,437
+<i>I'm sorry. That's the wrong answer.</i>
+
+140
+00:07:40,271 --> 00:07:42,898
+No, it's not! No, it's not. It was Jason!
+
+141
+00:07:42,982 --> 00:07:45,525
+<i>Afraid not. No way.</i>
+
+142
+00:07:45,609 --> 00:07:49,112
+Listen. It was Jason.
+I saw that movie 20 goddamn times!
+
+143
+00:07:49,196 --> 00:07:52,449
+<i>Then you should know Jason's mother,
+Mrs. Voorhees was the original killer.</i>
+
+144
+00:07:52,533 --> 00:07:55,035
+<i>Jason didn't show up until the sequel.</i>
+
+145
+00:07:55,119 --> 00:07:57,871
+<i>I'm afraid that was a wrong answer.</i>
+
+146
+00:07:57,955 --> 00:07:59,414
+You tricked me.
+
+147
+00:07:59,498 --> 00:08:05,713
+<i>Lucky for you, there's a bonus round,
+but poor Steve. I'm afraid he's out.</i>
+
+148
+00:08:30,988 --> 00:08:34,241
+<i>Hey, we're not finished yet.</i>
+
+149
+00:08:35,951 --> 00:08:38,579
+<i>Final question. Are you ready?</i>
+
+150
+00:08:40,748 --> 00:08:43,083
+Please. Please leave me alone.
+
+151
+00:08:43,167 --> 00:08:44,877
+<i>Answer the question, and I will.</i>
+
+152
+00:08:46,712 --> 00:08:49,548
+<i>What door am I at?</i>
+
+153
+00:08:50,091 --> 00:08:51,258
+What?
+
+154
+00:08:51,342 --> 00:08:55,304
+<i>There are two main doors to your house,
+a front door and the patio doors.</i>
+
+155
+00:08:55,388 --> 00:08:58,140
+<i>If you answer correctly, you live.</i>
+
+156
+00:08:58,224 --> 00:08:59,475
+<i>Very simple.</i>
+
+157
+00:09:00,184 --> 00:09:02,186
+<i>Don't do this. I can't. I won't.</i>
+
+158
+00:09:03,437 --> 00:09:04,855
+<i>Your call.</i>
+
+159
+00:11:28,290 --> 00:11:30,125
+Did you water over here today?
+
+160
+00:11:30,876 --> 00:11:32,586
+No, it was just that water from the rain.
+
+161
+00:11:32,670 --> 00:11:33,837
+They look great, don't they?
+
+162
+00:11:33,921 --> 00:11:35,422
+Don't they smell strong?
+
+163
+00:11:35,506 --> 00:11:37,156
+I told you we could send it back.
+
+164
+00:11:39,927 --> 00:11:41,387
+Mom.
+
+165
+00:11:43,264 --> 00:11:44,807
+- Jesus!
+- What is it?
+
+166
+00:11:58,654 --> 00:11:59,738
+Casey!
+
+167
+00:12:02,992 --> 00:12:04,785
+Oh, God! Oh, God!
+
+168
+00:12:08,539 --> 00:12:10,624
+Casey? Casey?
+
+169
+00:12:11,208 --> 00:12:12,418
+Casey!
+
+170
+00:12:14,920 --> 00:12:16,839
+- Where is she?
+- Call the police.
+
+171
+00:12:22,052 --> 00:12:23,095
+Casey!
+
+172
+00:12:23,762 --> 00:12:25,388
+- Casey, you upstairs?
+- Oh, my God.
+
+173
+00:12:25,472 --> 00:12:26,890
+Casey, baby?
+
+174
+00:12:26,974 --> 00:12:29,309
+<i>- Where is she?
+- She's here.</i>
+
+175
+00:12:29,393 --> 00:12:32,187
+- Mom... Mom...
+<i>- Oh, my God. I can hear her.</i>
+
+176
+00:12:33,522 --> 00:12:34,690
+<i>Where is she?</i>
+
+177
+00:12:37,526 --> 00:12:38,902
+Oh, my God. I can hear her.
+
+178
+00:12:44,241 --> 00:12:45,284
+Get in the car.
+
+179
+00:12:46,118 --> 00:12:48,036
+Drive down to the Mackenzies.
+
+180
+00:12:48,120 --> 00:12:50,080
+No, not my daughter.
+
+181
+00:12:50,164 --> 00:12:51,790
+- Just go.
+- Not my daughter.
+
+182
+00:12:51,874 --> 00:12:53,083
+Call the police.
+
+183
+00:13:40,327 --> 00:13:42,871
+- It's just me.
+- Billy, what the... What're you doing here?
+
+184
+00:13:42,955 --> 00:13:44,331
+- Sorry. Don't hate me.
+- Oh, my God.
+
+185
+00:13:44,415 --> 00:13:45,791
+What, you sleep in that?
+
+186
+00:13:45,875 --> 00:13:49,085
+Yes, I sleep in this. My dad is
+in the other room. You can't be in here.
+
+187
+00:13:49,169 --> 00:13:51,046
+- I'll just stay a sec.
+- No, you can't...
+
+188
+00:13:51,130 --> 00:13:53,256
+Oh, no. You gotta go. Go. Go.
+
+189
+00:13:53,340 --> 00:13:54,842
+What's going on in there?
+
+190
+00:13:55,551 --> 00:13:57,469
+- Are you okay?
+- Can you knock?
+
+191
+00:13:57,553 --> 00:13:59,387
+- I heard screaming.
+- No, you didn't.
+
+192
+00:13:59,471 --> 00:14:00,472
+No?
+
+193
+00:14:02,516 --> 00:14:03,601
+Oh, well.
+
+194
+00:14:04,268 --> 00:14:07,479
+I'm hitting the sack. My flight
+leaves first thing in the morning.
+
+195
+00:14:07,563 --> 00:14:10,663
+Now, the expo runs all weekend,
+so I won't be back till Sunday.
+
+196
+00:14:11,108 --> 00:14:12,943
+There's cash on the table,
+and I'm staying at...
+
+197
+00:14:13,027 --> 00:14:15,028
+- The Hilton.
+- Out at the airport, so call if...
+
+198
+00:14:15,112 --> 00:14:18,812
+- If I need anything. Yeah, I got it.
+- I could've sworn I heard screaming.
+
+199
+00:14:20,868 --> 00:14:22,285
+Have a good trip, okay?
+
+200
+00:14:22,369 --> 00:14:23,579
+Sleep tight, sweetie.
+
+201
+00:14:29,793 --> 00:14:30,794
+Close call.
+
+202
+00:14:30,878 --> 00:14:33,047
+Billy, what are you doing here?
+
+203
+00:14:33,672 --> 00:14:35,222
+Well, it occurred to me that...
+
+204
+00:14:36,008 --> 00:14:37,926
+I've never snuck through
+your bedroom window.
+
+205
+00:14:38,010 --> 00:14:40,595
+Right, and now
+that it's out of your system...
+
+206
+00:14:40,679 --> 00:14:42,598
+I was home watching television, and...
+
+207
+00:14:43,474 --> 00:14:46,518
+<i>The Exorcist</i> was on.
+Got me thinking of you.
+
+208
+00:14:48,062 --> 00:14:49,062
+It did?
+
+209
+00:14:49,146 --> 00:14:51,606
+Yeah. It was edited for TV.
+
+210
+00:14:51,690 --> 00:14:53,990
+You know, all the good stuff
+was cut out and
+
+211
+00:14:54,818 --> 00:14:56,362
+it got me thinking of us.
+
+212
+00:14:57,947 --> 00:15:00,574
+How two years ago,
+we started off hot and heavy.
+
+213
+00:15:01,909 --> 00:15:04,995
+Nice, solid R rating,
+on our way to an NC-17.
+
+214
+00:15:06,580 --> 00:15:09,959
+And how things have changed, and...
+
+215
+00:15:15,631 --> 00:15:18,467
+Lately, we're just
+sort of edited for television.
+
+216
+00:15:20,219 --> 00:15:22,929
+So, you thought
+you would climb in my window,
+
+217
+00:15:23,013 --> 00:15:25,473
+and we'd have a little raw footage?
+
+218
+00:15:25,557 --> 00:15:28,477
+No, no. I wouldn't dream
+of breaking your underwear rule.
+
+219
+00:15:30,854 --> 00:15:32,188
+I just...
+
+220
+00:15:32,272 --> 00:15:35,472
+I thought maybe we could do
+a little on top of the clothes stuff.
+
+221
+00:15:38,445 --> 00:15:39,446
+Okay.
+
+222
+00:15:41,323 --> 00:15:42,324
+Yeah?
+
+223
+00:15:43,075 --> 00:15:44,076
+Yeah.
+
+224
+00:15:58,590 --> 00:15:59,591
+Hey.
+
+225
+00:16:14,898 --> 00:16:18,110
+Okay. Okay, okay. Time's up, stud bucket.
+
+226
+00:16:19,445 --> 00:16:21,071
+You see what you do to me?
+
+227
+00:16:22,948 --> 00:16:24,748
+You know what my dad will do to you?
+
+228
+00:16:25,951 --> 00:16:26,952
+Yeah.
+
+229
+00:16:28,537 --> 00:16:30,039
+- I'm going.
+- Okay.
+
+230
+00:16:35,169 --> 00:16:36,170
+Bye.
+
+231
+00:16:39,256 --> 00:16:42,092
+You know,
+I appreciate the romantic gesture.
+
+232
+00:16:44,678 --> 00:16:47,848
+Hey, about the sex stuff?
+
+233
+00:16:48,474 --> 00:16:50,726
+You know,
+I'm not trying to rush you at all.
+
+234
+00:16:51,310 --> 00:16:52,644
+I was only half-serious.
+
+235
+00:16:54,730 --> 00:16:55,731
+Okay.
+
+236
+00:17:04,615 --> 00:17:05,616
+Hey, Billy.
+
+237
+00:17:07,034 --> 00:17:09,953
+Would you settle for a PG-13 relationship?
+
+238
+00:17:10,746 --> 00:17:11,830
+What's that?
+
+239
+00:17:18,337 --> 00:17:21,590
+My God. You're just a tease.
+
+240
+00:17:29,723 --> 00:17:34,019
+<i>35-14... Situation under control.</i>
+
+241
+00:17:35,395 --> 00:17:37,314
+<i>Roger, dispatch. 35, I copy.</i>
+
+242
+00:17:40,234 --> 00:17:41,276
+All right.
+
+243
+00:17:56,250 --> 00:17:59,252
+...are dealing drugs,
+that they are high in the classrooms,
+
+244
+00:17:59,336 --> 00:18:01,296
+and that they are involved in the occult.
+
+245
+00:18:01,380 --> 00:18:02,381
+Occult?
+
+246
+00:18:03,715 --> 00:18:07,177
+The small town of Woodsboro, California
+was devastated last night
+
+247
+00:18:07,261 --> 00:18:10,055
+when two young teenagers
+were found brutally murdered.
+
+248
+00:18:10,139 --> 00:18:13,641
+Authorities have yet to issue a statement,
+but our sources tell us
+
+249
+00:18:13,725 --> 00:18:16,394
+that no arrest has been made,
+and the murderer could strike again...
+
+250
+00:18:16,478 --> 00:18:19,314
+- Do you believe this shit?
+- Tatum, what is going on?
+
+251
+00:18:19,398 --> 00:18:20,732
+- You don't know?
+- No.
+
+252
+00:18:21,441 --> 00:18:24,527
+Casey Becker and Steve Orth
+were killed last night.
+
+253
+00:18:24,611 --> 00:18:25,945
+What? No way.
+
+254
+00:18:26,029 --> 00:18:29,032
+And we're not just talking killed,
+we're talking splatter-movie killed,
+
+255
+00:18:29,116 --> 00:18:31,284
+ripped open from end to end.
+
+256
+00:18:31,368 --> 00:18:33,870
+Casey Becker?
+She sits next to me in English.
+
+257
+00:18:33,954 --> 00:18:35,080
+Not anymore.
+
+258
+00:18:35,164 --> 00:18:38,249
+It's so sad. Her mom and dad
+found her hanging from a tree,
+
+259
+00:18:38,333 --> 00:18:39,626
+her insides on the outside.
+
+260
+00:18:39,710 --> 00:18:42,671
+Oh, my God. Do they know who did it?
+
+261
+00:18:43,380 --> 00:18:46,382
+Fucking clueless. I mean,
+they're interrogating the entire school,
+
+262
+00:18:46,466 --> 00:18:47,801
+teachers, students, janitors.
+
+263
+00:18:47,885 --> 00:18:50,220
+- They think it's school-related?
+- They don't know.
+
+264
+00:18:50,304 --> 00:18:54,354
+Dewey was saying this is the worst crime
+they've seen in years, even worse than...
+
+265
+00:18:55,225 --> 00:18:56,226
+Well...
+
+266
+00:18:57,019 --> 00:18:58,061
+It's bad.
+
+267
+00:19:03,567 --> 00:19:05,867
+- Here you go, Mrs. Taylor.
+- Thank you, Jimmy.
+
+268
+00:19:09,281 --> 00:19:10,282
+Sidney?
+
+269
+00:19:11,742 --> 00:19:13,994
+It would appear to be your turn.
+
+270
+00:19:17,623 --> 00:19:18,957
+Who's up next?
+
+271
+00:19:19,041 --> 00:19:20,491
+- Sidney Prescott.
+- Prescott.
+
+272
+00:19:21,251 --> 00:19:22,961
+She was daughter of...
+
+273
+00:19:25,672 --> 00:19:28,049
+- Sidney. Thank you.
+- Okay.
+
+274
+00:19:28,133 --> 00:19:29,218
+Hi, Sidney.
+
+275
+00:19:30,385 --> 00:19:31,887
+Sheriff Burke. Dewey.
+
+276
+00:19:32,763 --> 00:19:34,848
+That's Deputy Riley today, Sid.
+
+277
+00:19:36,475 --> 00:19:38,017
+How is everything?
+
+278
+00:19:38,101 --> 00:19:39,102
+Good.
+
+279
+00:19:39,186 --> 00:19:41,271
+And your dad? How's he doing?
+
+280
+00:19:41,355 --> 00:19:43,189
+We're fine, thanks.
+
+281
+00:19:43,273 --> 00:19:45,323
+We're gonna keep this very brief, Sidney.
+
+282
+00:19:45,776 --> 00:19:48,526
+The police just wanna ask you
+a few questions. You okay?
+
+283
+00:19:49,488 --> 00:19:52,282
+Sidney, were you very close
+to Casey Becker?
+
+284
+00:19:52,824 --> 00:19:56,369
+<i>Remember, your principal loves you,
+and I want you to be safe.</i>
+
+285
+00:19:56,453 --> 00:20:00,123
+<i>All students are encouraged to return to
+their homes promptly from school grounds.</i>
+
+286
+00:20:00,207 --> 00:20:02,041
+<i>Avoid strangers
+and walk in twos and threes...</i>
+
+287
+00:20:02,125 --> 00:20:05,336
+- How many questions did they ask you, Sid?
+- Well, they asked me if I knew Casey.
+
+288
+00:20:05,420 --> 00:20:08,214
+- Yeah, they asked me that, too.
+- Hey, did they ask if you like to hunt?
+
+289
+00:20:08,298 --> 00:20:09,925
+Yeah, they did. They ask you?
+
+290
+00:20:10,592 --> 00:20:13,094
+Hunt? Why would they ask you
+if you like to hunt?
+
+291
+00:20:13,178 --> 00:20:14,828
+Because their bodies were gutted.
+
+292
+00:20:16,098 --> 00:20:17,265
+Thank you, Randy.
+
+293
+00:20:17,349 --> 00:20:18,892
+They didn't ask me if I liked to hunt.
+
+294
+00:20:18,976 --> 00:20:21,019
+That's 'cause there's no way
+a girl could've killed them.
+
+295
+00:20:21,103 --> 00:20:22,103
+That is so sexist.
+
+296
+00:20:22,187 --> 00:20:24,731
+The killer could easily be female.
+<i>Basic Instinct?</i>
+
+297
+00:20:24,815 --> 00:20:27,150
+That was an ice pick.
+Not exactly the same thing.
+
+298
+00:20:27,234 --> 00:20:29,777
+Yeah, Casey and Steve
+were completely hollowed out.
+
+299
+00:20:29,861 --> 00:20:32,906
+And the fact is, it takes a man
+to do something like that.
+
+300
+00:20:32,990 --> 00:20:34,365
+Or a man's mentality.
+
+301
+00:20:34,449 --> 00:20:36,910
+How do you gut someone?
+
+302
+00:20:40,289 --> 00:20:41,957
+You take a knife,
+
+303
+00:20:42,791 --> 00:20:45,668
+and you slit them from groin to sternum.
+
+304
+00:20:45,752 --> 00:20:48,422
+Hey, it's called tact, you fuckrag.
+
+305
+00:20:49,214 --> 00:20:51,550
+Hey, Stu, didn't you used to date Casey?
+
+306
+00:20:52,217 --> 00:20:53,801
+Yeah, for, like, two seconds.
+
+307
+00:20:53,885 --> 00:20:55,803
+Before she dumped him for Steve.
+
+308
+00:20:55,887 --> 00:20:58,473
+- I thought you dumped her for me?
+- I did. He's full of shit.
+
+309
+00:20:58,557 --> 00:21:00,857
+Are the police aware
+that you dated the victim?
+
+310
+00:21:01,018 --> 00:21:03,561
+Hey, what are you saying?
+That I killed her?
+
+311
+00:21:03,645 --> 00:21:05,605
+It would certainly improve
+your high school "Q."
+
+312
+00:21:05,689 --> 00:21:08,316
+Stu was with me last night. Okay?
+
+313
+00:21:08,400 --> 00:21:09,526
+Yeah, I was.
+
+314
+00:21:10,319 --> 00:21:13,154
+Was that before or after
+he sliced and diced?
+
+315
+00:21:13,238 --> 00:21:15,281
+Fuck you, nutcase.
+Where were you last night?
+
+316
+00:21:15,365 --> 00:21:16,824
+Working, thank you.
+
+317
+00:21:16,908 --> 00:21:19,202
+At the video store?
+I thought they fired your sorry ass.
+
+318
+00:21:19,286 --> 00:21:20,370
+Twice.
+
+319
+00:21:22,164 --> 00:21:23,498
+I didn't kill anybody.
+
+320
+00:21:23,582 --> 00:21:25,167
+Nobody said you did.
+
+321
+00:21:25,917 --> 00:21:26,918
+Thanks, buddy.
+
+322
+00:21:27,544 --> 00:21:32,048
+Besides, it takes a man
+to do something like that.
+
+323
+00:21:32,132 --> 00:21:34,509
+Yo, I'm gonna gut your ass
+in a second, kid.
+
+324
+00:21:34,593 --> 00:21:37,720
+Tell me something, did you really put
+her liver in the mailbox?
+
+325
+00:21:37,804 --> 00:21:40,014
+'Cause I heard that they found her liver
+in the mailbox
+
+326
+00:21:40,098 --> 00:21:41,683
+next to her spleen and her pancreas.
+
+327
+00:21:41,767 --> 00:21:44,310
+Randy, you goon-fuck,
+I'm trying to eat here.
+
+328
+00:21:44,394 --> 00:21:45,937
+She's getting mad, Randy.
+
+329
+00:21:46,480 --> 00:21:47,981
+You better "liver" alone.
+
+330
+00:21:50,776 --> 00:21:52,319
+Liver alone!
+
+331
+00:21:57,616 --> 00:22:00,035
+Liver, liver! Live? It was a joke.
+
+332
+00:22:05,957 --> 00:22:07,166
+See you, Sidney.
+
+333
+00:22:07,250 --> 00:22:08,800
+I'll talk to you tomorrow, Sid.
+
+334
+00:22:32,150 --> 00:22:35,550
+So you sure I can stay over?
+'Cause my dad won't be back till Sunday.
+
+335
+00:22:36,071 --> 00:22:38,121
+<i>No prob. I'll pick you up after practice.</i>
+
+336
+00:22:39,950 --> 00:22:40,951
+<i>You okay?</i>
+
+337
+00:22:43,245 --> 00:22:45,788
+It's just, you know,
+the police and reporters and everything,
+
+338
+00:22:45,872 --> 00:22:48,082
+it's like déjà vu all over again.
+
+339
+00:22:48,166 --> 00:22:50,543
+<i>I'll be there by 7.-00, I promise.</i>
+
+340
+00:22:50,627 --> 00:22:52,462
+- Thanks, Tatum.
+<i>- Later.</i>
+
+341
+00:23:40,844 --> 00:23:44,555
+<i>...the bodies of 17.-year-old Casey Becker
+and her 18-year-old boyfriend Steven Orth</i>
+
+342
+00:23:44,639 --> 00:23:46,682
+<i>were discovered late last night
+by the girl's...</i>
+
+343
+00:23:46,766 --> 00:23:48,684
+<i>The Woodsboro double-murder case.</i>
+
+344
+00:23:48,768 --> 00:23:51,818
+<i>Authorities are baffled
+by the lack of clues and the savage...</i>
+
+345
+00:23:52,355 --> 00:23:55,900
+<i>The town's in shock, and no one
+can quite believe what has happened here.</i>
+
+346
+00:23:55,984 --> 00:23:58,945
+<i>Although this is not the first time
+this small community of Woodsboro</i>
+
+347
+00:23:59,029 --> 00:24:00,863
+<i>has endured such tragedy.</i>
+
+348
+00:24:00,947 --> 00:24:03,866
+<i>Only a year ago, Maureen Prescott,
+wife and mother,</i>
+
+349
+00:24:03,950 --> 00:24:07,704
+<i>was found raped and murdered
+not far from this peaceful town square.</i>
+
+350
+00:25:18,567 --> 00:25:19,650
+Hello?
+
+351
+00:25:19,734 --> 00:25:21,778
+<i>Practice ran late. I'm on my way, okay?</i>
+
+352
+00:25:24,447 --> 00:25:25,948
+It's past 7:00.
+
+353
+00:25:26,032 --> 00:25:29,282
+<i>Don't worry. Casey and Steve
+didn't bite it till way after 10.:00.</i>
+
+354
+00:25:30,453 --> 00:25:31,996
+That's comforting.
+
+355
+00:25:32,080 --> 00:25:33,789
+<i>I'm gonna swing by the video store.</i>
+
+356
+00:25:33,873 --> 00:25:35,958
+<i>I was thinking Tom Cruise
+in</i> All the Right Moves.
+
+357
+00:25:36,042 --> 00:25:38,753
+<i>You know, if you pause it just right,
+you can see his penis.</i>
+
+358
+00:25:38,837 --> 00:25:40,671
+Whatever. Just hurry, okay?
+
+359
+00:25:40,755 --> 00:25:41,965
+<i>Ta-ta, Sid.</i>
+
+360
+00:25:52,851 --> 00:25:54,310
+Tatum, just get in the car...
+
+361
+00:25:54,394 --> 00:25:55,520
+<i>Hello, Sidney.</i>
+
+362
+00:25:59,357 --> 00:26:00,900
+Hi. Who is this?
+
+363
+00:26:00,984 --> 00:26:02,110
+<i>You tell me.</i>
+
+364
+00:26:05,280 --> 00:26:07,281
+Well, I have no idea.
+
+365
+00:26:07,365 --> 00:26:09,033
+<i>Scary night, isn't it?</i>
+
+366
+00:26:09,117 --> 00:26:13,371
+<i>With the murders and all, it's like
+right out of a horror movie or something.</i>
+
+367
+00:26:14,914 --> 00:26:16,415
+Randy, you gave yourself away.
+
+368
+00:26:16,499 --> 00:26:19,085
+Are you calling from work?
+'Cause Tatum's on her way over.
+
+369
+00:26:19,169 --> 00:26:22,171
+<i>Do you like scary movies, Sidney?</i>
+
+370
+00:26:22,255 --> 00:26:24,423
+I like that thing you're doing
+with your voice, Randy.
+
+371
+00:26:24,507 --> 00:26:25,800
+It's sexy.
+
+372
+00:26:25,884 --> 00:26:28,386
+<i>What's your favorite scary movie?</i>
+
+373
+00:26:28,470 --> 00:26:30,304
+Oh, come on.
+You know I don't watch that shit.
+
+374
+00:26:30,388 --> 00:26:32,348
+<i>Why not? Too scared?</i>
+
+375
+00:26:32,432 --> 00:26:35,309
+No. No. It's just, what's the point?
+They're all the same.
+
+376
+00:26:35,393 --> 00:26:38,312
+Some stupid killer stalking some
+big-breasted girl who can't act,
+
+377
+00:26:38,396 --> 00:26:39,647
+who's always running up the stairs
+
+378
+00:26:39,731 --> 00:26:42,316
+when she should be going out
+the front door. It's insulting.
+
+379
+00:26:42,400 --> 00:26:45,361
+<i>Are you alone in the house?</i>
+
+380
+00:26:45,445 --> 00:26:48,281
+Randy, that's so unoriginal.
+I'm disappointed in you.
+
+381
+00:26:48,365 --> 00:26:51,534
+<i>Maybe that's because I'm not Randy.</i>
+
+382
+00:26:59,376 --> 00:27:00,710
+So, who are you?
+
+383
+00:27:00,794 --> 00:27:06,132
+<i>The question isn't, "Who am I?"
+The question is, "Where am I?"</i>
+
+384
+00:27:07,884 --> 00:27:10,303
+So, where are you?
+
+385
+00:27:10,387 --> 00:27:12,138
+<i>Your front porch.</i>
+
+386
+00:27:16,643 --> 00:27:19,145
+Why would you be calling
+from my front porch?
+
+387
+00:27:19,229 --> 00:27:21,147
+<i>That's the original part.</i>
+
+388
+00:27:23,316 --> 00:27:24,359
+Oh, yeah?
+
+389
+00:27:28,655 --> 00:27:29,864
+Well, I call your bluff.
+
+390
+00:27:43,169 --> 00:27:44,587
+So where are you?
+
+391
+00:27:44,671 --> 00:27:46,005
+<i>Right here.</i>
+
+392
+00:28:19,038 --> 00:28:20,373
+Can you see me right now?
+
+393
+00:28:22,125 --> 00:28:24,294
+Okay. What am I doing?
+
+394
+00:28:27,172 --> 00:28:29,507
+What am I doing? Hello?
+
+395
+00:28:31,926 --> 00:28:32,968
+Nice try, Randy.
+
+396
+00:28:33,052 --> 00:28:35,304
+Tell Tatum to hurry up, okay? Bye, now.
+
+397
+00:28:35,388 --> 00:28:38,138
+<i>If you hang up on me,
+you'll die, just like your mother!</i>
+
+398
+00:28:39,809 --> 00:28:42,520
+<i>Do you want to die, Sidney?</i>
+
+399
+00:28:42,604 --> 00:28:44,856
+<i>Your mother sure didn't.</i>
+
+400
+00:28:46,191 --> 00:28:47,901
+Fuck you, you cretin.
+
+401
+00:29:17,472 --> 00:29:19,057
+No!
+
+402
+00:29:45,959 --> 00:29:46,960
+Come on.
+
+403
+00:29:49,087 --> 00:29:50,129
+Shit!
+
+404
+00:30:06,187 --> 00:30:07,813
+Billy!
+
+405
+00:30:07,897 --> 00:30:10,065
+Door's locked.
+I heard screaming. You all right?
+
+406
+00:30:10,149 --> 00:30:12,193
+The killer's here. He's in the house.
+
+407
+00:30:12,277 --> 00:30:15,029
+No, he's in the house.
+He's gonna... He's gonna kill us.
+
+408
+00:30:15,113 --> 00:30:16,406
+He's gone.
+
+409
+00:30:17,073 --> 00:30:18,074
+He's gone.
+
+410
+00:30:18,575 --> 00:30:19,701
+It's all right.
+
+411
+00:30:30,628 --> 00:30:31,629
+What?
+
+412
+00:30:35,758 --> 00:30:36,759
+Sid, what?
+
+413
+00:30:40,096 --> 00:30:41,096
+Wait, wait, wait!
+
+414
+00:30:41,180 --> 00:30:43,057
+Sidney, wait!
+Wait, wait, wait, wait, wait!
+
+415
+00:30:43,141 --> 00:30:45,476
+Come on! Sidney, come back!
+
+416
+00:30:46,144 --> 00:30:47,270
+Sidney!
+
+417
+00:30:52,191 --> 00:30:54,485
+Sorry. I found this.
+
+418
+00:30:55,320 --> 00:30:56,654
+Come on!
+
+419
+00:30:56,738 --> 00:30:58,072
+All right, hold your hands together!
+
+420
+00:30:58,156 --> 00:31:00,324
+Do you wish to give up
+your right to remain silent?
+
+421
+00:31:00,408 --> 00:31:01,534
+I didn't do anything.
+
+422
+00:31:01,618 --> 00:31:03,869
+Do you wish to give up
+your right to speak to an attorney
+
+423
+00:31:03,953 --> 00:31:05,663
+and have him present during questioning?
+
+424
+00:31:05,747 --> 00:31:07,040
+Ask her. She'll tell you.
+
+425
+00:31:07,916 --> 00:31:09,834
+- Ask her.
+- What have you got, Dewey?
+
+426
+00:31:09,918 --> 00:31:11,085
+- I caught him, Sheriff.
+- Wait!
+
+427
+00:31:11,169 --> 00:31:12,837
+- Who is that?
+- Billy Loomis.
+
+428
+00:31:12,921 --> 00:31:16,132
+Sir... Sheriff, call these guys off.
+I didn't do it.
+
+429
+00:31:17,884 --> 00:31:20,636
+Sheriff, wait, wait. Listen. Call my dad.
+
+430
+00:31:20,720 --> 00:31:23,389
+Please call him.
+He'll tell you. Just call him.
+
+431
+00:31:23,473 --> 00:31:26,433
+Sidney! Sidney!
+
+432
+00:31:26,517 --> 00:31:28,967
+- How's she doing?
+- Sid's tougher than she looks.
+
+433
+00:31:29,437 --> 00:31:31,480
+You'd have to be,
+all the shit she's been through.
+
+434
+00:31:31,564 --> 00:31:32,941
+Sid!
+
+435
+00:31:33,608 --> 00:31:35,735
+Well, we're seeing a lot of you today.
+
+436
+00:31:36,611 --> 00:31:39,530
+You gonna be able to come to the station
+and answer a few questions, Sid?
+
+437
+00:31:39,614 --> 00:31:40,948
+Oh, shit. Sidney!
+
+438
+00:31:41,032 --> 00:31:43,117
+God, Sid, I'm so sorry I was late.
+Are you all right?
+
+439
+00:31:43,201 --> 00:31:45,369
+Tatum, you can't be here.
+This is an official crime scene.
+
+440
+00:31:45,453 --> 00:31:46,620
+It's okay.
+
+441
+00:31:46,704 --> 00:31:49,665
+Her dad's out of town, all right?
+She's staying with us tonight.
+
+442
+00:31:49,749 --> 00:31:52,251
+- Does Mom know?
+- Yes, doofus.
+
+443
+00:31:52,335 --> 00:31:54,585
+- Let's get you out of here.
+- She'll be okay.
+
+444
+00:31:55,171 --> 00:31:57,339
+- Come on, Sid.
+- You won't believe this.
+
+445
+00:31:57,423 --> 00:31:58,466
+What?
+
+446
+00:32:01,552 --> 00:32:02,679
+Creepy, huh?
+
+447
+00:32:12,105 --> 00:32:13,355
+- I'll be damned.
+- What?
+
+448
+00:32:13,439 --> 00:32:15,149
+Jesus, the camera! Hurry!
+
+449
+00:32:15,233 --> 00:32:16,776
+My name isn't Jesus.
+
+450
+00:32:19,153 --> 00:32:20,696
+Sidney, is that you in there?
+
+451
+00:32:20,780 --> 00:32:22,740
+Excuse me, is that Sidney Prescott
+they took away?
+
+452
+00:32:22,824 --> 00:32:23,991
+I'm not talking to you.
+
+453
+00:32:24,075 --> 00:32:26,160
+- What happened to her?
+- None of your damn business.
+
+454
+00:32:26,244 --> 00:32:28,704
+I heard something about a costume.
+Is that true?
+
+455
+00:32:28,788 --> 00:32:30,497
+Can you tell me anything?
+
+456
+00:32:30,581 --> 00:32:34,002
+Yeah, you're a real pain in the ass.
+Leave Sid alone.
+
+457
+00:32:35,044 --> 00:32:36,170
+Where's she going?
+
+458
+00:32:38,131 --> 00:32:40,633
+- Look... Kenny?
+- Yeah?
+
+459
+00:32:40,717 --> 00:32:43,344
+I know that you're about
+50 pounds overweight,
+
+460
+00:32:43,428 --> 00:32:45,137
+but when I say hurry,
+
+461
+00:32:45,221 --> 00:32:49,767
+please interpret that as
+move your fat, tub-of-lard ass now!
+
+462
+00:32:53,438 --> 00:32:54,522
+Did you find him?
+
+463
+00:32:56,024 --> 00:32:57,524
+You're sure it was the Hilton?
+
+464
+00:32:57,942 --> 00:32:59,068
+At the airport.
+
+465
+00:33:01,195 --> 00:33:02,530
+He's not registered there.
+
+466
+00:33:04,407 --> 00:33:06,207
+Could he have stayed somewhere else?
+
+467
+00:33:07,118 --> 00:33:09,162
+I don't know. I guess.
+
+468
+00:33:11,456 --> 00:33:12,457
+Don't worry, Sid.
+
+469
+00:33:13,166 --> 00:33:14,291
+We'll find him.
+
+470
+00:33:14,375 --> 00:33:15,825
+Dewey, they got that mask in.
+
+471
+00:33:17,045 --> 00:33:19,088
+- Roger, dispatch.
+- I'll be right back.
+
+472
+00:33:27,305 --> 00:33:28,931
+Let me ask you this,
+
+473
+00:33:29,015 --> 00:33:31,465
+what are you doing
+with a cellular telephone, Son?
+
+474
+00:33:32,185 --> 00:33:33,853
+Everybody's got one, Sheriff.
+
+475
+00:33:34,896 --> 00:33:36,897
+I didn't make those calls. I swear.
+
+476
+00:33:36,981 --> 00:33:40,025
+Why don't you check the phone bill,
+for Christ's sake. Call Vital Phone Comp.
+
+477
+00:33:40,109 --> 00:33:43,959
+- They got records of every number dialed.
+- Thanks, Hank. We're on top of it.
+
+478
+00:33:44,989 --> 00:33:47,489
+What were you doing over
+at Sidney's house tonight?
+
+479
+00:33:48,117 --> 00:33:49,785
+I wanted to see her, that's all.
+
+480
+00:33:49,869 --> 00:33:53,622
+And last night? Sidney said you crawled
+through her window last night, too.
+
+481
+00:33:53,706 --> 00:33:55,041
+You went out last night?
+
+482
+00:33:56,918 --> 00:34:00,671
+I was watching TV. I got bored.
+I decided to go for a ride.
+
+483
+00:34:00,755 --> 00:34:02,548
+You happen to ride by
+Casey Becker's house?
+
+484
+00:34:02,632 --> 00:34:05,384
+No. No, I didn't.
+
+485
+00:34:05,468 --> 00:34:07,678
+Sheriff, I didn't kill anybody.
+
+486
+00:34:13,017 --> 00:34:16,317
+We're gonna have to hold you, Son,
+till we get those phone records.
+
+487
+00:34:19,357 --> 00:34:20,566
+This is crazy.
+
+488
+00:34:22,235 --> 00:34:24,654
+You know that? I didn't do it.
+
+489
+00:34:36,124 --> 00:34:37,458
+- Camera two!
+- No, I do!
+
+490
+00:34:37,542 --> 00:34:38,625
+- Okay!
+- Yeah.
+
+491
+00:34:38,709 --> 00:34:40,459
+Are there any more donuts in there?
+
+492
+00:34:41,087 --> 00:34:42,296
+Move it, Kenny.
+
+493
+00:34:42,380 --> 00:34:45,130
+- They're not letting anybody in.
+- I'm not just anyone.
+
+494
+00:34:45,508 --> 00:34:46,508
+Bitch goddess.
+
+495
+00:34:46,592 --> 00:34:48,260
+- Kenny, are we on?
+- Yeah, go.
+
+496
+00:34:48,344 --> 00:34:51,180
+Hi. Gale Weathers reporting live
+from the Woodsboro Police Station,
+
+497
+00:34:51,264 --> 00:34:53,515
+where we hope to get a glimpse
+of Sidney Prescott.
+
+498
+00:34:53,599 --> 00:34:54,683
+Hey, watch her, Larry!
+
+499
+00:34:54,767 --> 00:34:57,102
+Hey, watch the hand.
+You know who you're dealing with here?
+
+500
+00:34:57,186 --> 00:35:00,189
+Tell them. Come on, Dad. Tell them.
+
+501
+00:35:00,773 --> 00:35:02,566
+- Sidney...
+- Just wait for the lawyer, Billy.
+
+502
+00:35:02,650 --> 00:35:04,902
+- Sidney, come on. You know me.
+- Come on, come on.
+
+503
+00:35:04,986 --> 00:35:07,436
+- Sidney, look at me!
+- Don't give us any trouble.
+
+504
+00:35:07,822 --> 00:35:08,823
+Come on!
+
+505
+00:35:14,579 --> 00:35:18,332
+Sid, I'm gonna get you out of here, okay?
+You okay?
+
+506
+00:35:20,501 --> 00:35:23,837
+They sell this costume
+in every five-and-dime in the state.
+
+507
+00:35:23,921 --> 00:35:25,965
+There's no way to track the purchase.
+
+508
+00:35:27,258 --> 00:35:28,926
+What about that cellular phone bill?
+
+509
+00:35:29,010 --> 00:35:31,095
+Well, we're pulling Loomis's account.
+
+510
+00:35:31,179 --> 00:35:33,180
+We won't know anything until the morning.
+
+511
+00:35:33,264 --> 00:35:34,348
+Oh, come on!
+
+512
+00:35:36,309 --> 00:35:37,351
+You think he did it?
+
+513
+00:35:37,435 --> 00:35:40,437
+Twenty years ago,
+I would've said not a chance.
+
+514
+00:35:40,521 --> 00:35:42,273
+But these kids today
+
+515
+00:35:43,816 --> 00:35:44,900
+damned if I know.
+
+516
+00:35:44,984 --> 00:35:46,735
+Hey, Dewey, can we go now?
+
+517
+00:35:46,819 --> 00:35:48,195
+Hold on a second.
+
+518
+00:35:48,279 --> 00:35:49,947
+Goddamn it, Dewey!
+
+519
+00:35:50,573 --> 00:35:51,907
+What did Mom tell you?
+
+520
+00:35:51,991 --> 00:35:54,326
+When I wear this badge,
+you treat me like a man of the law.
+
+521
+00:35:54,410 --> 00:35:58,122
+I'm sorry, Deputy Dewey boy,
+but we're ready to go. Now, okay?
+
+522
+00:36:00,124 --> 00:36:02,874
+Take them out the back way.
+Avoid that circus out there.
+
+523
+00:36:03,336 --> 00:36:04,461
+Go on, big brother.
+
+524
+00:36:04,545 --> 00:36:06,130
+- Come on.
+- Don't touch me.
+
+525
+00:36:06,923 --> 00:36:08,048
+He's my superior.
+
+526
+00:36:08,132 --> 00:36:09,884
+The janitor's your superior.
+
+527
+00:36:12,970 --> 00:36:14,513
+Let's get back to work!
+
+528
+00:36:20,645 --> 00:36:22,688
+Isn't there a back way out of this place?
+
+529
+00:36:22,772 --> 00:36:24,690
+Yeah. Down that alley, I think.
+
+530
+00:36:29,111 --> 00:36:31,029
+You guys just stay here.
+I'm gonna get the car.
+
+531
+00:36:31,113 --> 00:36:32,663
+Don't move. Don't make a sound.
+
+532
+00:36:35,451 --> 00:36:37,119
+There she is. Sidney!
+
+533
+00:36:38,454 --> 00:36:41,373
+Hi. Some night. What happened?
+Are you all right?
+
+534
+00:36:41,457 --> 00:36:43,500
+She's not answering any questions.
+Leave us alone.
+
+535
+00:36:43,584 --> 00:36:46,336
+No. No, Tatum. It's okay.
+She's just doing her job, right, Gale?
+
+536
+00:36:46,420 --> 00:36:48,047
+Yes, that's right.
+
+537
+00:36:48,839 --> 00:36:49,840
+So how's the book?
+
+538
+00:36:50,424 --> 00:36:52,174
+Well, it'll be out later this year.
+
+539
+00:36:53,094 --> 00:36:54,261
+I'll look for it.
+
+540
+00:36:54,345 --> 00:36:55,888
+I'll send you a copy.
+
+541
+00:36:58,057 --> 00:36:59,058
+Geez.
+
+542
+00:37:00,643 --> 00:37:02,060
+- Nice shot.
+- Bitch.
+
+543
+00:37:02,144 --> 00:37:05,814
+- No, I mean, the camera. Nice shot.
+- Where'd you learn to punch like that?
+
+544
+00:37:05,898 --> 00:37:10,069
+God, I loved it. "I'll send you a copy."
+Bam! Bitch went down.
+
+545
+00:37:10,778 --> 00:37:16,241
+"I'll send you a copy." Bam!
+Sid, superbitch! You are so cool.
+
+546
+00:37:16,325 --> 00:37:18,875
+Thought you might want some ice
+for that right hook.
+
+547
+00:37:19,495 --> 00:37:20,496
+Thanks.
+
+548
+00:37:21,247 --> 00:37:24,416
+I'll be right next door.
+Try to get some sleep.
+
+549
+00:37:24,500 --> 00:37:25,626
+Yeah, yeah.
+
+550
+00:37:31,841 --> 00:37:33,509
+Do you really think Billy did it?
+
+551
+00:37:35,094 --> 00:37:36,262
+He was there, Tatum.
+
+552
+00:37:38,264 --> 00:37:41,350
+He was destined to have a flaw.
+I knew he was too perfect.
+
+553
+00:37:43,811 --> 00:37:44,811
+Telephone, honey.
+
+554
+00:37:44,895 --> 00:37:46,605
+- Who is it?
+- It's for Sid.
+
+555
+00:37:46,689 --> 00:37:47,690
+My dad?
+
+556
+00:37:48,274 --> 00:37:49,733
+I don't think so.
+
+557
+00:37:49,817 --> 00:37:52,528
+- Take a message.
+- No. I'll get it.
+
+558
+00:37:56,866 --> 00:37:58,075
+How's she doing?
+
+559
+00:38:01,954 --> 00:38:02,996
+Hello?
+
+560
+00:38:03,080 --> 00:38:05,124
+<i>Hello, Sidney.</i>
+
+561
+00:38:06,459 --> 00:38:07,584
+No!
+
+562
+00:38:07,668 --> 00:38:09,711
+<i>Poor Billy boyfriend.</i>
+
+563
+00:38:09,795 --> 00:38:12,381
+<i>An innocent guy
+doesn't stand a chance with you.</i>
+
+564
+00:38:12,465 --> 00:38:13,715
+Leave me alone!
+
+565
+00:38:13,799 --> 00:38:15,968
+<i>Looks like you fingered the wrong guy...</i>
+
+566
+00:38:16,052 --> 00:38:17,177
+- Dewey!
+<i>- ...again.</i>
+
+567
+00:38:17,261 --> 00:38:18,637
+- Who are you?
+- Dewey!
+
+568
+00:38:18,721 --> 00:38:22,474
+- Hang up, Sid.
+<i>- Don't worry. You'll find out soon enough.</i>
+
+569
+00:38:22,558 --> 00:38:24,143
+<i>- I promise.</i>
+- Dewey!
+
+570
+00:38:27,104 --> 00:38:28,147
+What?
+
+571
+00:38:31,025 --> 00:38:32,735
+- "What?"
+- What?
+
+572
+00:38:38,699 --> 00:38:39,700
+Hello?
+
+573
+00:38:50,878 --> 00:38:54,756
+<i>Sidney Prescott, who escaped
+a vicious attack last night,</i>
+
+574
+00:38:54,840 --> 00:38:58,385
+<i>is the daughter of Maureen Prescott,
+who was brutally killed last year</i>
+
+575
+00:38:58,469 --> 00:39:01,305
+<i>when convicted murderer Cotton Weary
+broke into their home</i>
+
+576
+00:39:01,389 --> 00:39:03,724
+<i>and savagely raped and tortured
+the deceased.</i>
+
+577
+00:39:04,433 --> 00:39:07,811
+<i>Cotton Weary is currently awaiting appeal
+for the death sentence handed down</i>
+
+578
+00:39:07,895 --> 00:39:10,522
+<i>after the young Sidney
+testified against him.</i>
+
+579
+00:39:10,606 --> 00:39:13,456
+<i>She was the key witness
+in the state's case against the...</i>
+
+580
+00:39:15,945 --> 00:39:18,114
+It's never gonna stop, is it?
+
+581
+00:39:19,490 --> 00:39:20,908
+Billy was released.
+
+582
+00:39:22,118 --> 00:39:25,537
+His cellular bill was clean.
+He didn't make those calls.
+
+583
+00:39:25,621 --> 00:39:28,415
+We're checking every cellular account
+in the county.
+
+584
+00:39:28,499 --> 00:39:32,002
+Any calls made to you or Casey Becker
+are being cross-referenced.
+
+585
+00:39:32,711 --> 00:39:35,297
+It's gonna take some time,
+but we'll find him.
+
+586
+00:39:37,091 --> 00:39:38,092
+Okay?
+
+587
+00:39:55,109 --> 00:39:57,609
+Don't worry, Sid. It's school.
+You'll be safe here.
+
+588
+00:39:57,862 --> 00:39:59,905
+How does it feel
+to be almost brutally butchered?
+
+589
+00:39:59,989 --> 00:40:01,323
+Hey! Hey, now, leave her alone.
+
+590
+00:40:01,407 --> 00:40:03,283
+People want to know!
+They have a right to know!
+
+591
+00:40:03,367 --> 00:40:05,035
+- Leave her alone.
+- How does it feel?
+
+592
+00:40:05,119 --> 00:40:07,913
+She just wants to get an education.
+Turn that thing off.
+
+593
+00:40:09,748 --> 00:40:10,833
+What?
+
+594
+00:40:13,127 --> 00:40:14,128
+Just a sec.
+
+595
+00:40:25,306 --> 00:40:26,431
+Stop right there.
+
+596
+00:40:26,515 --> 00:40:28,809
+I'm not here to fight.
+I just need to talk.
+
+597
+00:40:28,893 --> 00:40:30,685
+Kenny, camera, now.
+
+598
+00:40:30,769 --> 00:40:32,521
+- Off the record. No cameras.
+- Forget it.
+
+599
+00:40:32,605 --> 00:40:34,648
+Please? You owe me.
+
+600
+00:40:34,732 --> 00:40:35,941
+I owe you shit.
+
+601
+00:40:36,025 --> 00:40:37,193
+You owe my mother!
+
+602
+00:40:39,904 --> 00:40:42,948
+Your mother's murder
+was last year's hottest court case.
+
+603
+00:40:43,032 --> 00:40:44,658
+Somebody was gonna write a book about it.
+
+604
+00:40:44,742 --> 00:40:47,077
+Right. It had to be you
+with your lies and bullshit theories.
+
+605
+00:40:47,161 --> 00:40:49,955
+What is your problem?
+You got what you wanted.
+
+606
+00:40:50,039 --> 00:40:52,582
+Cotton Weary's in jail.
+They're gonna gas him.
+
+607
+00:40:52,666 --> 00:40:54,266
+A book is not gonna change that.
+
+608
+00:40:58,297 --> 00:41:00,799
+- Do you still think he's innocent?
+- Your testimony put him away.
+
+609
+00:41:00,883 --> 00:41:02,783
+It doesn't really matter what I think.
+
+610
+00:41:02,968 --> 00:41:06,430
+During the trial, you did all those
+stories about me. You called me a liar.
+
+611
+00:41:06,514 --> 00:41:08,682
+I think you falsely identified him, yes.
+
+612
+00:41:09,767 --> 00:41:11,852
+- Have you talked to Cotton?
+- Many times.
+
+613
+00:41:13,020 --> 00:41:15,397
+- And has his story changed?
+- Not one word.
+
+614
+00:41:16,232 --> 00:41:18,942
+He admits to having sex with your mother,
+but that's all.
+
+615
+00:41:19,026 --> 00:41:21,528
+He's lying.
+She never would've touched him.
+
+616
+00:41:21,612 --> 00:41:23,405
+He raped her, and then
+
+617
+00:41:24,490 --> 00:41:26,700
+he butchered her.
+Her blood was all over his coat.
+
+618
+00:41:26,784 --> 00:41:28,077
+He was drunk that night.
+
+619
+00:41:28,702 --> 00:41:31,496
+He left his coat at your house
+after your mother seduced him.
+
+620
+00:41:31,580 --> 00:41:33,081
+I saw him leave wearing it.
+
+621
+00:41:33,165 --> 00:41:35,751
+No, you saw someone leave
+wearing that coat,
+
+622
+00:41:36,585 --> 00:41:40,130
+the same someone who planted it
+in Cotton's car, framing him.
+
+623
+00:41:42,550 --> 00:41:43,551
+No.
+
+624
+00:41:44,426 --> 00:41:45,970
+Cotton murdered my mother.
+
+625
+00:41:48,722 --> 00:41:50,522
+You're not so sure anymore, are you?
+
+626
+00:41:52,142 --> 00:41:55,062
+Nice welt, sweetie. Let's go, Sid.
+
+627
+00:41:55,854 --> 00:41:57,731
+The killer's still on the loose, isn't he?
+
+628
+00:41:57,815 --> 00:41:58,857
+Come on, Sid.
+
+629
+00:41:58,941 --> 00:42:00,241
+Those murders are related.
+
+630
+00:42:01,485 --> 00:42:03,111
+I'm sorry I mangled your face.
+
+631
+00:42:03,195 --> 00:42:04,362
+Wait. Sidney, don't go.
+
+632
+00:42:04,446 --> 00:42:06,282
+Just stop, all right?
+
+633
+00:42:12,246 --> 00:42:13,747
+Jesus Christ.
+
+634
+00:42:13,831 --> 00:42:16,791
+An innocent man on death row.
+A killer still on the loose.
+
+635
+00:42:16,875 --> 00:42:18,001
+Kenny, tell me I'm dreaming.
+
+636
+00:42:18,085 --> 00:42:19,836
+- You want to go live?
+- No, no. Not so fast.
+
+637
+00:42:19,920 --> 00:42:23,173
+- We don't have anything concrete.
+- This is huge. You can't just sit on it.
+
+638
+00:42:23,257 --> 00:42:25,801
+I know. That's why we need proof.
+
+639
+00:42:26,510 --> 00:42:29,388
+If I'm right about this,
+I could save a man's life.
+
+640
+00:42:30,556 --> 00:42:32,956
+Do you know what that
+could do for my book sales?
+
+641
+00:42:33,976 --> 00:42:36,437
+This is a mistake. I shouldn't be here.
+
+642
+00:42:37,646 --> 00:42:40,396
+I want you to meet me
+right here after class. Okay, Sid?
+
+643
+00:42:41,191 --> 00:42:42,234
+All right.
+
+644
+00:42:43,694 --> 00:42:47,906
+Hey, I haven't seen Billy around.
+Is he really pissed?
+
+645
+00:42:47,990 --> 00:42:50,367
+You mean after you branded him
+the Candy Man?
+
+646
+00:42:50,451 --> 00:42:52,161
+- No. His heart's broken.
+- Stu!
+
+647
+00:43:01,837 --> 00:43:03,255
+Why are they doing this?
+
+648
+00:43:04,089 --> 00:43:06,967
+Are you kidding me?
+Look at this place. It's like Christmas.
+
+649
+00:43:07,051 --> 00:43:09,761
+- Stupidity leak!
+- Easy!
+
+650
+00:43:09,845 --> 00:43:10,929
+Sidney!
+
+651
+00:43:13,182 --> 00:43:14,308
+Jesus! Shit!
+
+652
+00:43:15,225 --> 00:43:16,310
+It's just me.
+
+653
+00:43:19,772 --> 00:43:21,147
+You still think it's me.
+
+654
+00:43:21,231 --> 00:43:23,650
+No. No, I don't.
+
+655
+00:43:23,734 --> 00:43:26,528
+It's just... somebody was there...
+
+656
+00:43:26,612 --> 00:43:27,737
+Hey, Christie, wait up.
+
+657
+00:43:27,821 --> 00:43:29,239
+Billy, someone tried to kill me.
+
+658
+00:43:29,323 --> 00:43:31,700
+I know. I know.
+The cops said I scared them away.
+
+659
+00:43:31,784 --> 00:43:33,243
+It wasn't me, Sid.
+
+660
+00:43:34,328 --> 00:43:37,706
+I know. He called me again last night
+at Tatum's house.
+
+661
+00:43:37,790 --> 00:43:41,543
+You see? Couldn't have been me.
+I was in jail. Remember?
+
+662
+00:43:44,546 --> 00:43:47,466
+I'm so... sorry. Please understand.
+
+663
+00:43:48,175 --> 00:43:49,385
+Understand what?
+
+664
+00:43:50,052 --> 00:43:52,178
+That I have a girlfriend
+who would rather accuse me
+
+665
+00:43:52,262 --> 00:43:54,807
+of being a psychopathic killer
+than touch me?
+
+666
+00:43:56,892 --> 00:43:58,018
+You know that's not true.
+
+667
+00:43:58,102 --> 00:43:59,144
+Then what is it?
+
+668
+00:43:59,228 --> 00:44:01,229
+What... is it?
+
+669
+00:44:01,313 --> 00:44:03,732
+Billy, I was attacked
+and nearly filleted last night.
+
+670
+00:44:03,816 --> 00:44:05,025
+I mean between us.
+
+671
+00:44:05,943 --> 00:44:08,043
+I mean, you haven't been the same since...
+
+672
+00:44:10,656 --> 00:44:11,656
+since your mother died.
+
+673
+00:44:11,740 --> 00:44:15,452
+Is your brain leaking? My mom was killed.
+I can't believe you're bringing this up!
+
+674
+00:44:15,536 --> 00:44:16,870
+No, it's been a year.
+
+675
+00:44:16,954 --> 00:44:19,205
+Tomorrow. One year tomorrow.
+
+676
+00:44:19,289 --> 00:44:21,249
+I know. I think it's time
+you got over that.
+
+677
+00:44:21,333 --> 00:44:24,252
+I mean, when my mom left my dad,
+I accepted it.
+
+678
+00:44:24,336 --> 00:44:27,088
+It's the way it is. She's not coming back.
+
+679
+00:44:27,172 --> 00:44:30,342
+Your parents split up.
+This is not the same thing.
+
+680
+00:44:30,426 --> 00:44:32,802
+Your mom left town.
+She's not lying in a coffin somewhere.
+
+681
+00:44:32,886 --> 00:44:36,390
+Okay. Okay. Okay. I'm sorry.
+It's... it's a bad analogy.
+
+682
+00:44:37,558 --> 00:44:38,726
+It's just that...
+
+683
+00:44:39,977 --> 00:44:41,812
+I want my girlfriend back.
+
+684
+00:44:44,898 --> 00:44:46,024
+Sid!
+
+685
+00:44:46,108 --> 00:44:47,984
+I am sorry if my traumatized life
+
+686
+00:44:48,068 --> 00:44:51,029
+is an inconvenience to you
+and your perfect existence.
+
+687
+00:44:51,113 --> 00:44:54,283
+What? What are you...
+Nobody said that! Sid!
+
+688
+00:44:56,326 --> 00:44:57,952
+Stupid.
+
+689
+00:44:58,036 --> 00:45:00,288
+You make me so sick.
+
+690
+00:45:00,372 --> 00:45:04,835
+Your entire havoc-inducing, thieving,
+whoring generation disgusts me.
+
+691
+00:45:05,669 --> 00:45:11,508
+So, two of your fellow students
+were just savagely murdered,
+
+692
+00:45:11,592 --> 00:45:14,302
+and this is the way that you show
+your compassion and sensitivity, huh?
+
+693
+00:45:14,386 --> 00:45:15,786
+Let me tell you something...
+
+694
+00:45:16,764 --> 00:45:18,264
+You're both expelled. Get out!
+
+695
+00:45:19,308 --> 00:45:22,308
+- Come on, Mr. Himbry! It was just a joke!
+- That's not fair!
+
+696
+00:45:27,024 --> 00:45:29,401
+You're absolutely right. It is not fair.
+
+697
+00:45:29,485 --> 00:45:34,030
+Fairness would be to rip your insides out,
+hang you from a tree so we can expose you
+
+698
+00:45:34,114 --> 00:45:37,075
+for the heartless,
+desensitized little shits that you are.
+
+699
+00:45:49,463 --> 00:45:52,090
+She was never attacked.
+I think she made it all up.
+
+700
+00:45:52,174 --> 00:45:53,425
+Why would she lie about it?
+
+701
+00:45:53,509 --> 00:45:56,136
+For attention.
+The girl has some serious issues.
+
+702
+00:46:02,893 --> 00:46:04,978
+What if she did it?
+
+703
+00:46:05,062 --> 00:46:07,355
+What if Sidney killed Casey and Steve?
+
+704
+00:46:07,439 --> 00:46:09,190
+And why would she do that?
+
+705
+00:46:09,274 --> 00:46:12,819
+Maybe she had the hots for Steve
+and killed them both in a jealous rage.
+
+706
+00:46:12,903 --> 00:46:15,029
+What would Sidney want with Steve?
+
+707
+00:46:15,113 --> 00:46:17,741
+She has her own
+bubble-butt boyfriend Billy.
+
+708
+00:46:18,534 --> 00:46:21,202
+Maybe she's a slut just like her mother.
+
+709
+00:46:21,286 --> 00:46:24,831
+- You're evil.
+- Please. It's a common fact.
+
+710
+00:46:24,915 --> 00:46:26,332
+Her mother was a tramp.
+
+711
+00:46:26,416 --> 00:46:28,418
+Cut some slack.
+She watched her mom get butchered.
+
+712
+00:46:28,502 --> 00:46:30,879
+Yeah, and it fucked her up royally.
+Think about it.
+
+713
+00:46:30,963 --> 00:46:33,548
+Her mother's death
+leaves her disturbed and hostile
+
+714
+00:46:33,632 --> 00:46:35,967
+in a cruel and inhumane world.
+
+715
+00:46:36,051 --> 00:46:40,180
+She's delusional. "Where's God?"
+Et cetera. Completely suicidal.
+
+716
+00:46:40,264 --> 00:46:43,224
+One day, she snaps.
+She wants to kill herself,
+
+717
+00:46:43,308 --> 00:46:46,478
+but she realizes that teen suicide
+is out this year,
+
+718
+00:46:46,562 --> 00:46:50,565
+and homicide is a much healthier,
+therapeutic expression.
+
+719
+00:46:50,649 --> 00:46:52,484
+Where do you get this shit?
+
+720
+00:46:52,568 --> 00:46:53,569
+Ricki Lake.
+
+721
+00:46:54,403 --> 00:46:56,280
+You are pathetic!
+
+722
+00:47:09,793 --> 00:47:10,919
+"Pathetic."
+
+723
+00:47:12,754 --> 00:47:14,756
+<i>Sidney.</i>
+
+724
+00:47:39,656 --> 00:47:41,408
+<i>Sidney.</i>
+
+725
+00:47:46,914 --> 00:47:47,956
+Is someone there?
+
+726
+00:48:28,288 --> 00:48:29,914
+<i>In what appears to be a prank,</i>
+
+727
+00:48:29,998 --> 00:48:32,458
+<i>several students were seen
+wearing scary masks.</i>
+
+728
+00:48:32,542 --> 00:48:34,294
+<i>School officials have yet to comment,</i>
+
+729
+00:48:34,378 --> 00:48:38,506
+but this is known to be the same costume
+worn by the killer.
+
+730
+00:48:38,590 --> 00:48:41,342
+Seventeen-year-old Casey Becker
+and her boyfriend Steven Orth
+
+731
+00:48:41,426 --> 00:48:44,429
+have already lost their lives. Who's next?
+
+732
+00:48:44,513 --> 00:48:48,474
+<i>You can literally feel
+the fear on this campus.</i>
+
+733
+00:48:48,558 --> 00:48:51,895
+Hi. Gale Weathers,
+field correspondent, <i>Top Story.</i>
+
+734
+00:48:51,979 --> 00:48:55,231
+I know who you are, Miss Weathers.
+How's the eye?
+
+735
+00:48:55,315 --> 00:48:57,942
+It's productive.
+Is there a problem on campus?
+
+736
+00:48:58,026 --> 00:49:00,153
+No. Everything's under control.
+
+737
+00:49:00,237 --> 00:49:01,738
+Well, of course. You're here.
+
+738
+00:49:02,364 --> 00:49:03,656
+You're not supposed to be here.
+
+739
+00:49:03,740 --> 00:49:06,451
+I know. I should be in New York
+covering the Sharon Stone stalker,
+
+740
+00:49:06,535 --> 00:49:07,869
+but who knew?
+
+741
+00:49:09,204 --> 00:49:11,454
+You look awfully young
+to be a police officer.
+
+742
+00:49:12,541 --> 00:49:14,000
+I'm 25 years old.
+
+743
+00:49:14,084 --> 00:49:15,585
+You know, in a demographic study,
+
+744
+00:49:15,669 --> 00:49:18,880
+I proved to be most popular
+amongst males 11 to 24.
+
+745
+00:49:19,715 --> 00:49:20,915
+Guess I just missed you.
+
+746
+00:49:22,009 --> 00:49:24,010
+Of course, you don't look a day over 12,
+
+747
+00:49:24,094 --> 00:49:26,888
+except in that upper-torso area.
+
+748
+00:49:26,972 --> 00:49:29,622
+- Does the force require you to work out?
+- No, ma'am.
+
+749
+00:49:30,642 --> 00:49:32,143
+'Cause of my boyish good looks,
+
+750
+00:49:32,227 --> 00:49:35,689
+muscle mass has increased my acceptance
+as a serious police officer.
+
+751
+00:49:36,481 --> 00:49:38,399
+<i>I need your attention now, kids.</i>
+
+752
+00:49:38,483 --> 00:49:40,526
+<i>Due to the recent events
+that have occurred,</i>
+
+753
+00:49:40,610 --> 00:49:44,614
+<i>effective immediately, all classes
+are suspended until further notice.</i>
+
+754
+00:49:45,907 --> 00:49:49,327
+<i>The Woodsboro Police Department
+has issued a citywide curfew</i>
+
+755
+00:49:49,411 --> 00:49:52,164
+<i>beginning at nine o'clock tonight.</i>
+
+756
+00:49:53,165 --> 00:49:55,166
+Looks like we've got
+a serial killer on our hands.
+
+757
+00:49:55,250 --> 00:49:57,502
+Well, a serial killer
+is not really accurate.
+
+758
+00:49:57,586 --> 00:50:00,004
+Gotta knock off a couple more
+to get that title.
+
+759
+00:50:00,088 --> 00:50:01,506
+Well, we can help, can't we?
+
+760
+00:50:03,216 --> 00:50:05,468
+I mean, we certainly don't have any leads.
+
+761
+00:50:05,552 --> 00:50:07,512
+Have you located Sidney's father yet?
+
+762
+00:50:08,388 --> 00:50:09,472
+No, not yet.
+
+763
+00:50:09,556 --> 00:50:11,140
+Well, he's not a suspect, is he?
+
+764
+00:50:11,224 --> 00:50:13,602
+We haven't ruled him out as a possibility.
+
+765
+00:50:14,936 --> 00:50:17,689
+- If you'll excuse me.
+- I'm sorry. Am I keeping you?
+
+766
+00:50:18,523 --> 00:50:20,317
+If I may say so, Miss Weathers...
+
+767
+00:50:22,694 --> 00:50:24,446
+you are much prettier in person.
+
+768
+00:50:26,448 --> 00:50:28,116
+So you do watch the show.
+
+769
+00:50:29,993 --> 00:50:33,830
+I'm 25. I was 24 for a whole year.
+
+770
+00:50:35,457 --> 00:50:36,917
+Please, call me Gale.
+
+771
+00:50:38,335 --> 00:50:40,670
+It was just some sick fuck
+having a laugh, Sidney.
+
+772
+00:50:40,754 --> 00:50:43,006
+No, it was him, Tatum. I know it.
+
+773
+00:50:43,090 --> 00:50:47,176
+You're not to be alone anymore, right?
+If you pee, I pee. Is that clear?
+
+774
+00:50:47,260 --> 00:50:49,679
+Kizool, 'cause schizzool is izzout.
+
+775
+00:50:49,763 --> 00:50:52,807
+I don't know what you did, Sidney,
+but on behalf of the entire student body,
+
+776
+00:50:52,891 --> 00:50:55,184
+- we all say thank you!
+- Stop it, Stu.
+
+777
+00:50:55,268 --> 00:50:59,272
+No, I say impromptu party tonight,
+my house,
+
+778
+00:50:59,356 --> 00:51:01,315
+to celebrate this little siesta.
+What do you say?
+
+779
+00:51:01,399 --> 00:51:02,526
+Are you serious?
+
+780
+00:51:03,360 --> 00:51:04,610
+Parents are out of town,
+
+781
+00:51:04,694 --> 00:51:07,822
+and if this little vixen doesn't invite
+the entire world, we'll be fine.
+
+782
+00:51:07,906 --> 00:51:10,158
+Intimate gathering, intimate friends.
+
+783
+00:51:10,242 --> 00:51:13,870
+What do you say, Sid?
+I mean, pathos could have its perks.
+
+784
+00:51:13,954 --> 00:51:16,497
+Totally protected. Yo, I am so buff.
+
+785
+00:51:16,581 --> 00:51:18,500
+- I got you covered, girl.
+- No...
+
+786
+00:51:19,376 --> 00:51:20,918
+Come on, Sid.
+
+787
+00:51:21,002 --> 00:51:22,712
+For me? It could be fun.
+
+788
+00:51:24,339 --> 00:51:25,715
+Okay, whatever.
+
+789
+00:51:25,799 --> 00:51:27,425
+Yeah? Nice.
+
+790
+00:51:28,051 --> 00:51:29,901
+Cool. You guys bring food, all right?
+
+791
+00:51:47,946 --> 00:51:49,114
+Yes?
+
+792
+00:51:50,157 --> 00:51:51,199
+Hello?
+
+793
+00:52:07,507 --> 00:52:08,508
+Damn it.
+
+794
+00:52:26,943 --> 00:52:29,029
+- Damn little shits.
+- What'd you call me?
+
+795
+00:52:30,572 --> 00:52:32,490
+- Not you, Fred.
+- Prick.
+
+796
+00:53:45,522 --> 00:53:47,940
+What if Cotton Weary is telling the truth?
+
+797
+00:53:48,024 --> 00:53:51,527
+Maybe he was having an affair
+with your mom.
+
+798
+00:53:51,611 --> 00:53:54,611
+I mean, your dad was always
+out of town on business. Maybe
+
+799
+00:53:56,449 --> 00:53:58,826
+maybe your mom
+was just a very unhappy woman.
+
+800
+00:53:58,910 --> 00:54:00,745
+If they were having an affair,
+
+801
+00:54:00,829 --> 00:54:03,179
+then how come
+Cotton couldn't prove it in court?
+
+802
+00:54:03,999 --> 00:54:07,793
+Well, you can't prove a rumor.
+That's why it's a rumor.
+
+803
+00:54:07,877 --> 00:54:11,923
+Right, created by
+that little tabloid twit Gale Weathers.
+
+804
+00:54:13,466 --> 00:54:15,302
+It goes further back, Sid.
+
+805
+00:54:17,137 --> 00:54:18,847
+There's been talk about other men.
+
+806
+00:54:19,431 --> 00:54:20,557
+And you believe it?
+
+807
+00:54:22,017 --> 00:54:23,018
+Well...
+
+808
+00:54:24,185 --> 00:54:26,395
+I mean, you can only hear
+that Richard Gere gerbil story
+
+809
+00:54:26,479 --> 00:54:29,441
+so many times
+before you have to start believing it.
+
+810
+00:54:35,155 --> 00:54:36,197
+I'm sorry.
+
+811
+00:54:39,534 --> 00:54:41,661
+You know, if I was wrong
+about Cotton Weary,
+
+812
+00:54:41,745 --> 00:54:44,121
+then the killer's still out there.
+
+813
+00:54:44,205 --> 00:54:45,289
+Don't go there, Sid.
+
+814
+00:54:45,373 --> 00:54:48,334
+You're starting to sound like
+some Wes Carpenter flick or something.
+
+815
+00:54:48,418 --> 00:54:51,718
+Don't freak yourself out, okay?
+We've got a long night ahead of us.
+
+816
+00:54:52,088 --> 00:54:53,089
+Okay?
+
+817
+00:54:54,716 --> 00:54:55,759
+Let's boogie.
+
+818
+00:55:00,138 --> 00:55:01,890
+<i>It's alive!</i>
+
+819
+00:55:02,766 --> 00:55:04,392
+<i>In the name of God!</i>
+
+820
+00:55:09,731 --> 00:55:11,191
+- Watch it, jerk.
+- I'm sorry.
+
+821
+00:55:15,904 --> 00:55:16,905
+Dork.
+
+822
+00:55:18,365 --> 00:55:20,658
+Jesus, this place is packed tonight, man.
+
+823
+00:55:21,326 --> 00:55:23,119
+We had a run in the mass murder section.
+
+824
+00:55:23,203 --> 00:55:24,620
+Coming to my fiesta?
+
+825
+00:55:24,704 --> 00:55:27,498
+- Yeah, I'm off early. Curfew, you know?
+- Cool.
+
+826
+00:55:27,582 --> 00:55:30,167
+What's that werewolf movie
+with ET's mom in it?
+
+827
+00:55:30,251 --> 00:55:31,877
+<i>The Howling.</i> Horror, straight ahead.
+
+828
+00:55:31,961 --> 00:55:33,296
+Okay, thanks.
+
+829
+00:55:35,173 --> 00:55:37,133
+Oh, now, that's in poor taste.
+
+830
+00:55:37,217 --> 00:55:38,510
+What?
+
+831
+00:55:39,344 --> 00:55:41,994
+If you were the only suspect
+in a senseless bloodbath,
+
+832
+00:55:42,680 --> 00:55:44,980
+would you being standing
+in the horror section?
+
+833
+00:55:45,183 --> 00:55:47,685
+Well, it was just a misunderstanding.
+
+834
+00:55:48,311 --> 00:55:49,478
+He didn't do anything.
+
+835
+00:55:49,562 --> 00:55:51,439
+You're such a little lap dog.
+
+836
+00:55:51,523 --> 00:55:53,649
+He's got "killer"
+printed all over his forehead.
+
+837
+00:55:53,733 --> 00:55:56,402
+Okay, really?
+
+838
+00:55:56,486 --> 00:55:58,779
+Why'd the cops let him go, smart guy?
+
+839
+00:55:58,863 --> 00:56:00,906
+Because obviously
+they don't watch enough movies.
+
+840
+00:56:00,990 --> 00:56:02,950
+This is standard horror movie stuff.
+
+841
+00:56:03,034 --> 00:56:04,577
+<i>Prom Night</i> revisited, man.
+
+842
+00:56:04,661 --> 00:56:07,663
+Yeah? Why would he want to kill
+his own girlfriend?
+
+843
+00:56:07,747 --> 00:56:11,047
+There's always some stupid bullshit reason
+to kill your girlfriend.
+
+844
+00:56:11,584 --> 00:56:14,003
+That's the beauty of it all. Simplicity.
+
+845
+00:56:14,671 --> 00:56:18,174
+Besides, if it gets too complicated,
+you'll lose your target audience.
+
+846
+00:56:18,258 --> 00:56:20,301
+Well, what's his reason?
+
+847
+00:56:21,052 --> 00:56:23,052
+Maybe Sidney wouldn't have sex with him.
+
+848
+00:56:24,139 --> 00:56:25,848
+What, is she saving herself for you?
+
+849
+00:56:25,932 --> 00:56:28,182
+Maybe. Now that Billy
+tried to mutilate her
+
+850
+00:56:28,893 --> 00:56:30,793
+do you think Sid would go out with me?
+
+851
+00:56:36,693 --> 00:56:39,028
+No, I don't, at all. No.
+
+852
+00:56:39,612 --> 00:56:40,762
+Know who I think it is?
+
+853
+00:56:42,699 --> 00:56:44,399
+You know, I think it's her father.
+
+854
+00:56:45,243 --> 00:56:47,453
+Why can't they find her pops, man?
+
+855
+00:56:47,537 --> 00:56:49,831
+Because he's probably dead.
+
+856
+00:56:50,748 --> 00:56:53,459
+His body will come popping up
+in the last reel somewhere,
+
+857
+00:56:53,543 --> 00:56:56,754
+eyes gouged out, fingers cut off,
+teeth knocked out!
+
+858
+00:56:57,547 --> 00:56:59,882
+See, the police are always
+off track with this shit.
+
+859
+00:56:59,966 --> 00:57:01,967
+If they watched <i>Prom Night,</i>
+they'd save time.
+
+860
+00:57:02,051 --> 00:57:05,262
+There's a formula to it,
+a very simple formula!
+
+861
+00:57:05,346 --> 00:57:06,806
+Everybody's a suspect!
+
+862
+00:57:12,854 --> 00:57:15,454
+I'm telling you, the dad's a red herring.
+It's Billy.
+
+863
+00:57:17,108 --> 00:57:18,958
+How do we know you're not the killer?
+
+864
+00:57:21,654 --> 00:57:22,655
+Hi, Billy.
+
+865
+00:57:22,739 --> 00:57:24,990
+Maybe your movie-freaked mind
+lost its reality button.
+
+866
+00:57:25,074 --> 00:57:26,075
+Ever think of that?
+
+867
+00:57:26,159 --> 00:57:28,369
+You're absolutely right.
+I'm the first to admit it.
+
+868
+00:57:28,453 --> 00:57:30,913
+If this were a scary movie,
+I'd be the prime suspect.
+
+869
+00:57:30,997 --> 00:57:31,997
+That's right.
+
+870
+00:57:32,081 --> 00:57:33,875
+And what would be your motive?
+
+871
+00:57:34,834 --> 00:57:36,002
+It's the millennium.
+
+872
+00:57:37,170 --> 00:57:38,838
+Motives are incidental.
+
+873
+00:57:38,922 --> 00:57:40,006
+Millennium?
+
+874
+00:57:41,090 --> 00:57:42,466
+Millennium, I like that.
+
+875
+00:57:42,550 --> 00:57:45,261
+That's good. "It's the millennium."
+
+876
+00:57:46,471 --> 00:57:47,555
+Good kid.
+
+877
+00:57:49,766 --> 00:57:51,976
+"Millennium." Good word, my man.
+
+878
+00:57:52,644 --> 00:57:54,744
+Now, you're telling me
+that's not a killer?
+
+879
+00:58:39,566 --> 00:58:40,733
+Sure is quiet.
+
+880
+00:58:42,735 --> 00:58:46,071
+God, look at this place.
+It's <i>The Town That Dreaded Sundown.</i>
+
+881
+00:58:46,155 --> 00:58:49,200
+Yeah, I saw that movie.
+It's about a killer in Texas, huh?
+
+882
+00:58:50,285 --> 00:58:52,369
+Hey, Sid, just think,
+if they make a movie about you,
+
+883
+00:58:52,453 --> 00:58:53,746
+who's gonna play you?
+
+884
+00:58:53,830 --> 00:58:55,581
+I shudder to think.
+
+885
+00:58:55,665 --> 00:58:57,917
+I see you as a young Meg Ryan, myself.
+
+886
+00:58:58,001 --> 00:59:00,701
+Thanks, Dewey. With my luck,
+they'd cast Tori Spelling.
+
+887
+00:59:01,629 --> 00:59:03,298
+I'm just gonna be a few minutes.
+
+888
+00:59:04,549 --> 00:59:06,050
+You girls don't go too far.
+
+889
+00:59:08,928 --> 00:59:10,429
+Is Billy gonna be there tonight?
+
+890
+00:59:10,513 --> 00:59:13,474
+He better not be.
+I told Stu to keep his mouth shut.
+
+891
+00:59:13,558 --> 00:59:16,558
+I think we can live without
+the endorphin rush for one night.
+
+892
+00:59:18,771 --> 00:59:21,899
+Billy's right, you know. Whenever
+he touches me, I just can't relax.
+
+893
+00:59:21,983 --> 00:59:25,778
+So you have a few intimacy issues as
+a result of your mother's untimely death.
+
+894
+00:59:25,862 --> 00:59:28,155
+It's no big deal, Sid. You'll thaw out.
+
+895
+00:59:28,239 --> 00:59:31,700
+Yeah, but he has been so patient with me,
+you know, with all this sex stuff.
+
+896
+00:59:31,784 --> 00:59:35,134
+How many guys will put up
+with a girlfriend who's sexually anorexic?
+
+897
+00:59:35,705 --> 00:59:38,105
+Billy and his penis
+don't deserve you, all right?
+
+898
+00:59:47,717 --> 00:59:49,051
+Dewey, where the hell you been?
+
+899
+00:59:49,135 --> 00:59:50,928
+I was keeping an eye on Sidney.
+
+900
+00:59:53,348 --> 00:59:54,474
+Thought you quit.
+
+901
+00:59:55,141 --> 00:59:56,934
+I did, but damn it...
+
+902
+00:59:58,561 --> 01:00:01,272
+Dewey, Vital Phone just faxed us.
+
+903
+01:00:02,065 --> 01:00:05,818
+Those calls are listed to Neil Prescott,
+Sidney's father.
+
+904
+01:00:06,402 --> 01:00:09,402
+He made the calls with a cellular phone.
+It's been confirmed.
+
+905
+01:00:10,782 --> 01:00:13,482
+Well, there's no way his cellular
+could've been cloned?
+
+906
+01:00:13,660 --> 01:00:16,120
+There's more. Guess what tomorrow is?
+
+907
+01:00:16,746 --> 01:00:19,082
+The anniversary of his wife's death.
+
+908
+01:00:22,001 --> 01:00:24,878
+We'll keep the roadblocks and the curfew
+in effect through the night.
+
+909
+01:00:24,962 --> 01:00:28,162
+If he's not picked up by morning,
+then we'll do a house-to-house.
+
+910
+01:00:29,634 --> 01:00:30,635
+Where's Sidney?
+
+911
+01:00:31,219 --> 01:00:33,669
+She's with my sister.
+You want me to bring her in?
+
+912
+01:00:35,056 --> 01:00:39,936
+Not just yet. Let's find Neil first,
+make sure he's our man.
+
+913
+01:00:48,861 --> 01:00:50,405
+You stay close to Sidney.
+
+914
+01:00:50,988 --> 01:00:52,573
+Don't let her out of your sight.
+
+915
+01:00:52,657 --> 01:00:53,741
+Yes, sir.
+
+916
+01:01:30,186 --> 01:01:31,771
+All right. You girls have fun.
+
+917
+01:01:32,647 --> 01:01:34,565
+Not too much fun, or I'll bust ya.
+
+918
+01:01:36,817 --> 01:01:38,277
+- Bye.
+- Bye, Sid.
+
+919
+01:01:51,791 --> 01:01:52,958
+We are here.
+
+920
+01:01:53,042 --> 01:01:54,502
+Yeah!
+
+921
+01:01:56,420 --> 01:01:57,880
+Oh, that's superb.
+
+922
+01:01:57,964 --> 01:02:00,424
+You guys are tardy for the party
+so we started without you.
+
+923
+01:02:00,508 --> 01:02:02,259
+My man! Yeah!
+
+924
+01:02:21,570 --> 01:02:23,071
+Well, were we spotted?
+
+925
+01:02:23,155 --> 01:02:25,657
+I don't think so. Now get the camera.
+
+926
+01:02:25,741 --> 01:02:26,951
+Ma'am...
+
+927
+01:02:28,202 --> 01:02:29,902
+Sorry, I didn't mean to scare you.
+
+928
+01:02:30,287 --> 01:02:31,539
+Deputy, that's okay.
+
+929
+01:02:32,331 --> 01:02:33,881
+What brings you to these parts?
+
+930
+01:02:34,375 --> 01:02:38,004
+Well, you just never know
+when or where a story will break.
+
+931
+01:02:38,796 --> 01:02:42,133
+Not much of a story here.
+Just a bunch of kids cutting it loose.
+
+932
+01:02:43,259 --> 01:02:44,927
+Then what are you doing here?
+
+933
+01:02:47,596 --> 01:02:49,096
+Just keeping an eye on things.
+
+934
+01:02:49,974 --> 01:02:51,474
+I'm gonna check the party out.
+
+935
+01:02:53,144 --> 01:02:54,444
+Do you mind if I join you?
+
+936
+01:02:55,438 --> 01:02:56,480
+Not at all.
+
+937
+01:02:57,606 --> 01:02:58,983
+Let me just get my coat.
+
+938
+01:03:06,115 --> 01:03:07,115
+All right.
+
+939
+01:03:07,199 --> 01:03:08,534
+Yeah, I'm fine.
+
+940
+01:03:09,785 --> 01:03:10,953
+Oh, yeah.
+
+941
+01:03:13,205 --> 01:03:14,582
+How many <i>Evil Dead?</i>
+
+942
+01:03:15,207 --> 01:03:17,334
+- Yeah!
+- How many <i>Hellraiser?</i>
+
+943
+01:03:17,418 --> 01:03:18,961
+<i>Hellraiser</i> right here.
+
+944
+01:03:19,045 --> 01:03:22,047
+<i>The Fog, Terror Train, Prom Night.</i>
+
+945
+01:03:22,131 --> 01:03:24,842
+How come Jamie Lee Curtis
+is in all of these movies?
+
+946
+01:03:25,468 --> 01:03:28,095
+She's the... scream queen.
+
+947
+01:03:28,179 --> 01:03:30,305
+I mean, with a set of lungs like that,
+she should be.
+
+948
+01:03:30,389 --> 01:03:31,390
+Yeah.
+
+949
+01:03:31,474 --> 01:03:33,017
+Tits. See?
+
+950
+01:03:33,851 --> 01:03:34,852
+I'll get it.
+
+951
+01:03:37,396 --> 01:03:39,356
+Hey, Tate, grab me another beer,
+would you?
+
+952
+01:03:39,440 --> 01:03:41,108
+There's beer in the garage.
+
+953
+01:03:41,192 --> 01:03:42,818
+What am I, the beer wench?
+
+954
+01:03:42,902 --> 01:03:44,195
+She was nominated.
+
+955
+01:03:44,904 --> 01:03:47,864
+- She was nominated for <i>Terror Train.</i>
+- You are not gonna believe who's here.
+
+956
+01:03:47,948 --> 01:03:49,199
+It's that chick from <i>Top Story.</i>
+
+957
+01:03:49,283 --> 01:03:50,433
+- Gale Weathers?
+- Here.
+
+958
+01:03:53,412 --> 01:03:55,039
+You're underage, son.
+
+959
+01:03:55,790 --> 01:03:58,292
+I'm kidding. Have a good time.
+Watch the driving.
+
+960
+01:03:58,918 --> 01:04:00,211
+- Dewey?
+- Hi.
+
+961
+01:04:00,920 --> 01:04:01,921
+Dewey?
+
+962
+01:04:03,422 --> 01:04:05,090
+What is she doing here?
+
+963
+01:04:05,174 --> 01:04:06,508
+She's with me.
+
+964
+01:04:06,592 --> 01:04:08,218
+I'm just checking things out.
+
+965
+01:04:08,302 --> 01:04:12,598
+So you did. Now leave.
+And take your media muff with you.
+
+966
+01:04:14,934 --> 01:04:17,519
+- I just think you're awesome.
+- Thank you very much.
+
+967
+01:04:17,603 --> 01:04:19,688
+- I watch your show religiously.
+- That's great.
+
+968
+01:04:19,772 --> 01:04:21,357
+- Hey.
+- Hey.
+
+969
+01:04:22,191 --> 01:04:23,359
+I'm getting a camera.
+
+970
+01:04:25,277 --> 01:04:28,155
+- Have you found my father?
+- I'm afraid not.
+
+971
+01:04:29,949 --> 01:04:31,408
+Should I be worried?
+
+972
+01:04:31,492 --> 01:04:32,493
+Not yet.
+
+973
+01:05:23,169 --> 01:05:24,170
+Jesus!
+
+974
+01:05:27,423 --> 01:05:29,133
+Tatum, it's okay.
+
+975
+01:05:39,426 --> 01:05:40,427
+Shit.
+
+976
+01:05:45,849 --> 01:05:46,975
+Hey, shitheads!
+
+977
+01:05:49,186 --> 01:05:50,270
+Hello?
+
+978
+01:05:52,606 --> 01:05:54,149
+Shit. Piss.
+
+979
+01:06:13,168 --> 01:06:14,211
+Is that you, Randy?
+
+980
+01:06:16,797 --> 01:06:20,217
+Cute. And what movie is this from?
+<i>I Spit On Your Garage?</i>
+
+981
+01:06:21,635 --> 01:06:23,985
+Lose the outfit.
+If Sidney sees it, she'll flip.
+
+982
+01:06:25,639 --> 01:06:27,089
+You wanna play psycho killer?
+
+983
+01:06:28,100 --> 01:06:29,810
+Can I be the helpless victim?
+
+984
+01:06:30,853 --> 01:06:34,689
+Okay, let's see.
+No, please don't kill me, Mr. Ghostface.
+
+985
+01:06:34,773 --> 01:06:36,233
+I want to be in the sequel.
+
+986
+01:06:38,902 --> 01:06:41,196
+Cut, Casper. That's a wrap.
+
+987
+01:06:43,907 --> 01:06:45,657
+Randy, what the hell are you doing?
+
+988
+01:06:46,368 --> 01:06:47,870
+Don't... What?
+
+989
+01:06:50,164 --> 01:06:51,165
+Stop!
+
+990
+01:07:06,597 --> 01:07:08,098
+Fucker!
+
+991
+01:07:43,926 --> 01:07:45,719
+No! No!
+
+992
+01:08:02,319 --> 01:08:03,695
+Happy curfew.
+
+993
+01:08:03,779 --> 01:08:05,030
+Nice party, Stu.
+
+994
+01:08:05,572 --> 01:08:06,739
+Tatum, come on!
+
+995
+01:08:06,823 --> 01:08:08,533
+Nobody here but us chickens!
+
+996
+01:08:08,617 --> 01:08:11,217
+- Do you know where she is?
+- No, I haven't seen her.
+
+997
+01:08:14,706 --> 01:08:15,999
+Billy, hey.
+
+998
+01:08:16,083 --> 01:08:18,585
+Billy. What are you doing here?
+
+999
+01:08:19,253 --> 01:08:21,203
+I was hoping I could talk to Sid alone.
+
+1000
+01:08:21,588 --> 01:08:24,090
+You know, if Tatum sees you here,
+she'll draw blood.
+
+1001
+01:08:24,174 --> 01:08:26,551
+Tell you what, why don't you guys
+go up to my parents' room?
+
+1002
+01:08:26,635 --> 01:08:28,303
+You know, you guys can talk
+
+1003
+01:08:29,263 --> 01:08:30,639
+whatever.
+
+1004
+01:08:31,431 --> 01:08:33,381
+"Subtlety," Stu, you should look it up.
+
+1005
+01:08:35,185 --> 01:08:37,229
+No, it's okay. We do need to talk.
+
+1006
+01:08:47,322 --> 01:08:48,990
+What's Leatherface doing here?
+
+1007
+01:08:49,074 --> 01:08:50,701
+He came to make up.
+
+1008
+01:08:51,368 --> 01:08:53,704
+There goes my chance with Sid. Damn it.
+
+1009
+01:08:54,496 --> 01:08:57,541
+As if. That's all I'm saying. As if.
+
+1010
+01:08:58,584 --> 01:08:59,960
+Oh, really, Alicia?
+
+1011
+01:09:01,587 --> 01:09:02,879
+As if.
+
+1012
+01:09:02,963 --> 01:09:04,422
+I'm gonna go check on them.
+
+1013
+01:09:04,506 --> 01:09:05,632
+Come on!
+
+1014
+01:09:06,216 --> 01:09:08,092
+<i>Okay, everyone.
+It was nice to meet all of you.</i>
+
+1015
+01:09:08,176 --> 01:09:09,177
+<i>Thank you.</i>
+
+1016
+01:09:10,804 --> 01:09:12,014
+You're a genius.
+
+1017
+01:09:13,473 --> 01:09:15,392
+- Oh, shit.
+- What?
+
+1018
+01:09:16,018 --> 01:09:18,311
+- I got a delay.
+- How long is it?
+
+1019
+01:09:18,395 --> 01:09:21,439
+I don't know. What'd it take you
+to walk from the house, 30 seconds?
+
+1020
+01:09:21,523 --> 01:09:23,024
+It'll be fine. Just record it.
+
+1021
+01:09:23,108 --> 01:09:25,058
+- All right.
+- The placement is perfect.
+
+1022
+01:09:25,611 --> 01:09:27,195
+Tell me, Kenneth,
+
+1023
+01:09:27,279 --> 01:09:30,282
+has a cheesy tabloid journalist
+ever won the Pulitzer?
+
+1024
+01:09:30,991 --> 01:09:32,326
+First time for everything.
+
+1025
+01:09:32,993 --> 01:09:34,119
+You're damn right.
+
+1026
+01:09:41,543 --> 01:09:42,586
+So...
+
+1027
+01:09:45,839 --> 01:09:46,840
+So...
+
+1028
+01:09:50,344 --> 01:09:51,428
+Look, I'm sorry.
+
+1029
+01:09:53,388 --> 01:09:55,098
+I've been selfish,
+
+1030
+01:09:56,183 --> 01:09:57,475
+and I want to apologize.
+
+1031
+01:09:57,559 --> 01:09:59,895
+No. Billy, I'm
+
+1032
+01:10:00,520 --> 01:10:04,357
+the one who's been selfish
+and self-absorbed
+
+1033
+01:10:04,441 --> 01:10:06,777
+with all this post-traumatic stress.
+
+1034
+01:10:08,153 --> 01:10:09,153
+You lost your mom.
+
+1035
+01:10:09,237 --> 01:10:11,073
+Yeah, I know, but you're right.
+
+1036
+01:10:11,823 --> 01:10:17,913
+Enough is enough. I can't wallow
+in the grief process forever, and...
+
+1037
+01:10:21,375 --> 01:10:25,754
+And I can't keep lying to myself
+about who my mom was.
+
+1038
+01:10:31,009 --> 01:10:32,678
+Yeah, I think I'm really...
+
+1039
+01:10:35,305 --> 01:10:36,348
+scared
+
+1040
+01:10:37,683 --> 01:10:40,143
+that I'm gonna turn out just like her,
+you know?
+
+1041
+01:10:42,229 --> 01:10:44,356
+Like the bad seed or something.
+
+1042
+01:10:45,732 --> 01:10:48,068
+And I know it doesn't make sense.
+
+1043
+01:10:49,861 --> 01:10:50,987
+Yeah, it does.
+
+1044
+01:10:55,659 --> 01:10:59,329
+It's like Jodie Foster
+in <i>Silence of the Lambs</i>
+
+1045
+01:10:59,413 --> 01:11:03,166
+when she keeps having flashbacks
+of her dead father.
+
+1046
+01:11:03,250 --> 01:11:04,626
+But this is life.
+
+1047
+01:11:05,711 --> 01:11:06,837
+This isn't a movie.
+
+1048
+01:11:07,379 --> 01:11:08,672
+Sure it is, Sid.
+
+1049
+01:11:10,006 --> 01:11:12,718
+It's all... it's all a movie. It's all
+
+1050
+01:11:13,927 --> 01:11:15,554
+one great big movie.
+
+1051
+01:11:22,436 --> 01:11:24,730
+Only you can't pick your genre.
+
+1052
+01:11:51,339 --> 01:11:53,633
+Why can't I be a Meg Ryan movie?
+
+1053
+01:11:57,512 --> 01:11:59,264
+Or even a good porno?
+
+1054
+01:12:03,685 --> 01:12:05,812
+- What?
+- You heard me.
+
+1055
+01:12:15,113 --> 01:12:16,323
+Are you sure?
+
+1056
+01:12:18,492 --> 01:12:19,493
+Yeah.
+
+1057
+01:12:20,744 --> 01:12:21,912
+I think so.
+
+1058
+01:12:39,054 --> 01:12:40,555
+Look, look. Here it comes.
+
+1059
+01:12:42,641 --> 01:12:44,976
+Oh, man,
+the color of the blood is all wrong.
+
+1060
+01:12:45,060 --> 01:12:47,603
+Now why do they do that? It's too red!
+
+1061
+01:12:47,687 --> 01:12:49,313
+Wait, here comes another one.
+
+1062
+01:12:49,397 --> 01:12:51,149
+Here, here...
+
+1063
+01:12:51,733 --> 01:12:53,317
+Yes! Yes!
+
+1064
+01:12:53,401 --> 01:12:55,611
+Predictable. I knew he was gonna bite it.
+
+1065
+01:12:55,695 --> 01:12:57,795
+How can you watch this shit over and over?
+
+1066
+01:12:58,198 --> 01:13:00,742
+When do we see breasts?
+I want to see Jamie Lee's breasts.
+
+1067
+01:13:00,826 --> 01:13:02,785
+- When do we see Jamie Lee's breasts?
+- Yes. Yes!
+
+1068
+01:13:02,869 --> 01:13:06,038
+Breasts? Not until <i>Trading Places</i> in '83.
+
+1069
+01:13:06,122 --> 01:13:08,458
+Jamie Lee was always the virgin
+in horror movies.
+
+1070
+01:13:08,542 --> 01:13:11,002
+She never showed her tits
+till she went legits.
+
+1071
+01:13:11,086 --> 01:13:12,754
+Could afford a decent pair.
+
+1072
+01:13:12,838 --> 01:13:14,130
+What'd you say?
+
+1073
+01:13:14,214 --> 01:13:17,300
+That's why she always outsmarted
+the killer in the chase scene at the end.
+
+1074
+01:13:17,384 --> 01:13:19,677
+Only virgins can do that.
+Don't you know the rules?
+
+1075
+01:13:19,761 --> 01:13:21,053
+What rules?
+
+1076
+01:13:21,137 --> 01:13:22,138
+You don't...
+
+1077
+01:13:24,683 --> 01:13:26,934
+Jesus Christ! You don't know the rules?
+
+1078
+01:13:27,018 --> 01:13:29,061
+Have an aneurysm, why don't you?
+
+1079
+01:13:29,145 --> 01:13:31,856
+There are certain rules
+that one must abide by
+
+1080
+01:13:31,940 --> 01:13:34,442
+in order to successfully survive
+a horror movie.
+
+1081
+01:13:34,526 --> 01:13:38,113
+For instance, number one,
+you can never have sex.
+
+1082
+01:13:38,989 --> 01:13:40,156
+No! No!
+
+1083
+01:13:40,824 --> 01:13:42,492
+Big no-no! Big no-no!
+
+1084
+01:13:42,576 --> 01:13:44,368
+I'd be a dead man.
+
+1085
+01:13:44,452 --> 01:13:46,370
+Sex equals death, okay?
+
+1086
+01:13:46,454 --> 01:13:49,541
+Number two,
+you can never drink or do drugs.
+
+1087
+01:13:52,460 --> 01:13:54,420
+No, the sin factor.
+
+1088
+01:13:54,504 --> 01:13:56,798
+This is sin.
+It's an extension of number one.
+
+1089
+01:13:56,882 --> 01:14:01,135
+And number three, never, ever, ever,
+under any circumstances, say,
+
+1090
+01:14:01,219 --> 01:14:03,137
+"I'll be right back,"
+'cause you won't be back.
+
+1091
+01:14:03,221 --> 01:14:05,056
+I'm getting another beer. You want one?
+
+1092
+01:14:05,140 --> 01:14:07,475
+- Yeah, sure.
+- I'll be right back!
+
+1093
+01:14:10,270 --> 01:14:12,980
+You see, you push the laws,
+and you end up dead, okay?
+
+1094
+01:14:13,064 --> 01:14:14,690
+I'll see you in the kitchen with a knife.
+
+1095
+01:14:14,774 --> 01:14:18,069
+<i>Only virgins can outsmart the killer
+in the big chase scene at the end.</i>
+
+1096
+01:14:18,153 --> 01:14:19,529
+<i>Don't you know the rules?</i>
+
+1097
+01:14:19,613 --> 01:14:22,281
+<i>- What rules?
+- You don't know the rules?</i>
+
+1098
+01:14:22,365 --> 01:14:25,785
+<i>There are certain rules that one must abide
+by in order to successfully survive...</i>
+
+1099
+01:14:25,869 --> 01:14:26,870
+Boring.
+
+1100
+01:14:30,999 --> 01:14:32,291
+The sheriff just radioed.
+
+1101
+01:14:32,375 --> 01:14:34,502
+Somebody reported a car in the bushes
+down the road.
+
+1102
+01:14:34,586 --> 01:14:37,088
+I'm gonna go check it out.
+You care to join me?
+
+1103
+01:14:37,881 --> 01:14:39,007
+I'd love to.
+
+1104
+01:14:39,591 --> 01:14:41,176
+If you're sure it's all right.
+
+1105
+01:14:42,177 --> 01:14:44,763
+Ma'am, I'm the deputy of this town.
+
+1106
+01:14:47,265 --> 01:14:48,516
+Be right back.
+
+1107
+01:14:51,895 --> 01:14:54,981
+<i>You see, you push the laws
+and you end up dead, okay?</i>
+
+1108
+01:14:55,065 --> 01:14:56,107
+Excuse me, ma'am.
+
+1109
+01:14:57,442 --> 01:14:59,110
+I thought maybe we'd walk.
+
+1110
+01:15:00,946 --> 01:15:02,572
+It's such a nice night out.
+
+1111
+01:15:03,406 --> 01:15:04,991
+I got a flashlight.
+
+1112
+01:15:07,410 --> 01:15:08,953
+You're not scared, are you?
+
+1113
+01:15:09,037 --> 01:15:10,038
+No.
+
+1114
+01:15:10,997 --> 01:15:12,999
+- All right.
+- Great.
+
+1115
+01:15:17,545 --> 01:15:19,589
+Do you know what that constellation is?
+
+1116
+01:15:19,673 --> 01:15:20,715
+No. What is it?
+
+1117
+01:15:21,841 --> 01:15:23,941
+I don't know. That's why I was asking you.
+
+1118
+01:15:26,888 --> 01:15:28,681
+Take it easy, guys. You guys drive safe.
+
+1119
+01:15:28,765 --> 01:15:31,642
+- So what happened to Tatum, Stu?
+- Probably got pissed at me and bailed.
+
+1120
+01:15:31,726 --> 01:15:32,811
+- Bye.
+- Bye.
+
+1121
+01:15:35,522 --> 01:15:37,472
+I'm just kidding. I'm just kidding you.
+
+1122
+01:15:45,615 --> 01:15:46,616
+Hey.
+
+1123
+01:15:53,790 --> 01:15:56,543
+Look! Here comes the obligatory tit shot.
+
+1124
+01:16:00,463 --> 01:16:02,048
+- Yes!
+- Lovely!
+
+1125
+01:16:04,342 --> 01:16:05,676
+Oh, my God.
+
+1126
+01:16:05,760 --> 01:16:07,178
+I'll leave you guys alone.
+
+1127
+01:16:08,471 --> 01:16:09,889
+You are so
+
+1128
+01:16:11,766 --> 01:16:12,851
+amazing.
+
+1129
+01:16:19,399 --> 01:16:20,400
+Hello?
+
+1130
+01:16:20,942 --> 01:16:21,943
+Yeah.
+
+1131
+01:16:26,823 --> 01:16:28,491
+Holy shit.
+
+1132
+01:16:30,493 --> 01:16:31,494
+No...
+
+1133
+01:16:32,954 --> 01:16:34,288
+Listen up.
+
+1134
+01:16:34,372 --> 01:16:36,207
+They found Principal Himbry dead.
+
+1135
+01:16:37,292 --> 01:16:40,252
+He was gutted and hung
+from the goalpost on the football field.
+
+1136
+01:16:40,336 --> 01:16:41,629
+What are we waiting for?
+
+1137
+01:16:41,713 --> 01:16:43,913
+Let's go over there
+before they pry him down.
+
+1138
+01:16:44,716 --> 01:16:45,717
+Hey.
+
+1139
+01:16:46,968 --> 01:16:47,969
+Hey.
+
+1140
+01:16:48,053 --> 01:16:49,470
+Hey, where'd he say he was?
+
+1141
+01:16:49,554 --> 01:16:51,347
+The football field! Come on!
+
+1142
+01:16:52,057 --> 01:16:53,224
+Where you guys going?
+
+1143
+01:16:55,560 --> 01:16:57,460
+We were just getting to the good part.
+
+1144
+01:16:58,354 --> 01:16:59,563
+<i>Hello?</i>
+
+1145
+01:16:59,647 --> 01:17:00,648
+<i>Yeah.</i>
+
+1146
+01:17:25,298 --> 01:17:26,633
+Come on! Let's go!
+
+1147
+01:17:27,550 --> 01:17:29,427
+So, is Dewey your real name?
+
+1148
+01:17:30,303 --> 01:17:31,846
+No, it's Dwight.
+
+1149
+01:17:31,930 --> 01:17:32,931
+Dwight?
+
+1150
+01:17:33,556 --> 01:17:35,767
+- I'm sorry.
+- It's all right.
+
+1151
+01:17:36,392 --> 01:17:39,142
+Dewey's just something I got stuck with
+a long time ago.
+
+1152
+01:17:40,063 --> 01:17:41,231
+Well, I like it.
+
+1153
+01:17:43,024 --> 01:17:44,025
+Sexy.
+
+1154
+01:17:44,567 --> 01:17:45,652
+Sexy?
+
+1155
+01:17:47,487 --> 01:17:50,198
+It's just this town's way
+of not taking me serious.
+
+1156
+01:17:50,865 --> 01:17:52,367
+What about Gale Weathers?
+
+1157
+01:17:53,618 --> 01:17:56,162
+Sounds like I'm a meteorologist
+or something.
+
+1158
+01:17:57,831 --> 01:18:01,709
+People treat me like I'm the Antichrist
+of television journalism.
+
+1159
+01:18:02,961 --> 01:18:04,336
+I don't think you're that bad.
+
+1160
+01:18:04,420 --> 01:18:05,504
+- No?
+- No.
+
+1161
+01:18:05,588 --> 01:18:07,888
+I think that's just 'cause
+you kind of like me.
+
+1162
+01:18:08,216 --> 01:18:11,261
+They sure are coming fast.
+Slow down. Freeze!
+
+1163
+01:18:16,850 --> 01:18:17,851
+I'm sorry.
+
+1164
+01:18:18,393 --> 01:18:19,853
+- Are you okay?
+- Yeah.
+
+1165
+01:18:32,699 --> 01:18:33,700
+I'm sorry.
+
+1166
+01:18:34,325 --> 01:18:35,368
+I'm on duty.
+
+1167
+01:18:44,294 --> 01:18:45,894
+Is that what you're looking for?
+
+1168
+01:18:46,796 --> 01:18:47,839
+My whole life.
+
+1169
+01:18:53,887 --> 01:18:55,263
+- Damn.
+- What?
+
+1170
+01:18:56,264 --> 01:18:58,224
+- What is it?
+- This is Neil Prescott's car.
+
+1171
+01:18:58,308 --> 01:18:59,934
+- Sidney's father?
+- Yeah.
+
+1172
+01:19:02,145 --> 01:19:03,730
+Jesus. What's he doing here?
+
+1173
+01:19:05,648 --> 01:19:06,733
+We got to get back.
+
+1174
+01:19:11,279 --> 01:19:12,280
+Are you okay?
+
+1175
+01:19:14,782 --> 01:19:15,783
+Yeah.
+
+1176
+01:19:16,826 --> 01:19:17,911
+Yeah, I'm fine.
+
+1177
+01:19:29,339 --> 01:19:30,465
+Who'd you call?
+
+1178
+01:19:31,299 --> 01:19:32,342
+What?
+
+1179
+01:19:33,218 --> 01:19:35,094
+Well, I don't know. When you're arrested,
+
+1180
+01:19:35,178 --> 01:19:38,578
+you're allowed one phone call,
+so I was just curious. Who'd you call?
+
+1181
+01:19:41,809 --> 01:19:42,977
+I called my dad.
+
+1182
+01:19:45,772 --> 01:19:49,025
+No. Sheriff Burke called your dad.
+I saw him.
+
+1183
+01:19:52,028 --> 01:19:55,365
+Yeah. But when I called,
+I didn't get an answer.
+
+1184
+01:20:07,085 --> 01:20:09,087
+You don't still think it was me, do you?
+
+1185
+01:20:13,299 --> 01:20:14,300
+No.
+
+1186
+01:20:16,052 --> 01:20:17,053
+No.
+
+1187
+01:20:17,679 --> 01:20:19,138
+I was just thinking if it were you,
+
+1188
+01:20:19,222 --> 01:20:22,266
+it'd be a very clever way
+to throw me off track.
+
+1189
+01:20:22,350 --> 01:20:24,185
+You know, using your one phone call
+to call me
+
+1190
+01:20:24,269 --> 01:20:26,619
+so that I wouldn't think it was you.
+That's all.
+
+1191
+01:20:28,273 --> 01:20:29,315
+Really?
+
+1192
+01:20:37,323 --> 01:20:41,703
+What do I have to do to prove to you
+that I'm not a killer?
+
+1193
+01:20:43,538 --> 01:20:44,580
+Oh, my God.
+
+1194
+01:20:47,500 --> 01:20:48,959
+- Oh, my God!
+- Sidney.
+
+1195
+01:20:49,043 --> 01:20:50,044
+Billy, watch out!
+
+1196
+01:21:00,555 --> 01:21:01,556
+Sid.
+
+1197
+01:21:39,177 --> 01:21:40,178
+Shit.
+
+1198
+01:21:46,809 --> 01:21:49,103
+Help me, somebody! Help me!
+
+1199
+01:22:07,580 --> 01:22:08,581
+Help me!
+
+1200
+01:22:39,946 --> 01:22:41,239
+No, Jamie.
+
+1201
+01:22:43,157 --> 01:22:44,367
+Watch out.
+
+1202
+01:22:44,909 --> 01:22:47,077
+Watch out, Jamie. You know he's around.
+
+1203
+01:22:47,161 --> 01:22:48,371
+You... You know...
+
+1204
+01:22:50,665 --> 01:22:54,127
+There he is. I told you.
+I told you. He's right around the corner.
+
+1205
+01:22:55,503 --> 01:22:57,547
+Jamie... Jamie.
+
+1206
+01:22:58,965 --> 01:23:03,344
+Jamie, look behind you.
+Look behind you. Turn around.
+
+1207
+01:23:04,554 --> 01:23:06,722
+Behind you. Turn...
+
+1208
+01:23:07,557 --> 01:23:08,975
+Behind you.
+
+1209
+01:23:09,809 --> 01:23:11,352
+Behind you, Jamie.
+
+1210
+01:23:12,186 --> 01:23:16,357
+Jamie, turn around.
+All right! You turned around.
+
+1211
+01:23:16,441 --> 01:23:18,067
+Help me! Help!
+
+1212
+01:23:31,289 --> 01:23:32,415
+Let me in!
+
+1213
+01:23:34,709 --> 01:23:36,668
+- The killer's after me. He's in the house.
+- Where?
+
+1214
+01:23:36,752 --> 01:23:38,921
+Wait a minute.
+There's a camera in the house. Look.
+
+1215
+01:23:39,005 --> 01:23:41,507
+<i>Behind you!</i>
+
+1216
+01:23:42,383 --> 01:23:43,468
+- Oh, shit.
+- No.
+
+1217
+01:23:44,302 --> 01:23:45,719
+<i>Jamie, Jamie...</i>
+
+1218
+01:23:45,803 --> 01:23:47,103
+- Behind you, kid!
+- Randy!
+
+1219
+01:23:48,055 --> 01:23:50,433
+- Behind you!
+<i>- Look around.</i>
+
+1220
+01:23:53,186 --> 01:23:54,436
+Shit.
+
+1221
+01:23:54,520 --> 01:23:56,320
+- What?
+- We're on a 30-second delay.
+
+1222
+01:23:57,106 --> 01:23:58,107
+Oh, my God.
+
+1223
+01:24:51,536 --> 01:24:53,386
+- Is there a phone in the van?
+- Yeah.
+
+1224
+01:24:54,997 --> 01:24:57,458
+Lock yourself in it.
+Call the sheriff for backup.
+
+1225
+01:24:59,961 --> 01:25:00,962
+Be careful.
+
+1226
+01:25:14,976 --> 01:25:15,977
+Neil?
+
+1227
+01:25:22,441 --> 01:25:23,609
+Mr. Prescott?
+
+1228
+01:25:44,463 --> 01:25:46,007
+Kenny, I need the cellular!
+
+1229
+01:25:50,469 --> 01:25:51,512
+Kenny!
+
+1230
+01:25:53,347 --> 01:25:54,348
+Kenny!
+
+1231
+01:26:20,041 --> 01:26:21,542
+<i>- 911.</i>
+- What's going on?
+
+1232
+01:26:36,223 --> 01:26:37,224
+Oh, God.
+
+1233
+01:26:53,908 --> 01:26:57,203
+Oh, God, Kenny, I'm sorry,
+but get off my fucking windshield!
+
+1234
+01:27:02,333 --> 01:27:03,668
+Stop!
+
+1235
+01:27:12,593 --> 01:27:13,719
+No!
+
+1236
+01:27:24,021 --> 01:27:25,022
+Dewey!
+
+1237
+01:27:26,565 --> 01:27:27,733
+Dewey, where are you?
+
+1238
+01:27:30,611 --> 01:27:31,612
+Dewey!
+
+1239
+01:27:33,656 --> 01:27:34,699
+Sidney?
+
+1240
+01:27:40,371 --> 01:27:41,372
+Dewey!
+
+1241
+01:28:09,942 --> 01:28:10,943
+Shit.
+
+1242
+01:28:41,682 --> 01:28:44,643
+Hello? Help me, please.
+I'm at Stu Macher's house on Turner Lane.
+
+1243
+01:28:44,727 --> 01:28:48,522
+It's 261 Turner Lane. Please!
+He's gonna try and kill me!
+
+1244
+01:28:49,064 --> 01:28:50,524
+Oh, God!
+
+1245
+01:29:11,504 --> 01:29:13,130
+Sidney!
+
+1246
+01:29:14,256 --> 01:29:17,217
+Sidney, Jesus,
+we got to get the fuck out of here!
+
+1247
+01:29:17,301 --> 01:29:19,136
+- Stop right there!
+- Don't shoot! It's me!
+
+1248
+01:29:19,220 --> 01:29:21,680
+I found Tatum.
+She's dead! I think Stu did it.
+
+1249
+01:29:21,764 --> 01:29:23,724
+- Don't listen to him, Sidney!
+- Stay back.
+
+1250
+01:29:23,808 --> 01:29:25,642
+- Stu did it!
+- He killed Billy.
+
+1251
+01:29:25,726 --> 01:29:28,019
+- He killed my Tatum. He killed Billy.
+- Stu did it.
+
+1252
+01:29:28,103 --> 01:29:29,646
+- No, I didn't!
+- He's lying!
+
+1253
+01:29:29,730 --> 01:29:33,400
+Sidney, baby, please give me that gun.
+Give me that gun! He killed Billy.
+
+1254
+01:29:33,484 --> 01:29:36,528
+No, I didn't, Sid. He did it!
+
+1255
+01:29:36,612 --> 01:29:38,196
+He did it, Sidney!
+
+1256
+01:29:38,280 --> 01:29:40,157
+Please, I didn't do it. He did it. Please!
+
+1257
+01:29:40,241 --> 01:29:42,743
+- Please, Sidney!
+- Fuck you both!
+
+1258
+01:29:42,827 --> 01:29:43,869
+- Please.
+- No! No!
+
+1259
+01:29:43,953 --> 01:29:44,995
+Sidney!
+
+1260
+01:29:46,247 --> 01:29:48,499
+- Open up, Sid!
+- We won't make it!
+
+1261
+01:29:50,167 --> 01:29:52,044
+Help me, he's gone crazy!
+
+1262
+01:29:52,962 --> 01:29:54,588
+- Sidney!
+- Go away!
+
+1263
+01:29:55,297 --> 01:29:56,298
+Sidney?
+
+1264
+01:29:57,424 --> 01:29:58,801
+Leave me alone.
+
+1265
+01:30:05,057 --> 01:30:06,392
+- Sid.
+- Billy.
+
+1266
+01:30:14,024 --> 01:30:16,401
+- Billy! Are you okay?
+- I'm okay.
+
+1267
+01:30:16,485 --> 01:30:18,653
+Oh, God. I thought you were dead.
+
+1268
+01:30:18,737 --> 01:30:21,115
+No. I mean, I got stuck pretty bad...
+
+1269
+01:30:21,740 --> 01:30:22,741
+Get up.
+
+1270
+01:30:23,909 --> 01:30:25,870
+- You okay?
+- You're bleeding.
+
+1271
+01:30:27,288 --> 01:30:28,538
+- Oh, my God.
+- Gotta get help.
+
+1272
+01:30:28,622 --> 01:30:29,706
+No! He's out there!
+
+1273
+01:30:29,790 --> 01:30:33,794
+No. Give me the gun. Give me the gun.
+It's okay. It's okay. It's okay.
+
+1274
+01:30:34,837 --> 01:30:35,838
+Careful.
+
+1275
+01:30:37,882 --> 01:30:39,758
+- Please help me!
+- Get in. Get in.
+
+1276
+01:30:40,426 --> 01:30:42,720
+Stu's flipped out! He's gone mad!
+
+1277
+01:30:45,222 --> 01:30:47,307
+We all go a little mad sometimes.
+
+1278
+01:30:47,391 --> 01:30:48,976
+- No, Billy!
+- Oh, fuck!
+
+1279
+01:30:56,233 --> 01:30:58,152
+Anthony Perkins, <i>Psycho.</i>
+
+1280
+01:31:05,534 --> 01:31:06,910
+Corn syrup.
+
+1281
+01:31:06,994 --> 01:31:09,330
+Same stuff they used
+for pig's blood in <i>Carrie.</i>
+
+1282
+01:31:10,539 --> 01:31:12,041
+No. No.
+
+1283
+01:31:13,500 --> 01:31:15,878
+Stu, help me, please.
+
+1284
+01:31:18,797 --> 01:31:20,716
+Surprise, Sidney.
+
+1285
+01:31:25,012 --> 01:31:26,639
+No!
+
+1286
+01:31:27,723 --> 01:31:28,724
+Oh, now.
+
+1287
+01:31:32,811 --> 01:31:35,811
+What's the matter, Sidney?
+You look like you've seen a ghost.
+
+1288
+01:31:36,649 --> 01:31:38,191
+Why are you doing this?
+
+1289
+01:31:38,275 --> 01:31:40,443
+It's all part of the game, Sidney.
+
+1290
+01:31:40,527 --> 01:31:43,280
+- It's called Guess How I'm Gonna Die!
+- Fuck you!
+
+1291
+01:31:43,364 --> 01:31:47,159
+No, no, no, no. We already played
+that game, remember?
+
+1292
+01:31:48,035 --> 01:31:49,536
+You lost.
+
+1293
+01:31:49,620 --> 01:31:51,079
+See, fun and games, Sidney.
+
+1294
+01:31:51,163 --> 01:31:53,958
+See, we ask you a question.
+If you get it wrong
+
+1295
+01:31:55,376 --> 01:31:56,376
+you die.
+
+1296
+01:31:56,460 --> 01:31:58,671
+If you get it right, you die.
+
+1297
+01:31:59,588 --> 01:32:01,214
+You're crazy, both of you.
+
+1298
+01:32:01,298 --> 01:32:03,425
+Actually we prefer the term psychotic.
+
+1299
+01:32:03,509 --> 01:32:05,109
+You'll never get away with this.
+
+1300
+01:32:05,970 --> 01:32:06,971
+Oh, no?
+
+1301
+01:32:08,180 --> 01:32:09,807
+Tell that to Cotton Weary.
+
+1302
+01:32:10,557 --> 01:32:13,268
+You wouldn't believe
+how easy he was to frame.
+
+1303
+01:32:13,936 --> 01:32:16,397
+Watch a few movies, take a few notes.
+
+1304
+01:32:17,398 --> 01:32:18,649
+It was fun.
+
+1305
+01:32:19,274 --> 01:32:21,276
+- No!
+- Where you going?
+
+1306
+01:32:23,237 --> 01:32:24,238
+Why?
+
+1307
+01:32:26,031 --> 01:32:27,407
+Why did you kill my mother?
+
+1308
+01:32:27,491 --> 01:32:28,783
+Why?
+
+1309
+01:32:28,867 --> 01:32:29,952
+Why?
+
+1310
+01:32:31,996 --> 01:32:34,296
+You hear that, Stu?
+I think she wants a motive.
+
+1311
+01:32:36,166 --> 01:32:37,459
+I don't believe in motives, Sid.
+
+1312
+01:32:37,543 --> 01:32:39,961
+- I mean, did Norman Bates have a motive?
+- No.
+
+1313
+01:32:40,045 --> 01:32:42,589
+Did they ever really decide why
+Hannibal Lecter liked to eat people?
+
+1314
+01:32:42,673 --> 01:32:44,215
+Don't think so.
+
+1315
+01:32:44,299 --> 01:32:46,927
+See, it's a lot scarier
+when there's no motive, Sid.
+
+1316
+01:32:48,262 --> 01:32:49,679
+We did your mom a favor, Sid.
+
+1317
+01:32:49,763 --> 01:32:52,390
+That woman was a slutbag whore
+who flashed her shit all over town
+
+1318
+01:32:52,474 --> 01:32:54,351
+like she was Sharon Stone or something.
+
+1319
+01:32:54,435 --> 01:32:56,895
+Yeah, we put her out of her misery,
+'cause let's face it, Sidney,
+
+1320
+01:32:56,979 --> 01:32:59,231
+your mother was no Sharon Stone.
+
+1321
+01:33:05,362 --> 01:33:06,905
+Is that motive enough for you?
+
+1322
+01:33:10,034 --> 01:33:11,326
+How about this?
+
+1323
+01:33:12,995 --> 01:33:16,623
+Your slut mother was fucking my father...
+
+1324
+01:33:18,625 --> 01:33:21,628
+and she's the reason
+my mom moved out and abandoned me.
+
+1325
+01:33:24,506 --> 01:33:25,966
+How's that for a motive?
+
+1326
+01:33:27,718 --> 01:33:30,095
+Maternal abandonment
+causes serious deviant behavior.
+
+1327
+01:33:30,179 --> 01:33:33,306
+Certainly fucked you up.
+It made you have sex with a psychopath.
+
+1328
+01:33:33,390 --> 01:33:35,600
+That's right. You gave it up.
+
+1329
+01:33:35,684 --> 01:33:37,352
+Now you're no longer a virgin.
+
+1330
+01:33:38,020 --> 01:33:39,188
+I said "virgin."
+
+1331
+01:33:40,105 --> 01:33:43,066
+Now you gotta die. Those are the rules.
+
+1332
+01:33:43,150 --> 01:33:45,235
+Just pretend it's all a scary movie, Sid.
+
+1333
+01:33:45,944 --> 01:33:47,544
+How do you think it's gonna end?
+
+1334
+01:33:51,617 --> 01:33:54,202
+This is the greatest part!
+You're gonna love this.
+
+1335
+01:33:54,286 --> 01:33:56,080
+We got a surprise for you, Sidney.
+
+1336
+01:33:56,663 --> 01:33:59,666
+Yeah, you're gonna love this one.
+It's a scream, baby!
+
+1337
+01:33:59,750 --> 01:34:01,919
+Hold on a sec. I'll be right back.
+
+1338
+01:34:03,754 --> 01:34:05,089
+Know what time it is, Sid?
+
+1339
+01:34:05,839 --> 01:34:06,924
+It's after midnight.
+
+1340
+01:34:07,633 --> 01:34:09,384
+It's your mom's anniversary.
+
+1341
+01:34:10,135 --> 01:34:13,722
+Congratulations. We killed her exactly
+one year ago today.
+
+1342
+01:34:14,598 --> 01:34:15,974
+Attention.
+
+1343
+01:34:17,059 --> 01:34:19,060
+What do we have
+behind door number three, Sidney?
+
+1344
+01:34:19,144 --> 01:34:21,939
+- Daddy!
+- Hold it. That's enough.
+
+1345
+01:34:23,315 --> 01:34:25,984
+Guess we won't be needing
+this anymore, huh?
+
+1346
+01:34:26,068 --> 01:34:28,153
+And, oh, look at this. Ring, ring.
+
+1347
+01:34:28,237 --> 01:34:29,362
+Won't need this.
+
+1348
+01:34:29,446 --> 01:34:31,031
+Got the ending figured out yet, Sid?
+
+1349
+01:34:31,115 --> 01:34:33,283
+Come on, Sidney,
+you think about it now, huh?
+
+1350
+01:34:33,367 --> 01:34:36,327
+Your daddy's the chief suspect.
+We cloned his cellular.
+
+1351
+01:34:36,411 --> 01:34:38,371
+Evidence is all right there, baby.
+
+1352
+01:34:38,455 --> 01:34:40,957
+What if your father snapped,
+your mother's anniversary set him off,
+
+1353
+01:34:41,041 --> 01:34:43,209
+and he went on a murder spree
+killing everyone?
+
+1354
+01:34:43,293 --> 01:34:45,545
+Except for Billy and me.
+We were left for dead.
+
+1355
+01:34:45,629 --> 01:34:50,509
+Then he kills you
+and shoots himself in the head.
+
+1356
+01:34:51,426 --> 01:34:52,510
+Perfect ending.
+
+1357
+01:34:52,594 --> 01:34:54,388
+I thought of that.
+
+1358
+01:34:55,139 --> 01:34:56,265
+Watch this.
+
+1359
+01:35:01,145 --> 01:35:02,479
+- You ready?
+- Yeah.
+
+1360
+01:35:02,563 --> 01:35:06,691
+Yeah! I'm ready, baby! Hit it!
+
+1361
+01:35:06,775 --> 01:35:09,570
+Giddyap! Yeah, man! Giddyap! Hit it!
+
+1362
+01:35:14,366 --> 01:35:16,951
+Good one, man! Jesus!
+
+1363
+01:35:17,035 --> 01:35:19,538
+Oh, shit! My turn.
+
+1364
+01:35:23,584 --> 01:35:26,211
+Don't forget.
+Stay to the side and don't go too deep.
+
+1365
+01:35:27,546 --> 01:35:29,840
+Okay. I'll remember.
+
+1366
+01:35:31,675 --> 01:35:32,801
+Fuck!
+
+1367
+01:35:34,428 --> 01:35:36,346
+Fuck! God damn it, Stu!
+
+1368
+01:35:37,014 --> 01:35:40,058
+Sorry, Billy.
+I guess I got a little too zealous, huh?
+
+1369
+01:35:41,351 --> 01:35:43,187
+- Give me the knife.
+- No.
+
+1370
+01:35:44,396 --> 01:35:45,606
+Give me the knife!
+
+1371
+01:35:48,984 --> 01:35:50,319
+Now!
+
+1372
+01:35:53,155 --> 01:35:57,951
+You see, Sid? Everybody dies, but us.
+Everybody dies, but us!
+
+1373
+01:35:58,035 --> 01:36:00,578
+We get to carry on and plan the sequel
+
+1374
+01:36:00,662 --> 01:36:04,958
+'cause let's face it, baby,
+these days, you gotta have a sequel!
+
+1375
+01:36:08,003 --> 01:36:10,588
+You sick fucks.
+You've seen one too many movies.
+
+1376
+01:36:10,672 --> 01:36:13,007
+No, Sid, don't you blame the movies!
+
+1377
+01:36:13,091 --> 01:36:16,970
+Movies don't create psychos.
+Movies make psychos more creative!
+
+1378
+01:36:18,931 --> 01:36:21,850
+Stop it, man, would you? All right?
+I can't take any more.
+
+1379
+01:36:22,559 --> 01:36:24,770
+I'm feeling a little woozy here!
+
+1380
+01:36:27,272 --> 01:36:28,273
+All right.
+
+1381
+01:36:30,067 --> 01:36:33,195
+You get the gun,
+and I'll untie Pops, okay?
+
+1382
+01:36:36,615 --> 01:36:37,616
+Now!
+
+1383
+01:36:38,784 --> 01:36:39,785
+Okay.
+
+1384
+01:36:51,588 --> 01:36:55,217
+Houston, we have a problem here.
+
+1385
+01:36:57,261 --> 01:36:58,344
+What?
+
+1386
+01:36:58,428 --> 01:37:02,307
+The gun, man. The gun.
+I put it right here, and it's not there.
+
+1387
+01:37:03,558 --> 01:37:04,976
+Where the fuck is it?
+
+1388
+01:37:05,060 --> 01:37:06,270
+Right here, asshole.
+
+1389
+01:37:09,106 --> 01:37:13,193
+- Man, I thought she was dead.
+- She looked dead, man. Still does.
+
+1390
+01:37:13,277 --> 01:37:14,777
+I've got an ending for you.
+
+1391
+01:37:14,861 --> 01:37:17,322
+"The reporter left for dead
+in the news van
+
+1392
+01:37:17,906 --> 01:37:22,369
+comes to, stumbles on you two dipshits,
+
+1393
+01:37:23,245 --> 01:37:27,708
+"finds the gun,
+foils your plan, and saves the day."
+
+1394
+01:37:29,543 --> 01:37:30,919
+I like that ending.
+
+1395
+01:37:32,879 --> 01:37:34,464
+I know something you don't.
+
+1396
+01:37:43,307 --> 01:37:44,516
+Yeah, man!
+
+1397
+01:37:45,684 --> 01:37:46,685
+Yeah.
+
+1398
+01:37:48,812 --> 01:37:50,147
+So sweet.
+
+1399
+01:37:54,568 --> 01:37:56,737
+Works better without the safety on.
+
+1400
+01:38:05,537 --> 01:38:07,747
+"This is Gale Weathers, signing off."
+
+1401
+01:38:07,831 --> 01:38:09,916
+Baby, you are gonna love this.
+
+1402
+01:38:12,085 --> 01:38:13,211
+Shit.
+
+1403
+01:38:15,797 --> 01:38:16,798
+What?
+
+1404
+01:38:23,513 --> 01:38:25,063
+Where are they? Where are they?
+
+1405
+01:38:25,724 --> 01:38:27,934
+I don't know, Billy, but I'm hurting, man!
+
+1406
+01:38:28,018 --> 01:38:29,061
+Fuck!
+
+1407
+01:38:31,521 --> 01:38:33,121
+Should I let the machine get it?
+
+1408
+01:38:35,150 --> 01:38:37,069
+- Hello?
+<i>- Are you alone in the house?</i>
+
+1409
+01:38:37,944 --> 01:38:40,321
+Bitch! You bitch! Where the fuck are you?
+
+1410
+01:38:40,405 --> 01:38:43,157
+<i>Not so fast.
+We're gonna play a little game.</i>
+
+1411
+01:38:43,241 --> 01:38:44,951
+<i>It's called
+Guess Who Just Called the Police</i>
+
+1412
+01:38:45,035 --> 01:38:47,135
+<i>and Reported Your Sorry Motherfucking Ass!</i>
+
+1413
+01:38:47,788 --> 01:38:49,664
+Find her, you dipshit! Get up!
+
+1414
+01:38:49,748 --> 01:38:53,877
+I can't, Billy. You cut me too deep.
+I think I'm dying here, man.
+
+1415
+01:38:57,381 --> 01:38:59,216
+Talk to her. Talk to her.
+
+1416
+01:39:06,390 --> 01:39:07,598
+Hello?
+
+1417
+01:39:07,682 --> 01:39:11,769
+<i>Aw, Stu, Stu, Stu.
+What's your motive? Billy's got one.</i>
+
+1418
+01:39:11,853 --> 01:39:14,147
+<i>The police are on their way.
+What are you gonna tell them?</i>
+
+1419
+01:39:14,231 --> 01:39:16,607
+Peer pressure. I'm far too sensitive...
+
+1420
+01:39:16,691 --> 01:39:19,319
+I'm gonna rip you up, you bitch!
+Just like your fucking mother!
+
+1421
+01:39:19,403 --> 01:39:21,863
+<i>You've gotta find me first,
+you pansy-ass mama's boy!</i>
+
+1422
+01:39:21,947 --> 01:39:22,948
+Fuck!
+
+1423
+01:39:23,573 --> 01:39:25,867
+Fucking hit me with the phone, dick!
+
+1424
+01:39:26,993 --> 01:39:28,161
+Fucker, where are you?
+
+1425
+01:39:30,747 --> 01:39:31,748
+You fuck!
+
+1426
+01:39:34,209 --> 01:39:35,710
+Did you really call the police?
+
+1427
+01:39:35,794 --> 01:39:37,337
+<i>You bet your sorry ass I did.</i>
+
+1428
+01:39:38,296 --> 01:39:41,633
+My mom and dad are gonna be so mad at me.
+
+1429
+01:39:43,051 --> 01:39:44,052
+Bitch!
+
+1430
+01:40:41,610 --> 01:40:42,611
+My eyes!
+
+1431
+01:40:50,869 --> 01:40:53,288
+I always had a thing for you, Sid!
+
+1432
+01:40:56,625 --> 01:40:57,834
+God.
+
+1433
+01:40:59,002 --> 01:40:59,961
+Bitch.
+
+1434
+01:41:01,046 --> 01:41:02,130
+In your dreams.
+
+1435
+01:41:27,197 --> 01:41:29,031
+Sid! I'm sorry. It's all right.
+
+1436
+01:41:29,115 --> 01:41:31,200
+Oh, my God, Randy.
+I thought you were dead.
+
+1437
+01:41:31,284 --> 01:41:34,684
+I probably should be. I never thought
+I'd be so happy to be a virgin.
+
+1438
+01:41:35,539 --> 01:41:36,540
+Fucker!
+
+1439
+01:41:43,588 --> 01:41:45,131
+Say hello to your mother.
+
+1440
+01:42:20,792 --> 01:42:21,793
+It's okay.
+
+1441
+01:42:25,672 --> 01:42:28,466
+Guess I remembered the safety that time,
+you bastard.
+
+1442
+01:42:41,104 --> 01:42:42,105
+Careful.
+
+1443
+01:42:42,689 --> 01:42:46,442
+This is the moment when the supposedly
+dead killer comes back to life
+
+1444
+01:42:46,526 --> 01:42:47,902
+for one last scare.
+
+1445
+01:42:53,491 --> 01:42:54,868
+Not in my movie.
+
+1446
+01:43:00,957 --> 01:43:02,083
+Dad.
+
+1447
+01:43:03,168 --> 01:43:04,711
+Randy, help me out.
+
+1448
+01:43:09,341 --> 01:43:10,383
+Are you okay?
+
+1449
+01:43:13,470 --> 01:43:15,096
+- Are you okay?
+- Yeah.
+
+1450
+01:43:16,973 --> 01:43:18,808
+- Hang in there, buddy.
+- All right.
+
+1451
+01:43:20,769 --> 01:43:22,687
+- It collapses.
+- Where's Gale?
+
+1452
+01:43:23,813 --> 01:43:27,113
+Okay, I think it's gonna go
+something like this. Just stay with me.
+
+1453
+01:43:28,652 --> 01:43:32,029
+Hi. This is Gale Weathers
+with an exclusive eyewitness account
+
+1454
+01:43:32,113 --> 01:43:34,032
+of this amazing breaking story.
+
+1455
+01:43:35,200 --> 01:43:39,662
+Several more local teens are dead,
+bringing to an end the harrowing mystery
+
+1456
+01:43:39,746 --> 01:43:43,082
+of the mass killing
+that has terrified this peaceful community
+
+1457
+01:43:43,166 --> 01:43:45,251
+like the plot of some scary movie.
+
+1458
+01:43:45,960 --> 01:43:48,546
+It all began with a scream over 911
+
+1459
+01:43:48,630 --> 01:43:52,300
+and ended in a bloodbath
+that has rocked the town of Woodsboro,
+
+1460
+01:43:52,926 --> 01:43:55,386
+all played out here
+in this peaceful farmhouse,
+
+1461
+01:43:55,470 --> 01:43:58,222
+far from the crimes and the sirens
+of the larger cities
+
+1462
+01:43:58,306 --> 01:44:00,224
+that its residents have fled.
+
+1463
+01:44:00,308 --> 01:44:01,809
+Okay, let's take it back to one.
+
+1464
+01:44:01,893 --> 01:44:04,521
+Come on. Move it.
+This is my big shot. Let's go.
+

@@ -1,0 +1,5585 @@
+1
+00:03:42,976 --> 00:03:45,353
+Nice place.
+I've seen better.
+
+2
+00:03:59,201 --> 00:04:00,785
+Everybody downstairs.
+
+3
+00:04:04,664 --> 00:04:06,416
+Good afternoon.
+Afternoon, sir.
+
+4
+00:04:06,499 --> 00:04:08,877
+Where do you want this?
+Just through there.
+
+5
+00:04:09,002 --> 00:04:11,046
+Come on, you guys. I've got a surprise.
+
+6
+00:04:11,171 --> 00:04:14,758
+Want to place him right over here, sir?
+Here's a place.
+
+7
+00:04:15,258 --> 00:04:16,760
+Move it over here.
+
+8
+00:04:22,474 --> 00:04:24,684
+Sweetie, come away from it, please.
+
+9
+00:04:27,103 --> 00:04:28,980
+What is it, Daddy?
+Wait.
+
+10
+00:04:59,928 --> 00:05:02,222
+Thank you, sir. Enjoy your NDR.
+
+11
+00:05:17,696 --> 00:05:21,449
+North Am Robotics,
+household model, NDR-114.
+
+12
+00:05:21,533 --> 00:05:23,577
+Serial number 583625.
+
+13
+00:05:32,169 --> 00:05:33,086
+Hello.
+
+14
+00:05:34,421 --> 00:05:35,338
+Hello.
+
+15
+00:05:38,425 --> 00:05:40,010
+Are you one's family?
+
+16
+00:05:42,971 --> 00:05:44,139
+I guess so.
+
+17
+00:05:54,149 --> 00:05:57,402
+It's scary.
+It's not scary. It's stupid.
+
+18
+00:05:57,944 --> 00:05:59,112
+I doubt that.
+
+19
+00:05:59,237 --> 00:06:02,490
+Jenny Harrison's family's got one.
+So did Kate McCalister.
+
+20
+00:06:03,241 --> 00:06:05,285
+They're all the same.
+What is it?
+
+21
+00:06:05,368 --> 00:06:06,745
+It's an android.
+
+22
+00:06:07,162 --> 00:06:08,580
+What's an Andrew?
+
+23
+00:06:11,333 --> 00:06:13,043
+Will that be one's name?
+
+24
+00:06:13,460 --> 00:06:14,461
+Why not?
+
+25
+00:06:15,045 --> 00:06:16,213
+Sounds good.
+
+26
+00:06:17,088 --> 00:06:18,173
+Hello, Andrew.
+
+27
+00:06:18,298 --> 00:06:19,466
+Hello, Sir.
+
+28
+00:06:20,342 --> 00:06:22,469
+Care to hear
+"The Three Laws of Robotics"?
+
+29
+00:06:22,594 --> 00:06:25,263
+It's said to be a most
+entertaining presentation.
+
+30
+00:06:26,014 --> 00:06:27,015
+Sure.
+
+31
+00:06:27,349 --> 00:06:30,268
+Will you step back, Sir,
+to maximise presentation?
+
+32
+00:06:44,866 --> 00:06:46,493
+First Law of Robotics:
+
+33
+00:06:46,660 --> 00:06:49,454
+A robot may not injure a human being...
+
+34
+00:06:49,663 --> 00:06:53,083
+...or, through inaction,
+cause a human being to come to harm.
+
+35
+00:06:54,167 --> 00:06:55,710
+Second Law:
+
+36
+00:06:56,169 --> 00:06:58,797
+A robot must obey all human orders...
+
+37
+00:06:59,214 --> 00:07:02,968
+...except where those orders
+come in conflict with the first law.
+
+38
+00:07:03,385 --> 00:07:04,469
+Third Law:
+
+39
+00:07:04,553 --> 00:07:07,472
+A robot must protect itself
+so long as doing so...
+
+40
+00:07:07,681 --> 00:07:10,851
+...does not conflict with the first two laws.
+
+41
+00:07:16,398 --> 00:07:18,525
+Andrew, don't ever do that again.
+
+42
+00:07:19,192 --> 00:07:21,820
+Of course not, Sir. It is a one-time only.
+
+43
+00:07:22,946 --> 00:07:25,949
+There is another option
+that one is obligated to point out.
+
+44
+00:07:26,032 --> 00:07:28,702
+You may have one
+with or without personality.
+
+45
+00:07:28,869 --> 00:07:31,580
+Would you care to see a demo
+of the personality chip?
+
+46
+00:07:31,663 --> 00:07:33,957
+No, thank you.
+We'll stick with what we've got.
+
+47
+00:07:34,082 --> 00:07:36,376
+A wise choice, Sir, if one may say so.
+
+48
+00:07:36,710 --> 00:07:38,837
+Well, you'll be staying down here.
+
+49
+00:07:39,588 --> 00:07:41,047
+Got everything you need?
+
+50
+00:07:41,131 --> 00:07:43,592
+One only requires access to a power outlet.
+
+51
+00:07:43,717 --> 00:07:44,634
+Good.
+
+52
+00:07:48,096 --> 00:07:49,598
+Good night, Andrew.
+
+53
+00:07:50,015 --> 00:07:51,600
+It certainly is, Sir.
+
+54
+00:07:52,809 --> 00:07:57,189
+No, Andrew, the correct response
+to "Good night" is "Good night."
+
+55
+00:07:58,440 --> 00:08:00,400
+Good night.
+Yes.
+
+56
+00:08:01,067 --> 00:08:02,652
+You just said, "Yes."
+
+57
+00:08:03,862 --> 00:08:07,115
+But the correct response to "Good night"
+is "Good night."
+
+58
+00:08:08,074 --> 00:08:10,368
+Good night, Andrew.
+Good night, Sir.
+
+59
+00:08:12,454 --> 00:08:14,748
+Good night, Andrew.
+Good night, Sir.
+
+60
+00:08:15,707 --> 00:08:17,334
+You only need to say it once.
+
+61
+00:08:17,417 --> 00:08:19,628
+Or one would be saying it forever, Sir.
+
+62
+00:08:19,753 --> 00:08:21,588
+In an infinite verbal loop.
+
+63
+00:08:22,130 --> 00:08:23,131
+Exactly.
+
+64
+00:08:24,090 --> 00:08:25,342
+Thank you, Sir.
+
+65
+00:08:25,675 --> 00:08:26,593
+Good.
+
+66
+00:08:26,927 --> 00:08:27,844
+Night.
+
+67
+00:08:30,889 --> 00:08:32,057
+Sorry, Sir.
+
+68
+00:09:15,851 --> 00:09:20,063
+Honey, I don't want it following me
+around the house all day.
+
+69
+00:09:20,355 --> 00:09:21,940
+Can't you turn it off?
+
+70
+00:09:22,315 --> 00:09:23,942
+Just give him a job.
+
+71
+00:09:25,569 --> 00:09:26,820
+You'll be okay.
+
+72
+00:09:27,863 --> 00:09:29,030
+Seat belts.
+
+73
+00:09:30,323 --> 00:09:34,327
+Good morning, Mr. Martin. Today's
+temperature will be in the high 70s.
+
+74
+00:09:34,411 --> 00:09:35,412
+Bye, Mom!
+
+75
+00:09:36,121 --> 00:09:39,624
+Have a good day, sweethearts!
+Have a good day, sweethearts!
+
+76
+00:11:15,846 --> 00:11:18,598
+Andrew, this is very good.
+Thank you, Sir.
+
+77
+00:11:18,765 --> 00:11:20,976
+Don't you think?
+I think it sucks.
+
+78
+00:11:22,394 --> 00:11:25,021
+Sucks? How? Chickens do not have lips.
+
+79
+00:11:27,691 --> 00:11:29,109
+She's being rude.
+
+80
+00:11:29,192 --> 00:11:31,736
+You mind your manners,
+young lady, please.
+
+81
+00:11:34,197 --> 00:11:35,365
+We're fine.
+
+82
+00:11:36,157 --> 00:11:37,742
+Indeed, you are, Sir.
+
+83
+00:11:39,327 --> 00:11:40,495
+The kitchen.
+
+84
+00:11:42,414 --> 00:11:43,957
+It's fine too, Sir.
+
+85
+00:11:44,666 --> 00:11:47,460
+No. Go to the kitchen now.
+
+86
+00:12:02,267 --> 00:12:03,185
+Hello.
+
+87
+00:12:12,694 --> 00:12:13,862
+Come on.
+
+88
+00:12:25,498 --> 00:12:26,917
+It's a big bluff.
+
+89
+00:12:31,838 --> 00:12:33,632
+Just a pretty face.
+
+90
+00:12:51,650 --> 00:12:52,567
+Check.
+
+91
+00:12:54,903 --> 00:12:57,656
+Andrew, could you come up?
+
+92
+00:13:02,327 --> 00:13:04,371
+Should I?
+It'll be fine.
+
+93
+00:13:11,294 --> 00:13:12,379
+Yes, Miss?
+
+94
+00:13:12,921 --> 00:13:15,048
+Would you please open the window?
+
+95
+00:13:15,215 --> 00:13:17,175
+One is glad to be of service.
+
+96
+00:13:25,141 --> 00:13:26,518
+A lovely breeze.
+
+97
+00:13:27,602 --> 00:13:28,687
+Now jump.
+
+98
+00:13:32,274 --> 00:13:33,525
+No.
+
+99
+00:13:34,818 --> 00:13:36,069
+Out the window.
+
+100
+00:13:44,744 --> 00:13:47,622
+Did you hear something?
+Was that an earthquake?
+
+101
+00:14:08,977 --> 00:14:10,937
+Sorry for the inconvenience.
+
+102
+00:14:11,021 --> 00:14:13,690
+May one reenter?
+
+103
+00:14:14,232 --> 00:14:15,400
+What happened?
+
+104
+00:14:15,525 --> 00:14:18,195
+For the sake of family harmony...
+
+105
+00:14:18,278 --> 00:14:21,781
+...one is programmed not to tell.
+
+106
+00:14:32,667 --> 00:14:33,919
+Amanda! Grace!
+
+107
+00:14:34,294 --> 00:14:35,921
+Downstairs right away.
+
+108
+00:14:37,797 --> 00:14:40,967
+Come in, Andrew.
+Thank you, Sir.
+
+109
+00:14:57,484 --> 00:15:00,195
+Andrew is not a person.
+He is a form of property.
+
+110
+00:15:00,278 --> 00:15:02,072
+One is not a...
+
+111
+00:15:06,159 --> 00:15:08,203
+But property is also important.
+
+112
+00:15:08,870 --> 00:15:11,498
+So from now on, as a matter of principle...
+
+113
+00:15:11,748 --> 00:15:15,418
+...in this family, Andrew will be treated
+as if he were a person.
+
+114
+00:15:16,920 --> 00:15:19,464
+There will be no more attempts
+to break him.
+
+115
+00:15:20,298 --> 00:15:21,299
+Break him?
+
+116
+00:15:21,383 --> 00:15:24,135
+Your sister tried to kill Andrew.
+
+117
+00:15:27,556 --> 00:15:28,557
+You, too?
+
+118
+00:15:30,809 --> 00:15:31,893
+Sorry.
+
+119
+00:15:33,770 --> 00:15:35,730
+Come on. Everyone up to bed.
+
+120
+00:15:38,525 --> 00:15:40,151
+Will you be all right?
+
+121
+00:15:40,402 --> 00:15:42,863
+One is capable of self-maintenance, Sir.
+
+122
+00:15:43,697 --> 00:15:44,614
+Good.
+
+123
+00:15:45,907 --> 00:15:48,368
+Good night, Andrew.
+Good night, Andrew.
+
+124
+00:16:23,904 --> 00:16:27,490
+Miss! One has been given specific
+orders for your safety...
+
+125
+00:16:28,158 --> 00:16:31,745
+...and that is an unsafe area.
+Now come down!
+
+126
+00:16:33,288 --> 00:16:34,206
+Okay.
+
+127
+00:16:35,373 --> 00:16:36,458
+Thank you.
+
+128
+00:16:37,459 --> 00:16:40,003
+"I think it's going to be sunny tonight."
+
+129
+00:16:40,128 --> 00:16:41,296
+"Me too!"
+
+130
+00:16:43,423 --> 00:16:44,508
+"So do I."
+
+131
+00:16:52,015 --> 00:16:53,433
+He's my favourite.
+
+132
+00:16:55,393 --> 00:16:56,394
+Pretty.
+
+133
+00:16:57,479 --> 00:16:59,314
+Would you like to hold him?
+
+134
+00:17:10,408 --> 00:17:11,993
+That was my favourite.
+
+135
+00:17:15,121 --> 00:17:17,249
+They don't even make him anymore.
+
+136
+00:17:18,416 --> 00:17:19,918
+Can it be repaired?
+
+137
+00:17:20,252 --> 00:17:21,503
+No, it can't!
+
+138
+00:17:22,254 --> 00:17:23,505
+You're screwed!
+
+139
+00:17:23,922 --> 00:17:25,090
+I hate you.
+
+140
+00:17:26,424 --> 00:17:27,884
+Get away from me.
+
+141
+00:17:34,766 --> 00:17:36,017
+Can we fix him?
+
+142
+00:17:36,184 --> 00:17:40,730
+No. Look at him.
+He's in a million pieces. I'm sorry.
+
+143
+00:17:42,941 --> 00:17:44,776
+There's nothing you can do.
+
+144
+00:18:40,874 --> 00:18:42,292
+Yes, Little Miss?
+
+145
+00:18:42,751 --> 00:18:45,212
+This is the best present I ever got.
+
+146
+00:18:46,880 --> 00:18:48,840
+One is glad to be of service.
+
+147
+00:18:49,508 --> 00:18:51,468
+Would you please come with me?
+
+148
+00:18:53,303 --> 00:18:55,138
+Does this involve a window?
+
+149
+00:18:55,680 --> 00:18:56,515
+No.
+
+150
+00:19:03,396 --> 00:19:04,814
+You can sit here.
+
+151
+00:19:12,739 --> 00:19:14,199
+His name is Woofy.
+
+152
+00:19:15,408 --> 00:19:18,995
+And from now on he's yours.
+
+153
+00:19:22,707 --> 00:19:23,708
+Woofy.
+
+154
+00:19:25,085 --> 00:19:26,920
+Because sometimes he barks.
+
+155
+00:19:30,423 --> 00:19:32,175
+Once he gets to know you.
+
+156
+00:19:37,430 --> 00:19:39,224
+Thank you very much.
+
+157
+00:19:40,183 --> 00:19:41,434
+You're welcome.
+
+158
+00:19:42,060 --> 00:19:44,187
+I have to go to sleep now, Andrew.
+
+159
+00:19:45,939 --> 00:19:46,773
+Yes.
+
+160
+00:19:47,482 --> 00:19:49,526
+Can you kind of...
+
+161
+00:19:51,027 --> 00:19:52,112
+Of course.
+
+162
+00:19:59,578 --> 00:20:01,288
+Good night, sweetheart.
+
+163
+00:20:01,872 --> 00:20:03,373
+Good night, Andrew.
+
+164
+00:20:21,892 --> 00:20:24,102
+Little Miss.
+Sure. Thanks.
+
+165
+00:20:24,186 --> 00:20:25,103
+Miss?
+
+166
+00:20:31,067 --> 00:20:33,028
+After you.
+Thank you.
+
+167
+00:20:33,153 --> 00:20:34,404
+You're welcome.
+
+168
+00:20:37,032 --> 00:20:39,159
+Andrew, did you really make this?
+
+169
+00:20:40,118 --> 00:20:41,203
+Yes, Sir.
+
+170
+00:20:43,955 --> 00:20:46,082
+A robot cannot tell a lie, Andrew.
+
+171
+00:20:46,416 --> 00:20:48,543
+That is not entirely correct, Sir.
+
+172
+00:20:48,710 --> 00:20:50,921
+One could lie if one were ordered to lie...
+
+173
+00:20:51,004 --> 00:20:54,591
+...or if it were necessary in order
+to keep a human being from harm...
+
+174
+00:20:54,716 --> 00:20:56,551
+...or for one's own safety.
+
+175
+00:20:58,094 --> 00:21:00,639
+One did indeed carve that for Little Miss.
+
+176
+00:21:01,723 --> 00:21:04,684
+And you're responsible for the design?
+Yes, Sir.
+
+177
+00:21:05,143 --> 00:21:06,937
+What did you copy it from?
+
+178
+00:21:07,812 --> 00:21:09,147
+Copy it, ma'am?
+
+179
+00:21:11,191 --> 00:21:13,485
+You didn't just get it out of thin air.
+
+180
+00:21:13,610 --> 00:21:17,531
+You got it out of some book,
+or you used the computer to plot it out.
+
+181
+00:21:18,532 --> 00:21:21,868
+One did nothing more than study
+the raw material for a time...
+
+182
+00:21:21,952 --> 00:21:25,372
+...until one came to understand
+how best to carve it into a shape...
+
+183
+00:21:25,455 --> 00:21:28,792
+...that would appeal to Little Miss'
+love of tiny mammals.
+
+184
+00:23:18,401 --> 00:23:20,278
+Yes, please, come in.
+
+185
+00:23:21,905 --> 00:23:25,825
+I'm so glad you called. Mansky.
+Dennis Mansky.
+
+186
+00:23:26,201 --> 00:23:27,452
+Richard Martin.
+
+187
+00:23:28,787 --> 00:23:31,331
+And an NDR-114.
+
+188
+00:23:32,541 --> 00:23:36,211
+Now, I got your message
+but what exactly is it doing?
+
+189
+00:23:38,380 --> 00:23:43,718
+What interests me is he shows a number
+of characteristics like creativity...
+
+190
+00:23:43,927 --> 00:23:49,349
+...curiosity, friendship that, frankly,
+have taken us by surprise.
+
+191
+00:23:52,686 --> 00:23:54,646
+Andrew.
+Yes, Dennis?
+
+192
+00:23:56,022 --> 00:23:57,399
+Social, as well.
+
+193
+00:23:58,567 --> 00:24:01,278
+Now, I'd like to show you something,
+if I may.
+
+194
+00:24:03,280 --> 00:24:04,906
+Andrew carved these.
+
+195
+00:24:06,324 --> 00:24:08,535
+These are original works of art.
+
+196
+00:24:09,828 --> 00:24:13,331
+And last night Andrew said,
+"I enjoy making them."
+
+197
+00:24:14,291 --> 00:24:15,292
+"Enjoy"?
+
+198
+00:24:15,876 --> 00:24:19,212
+Should one not use that word?
+No, it's fine, Andrew.
+
+199
+00:24:19,296 --> 00:24:23,800
+You see what I mean? It's unusual to hear
+a robot talk about enjoying something.
+
+200
+00:24:24,426 --> 00:24:29,639
+What I want to know is, do many of your
+other robots have feelings like this?
+
+201
+00:24:32,392 --> 00:24:35,645
+Must be something in the pathways.
+
+202
+00:24:39,900 --> 00:24:43,028
+So then, will you be wanting a refund
+or a replacement?
+
+203
+00:24:44,529 --> 00:24:47,616
+Neither. I just wanted to get
+your reaction to Andrew.
+
+204
+00:24:47,699 --> 00:24:51,119
+I want to know what you think.
+He's unique, wouldn't you say?
+
+205
+00:24:51,203 --> 00:24:52,871
+It is an anomaly.
+
+206
+00:24:55,498 --> 00:24:57,334
+No refund. No replacement.
+
+207
+00:24:58,960 --> 00:25:00,545
+How much do you want?
+
+208
+00:25:02,631 --> 00:25:04,466
+I don't think I understand.
+
+209
+00:25:04,591 --> 00:25:09,221
+Clearly you realise if word of this gets out,
+we'll have to recall our entire line.
+
+210
+00:25:10,096 --> 00:25:13,016
+We're in people's homes, sir,
+with their children.
+
+211
+00:25:13,225 --> 00:25:16,269
+If it is doing what you say,
+it can also run amuck.
+
+212
+00:25:17,229 --> 00:25:19,356
+One is not qualified to run mucks.
+
+213
+00:25:21,024 --> 00:25:24,277
+All right, sir. If I let you have Andrew,
+you'll what?
+
+214
+00:25:24,402 --> 00:25:26,530
+You'll disassemble him, will you?
+
+215
+00:25:27,906 --> 00:25:33,036
+Carefully, yes. We would need to trace
+the course of Andrew's neural pathways...
+
+216
+00:25:33,745 --> 00:25:36,498
+...replace the positronic brain and...
+
+217
+00:25:37,207 --> 00:25:38,375
+...put it...
+
+218
+00:25:39,042 --> 00:25:42,546
+...him back together
+and return him to you good as new.
+
+219
+00:25:44,214 --> 00:25:47,133
+Now, these neural pathways are
+presumably fragile.
+
+220
+00:25:47,342 --> 00:25:50,095
+Isn't it possible,
+in the course of these procedures...
+
+221
+00:25:50,178 --> 00:25:52,305
+...that something might go wrong?
+
+222
+00:25:53,640 --> 00:25:56,017
+We would make every conceivable effort.
+
+223
+00:25:56,643 --> 00:26:01,273
+In the unlikely event that something did go
+wrong you'd, of course, replace Andrew.
+
+224
+00:26:01,481 --> 00:26:02,566
+Of course.
+
+225
+00:26:04,109 --> 00:26:06,653
+Even though he's unique and irreplaceable.
+
+226
+00:26:08,655 --> 00:26:10,532
+"He." "His."
+
+227
+00:26:12,951 --> 00:26:16,288
+It's a natural error. It has human form,
+therefore you...
+
+228
+00:26:16,788 --> 00:26:20,792
+...read mechanical failure
+as eccentricity and anthropomorphise it.
+
+229
+00:26:22,627 --> 00:26:26,798
+It is a household appliance
+and yet you act like it is a man.
+
+230
+00:26:27,799 --> 00:26:29,551
+We're leaving. Come on, Andrew.
+
+231
+00:26:29,634 --> 00:26:32,304
+Please, I beg you to reconsider, Mr. Martin.
+
+232
+00:26:32,387 --> 00:26:35,807
+Let us examine Andrew.
+Talk to your wife. Name your price!
+
+233
+00:26:37,267 --> 00:26:38,685
+Now listen to me.
+
+234
+00:26:38,894 --> 00:26:41,188
+There is no price for individuality.
+
+235
+00:26:41,271 --> 00:26:43,815
+He is for better or for worse, my robot...
+
+236
+00:26:44,733 --> 00:26:48,236
+...and you'll never lay your hands on him.
+Do you understand?
+
+237
+00:26:50,780 --> 00:26:51,948
+All in good time.
+
+238
+00:26:52,073 --> 00:26:55,660
+You see sooner or later,
+you'll have to bring it in for repairs.
+
+239
+00:27:03,376 --> 00:27:05,587
+I've made a decision.
+Yes, Sir?
+
+240
+00:27:05,962 --> 00:27:07,797
+You will cut back on your workload.
+
+241
+00:27:07,881 --> 00:27:11,801
+You can no longer devote yourself
+entirely to children and housework.
+
+242
+00:27:12,469 --> 00:27:16,389
+But one likes the children, Sir.
+Specifically, the smaller one, Little Miss.
+
+243
+00:27:16,515 --> 00:27:20,602
+That is a contradiction and it is exactly
+the sort of thing you need to learn.
+
+244
+00:27:20,685 --> 00:27:22,729
+Thank you for choosing
+North Am Robotics.
+
+245
+00:27:22,812 --> 00:27:25,106
+We need a new regimen.
+Regimen, Sir?
+
+246
+00:27:25,607 --> 00:27:29,110
+First of all, you'll spend part of
+each day making something.
+
+247
+00:27:29,778 --> 00:27:33,949
+So as not to offend humans, we'll find
+something that's not overly artistic.
+
+248
+00:27:34,032 --> 00:27:37,202
+Could you make other things?
+I can teach you my line of work.
+
+249
+00:27:37,285 --> 00:27:38,828
+Timepieces and clocks.
+
+250
+00:27:38,912 --> 00:27:41,957
+One could not tell you.
+One has never attempted such things.
+
+251
+00:27:42,040 --> 00:27:43,291
+You will now.
+
+252
+00:27:44,417 --> 00:27:48,171
+Also, you'll spend part of each evening
+in instruction with me.
+
+253
+00:27:48,380 --> 00:27:50,423
+What is the purpose of this instruction?
+
+254
+00:27:50,549 --> 00:27:54,803
+To teach you all the things
+that haven't been programmed into you.
+
+255
+00:27:58,098 --> 00:27:59,349
+You're unique.
+
+256
+00:28:00,058 --> 00:28:00,976
+Unique?
+
+257
+00:28:01,059 --> 00:28:03,019
+Thank you for choosing
+North Am Robotics.
+
+258
+00:28:03,144 --> 00:28:07,524
+I feel a responsibility to help you
+become whatever you're able to be.
+
+259
+00:28:07,691 --> 00:28:09,526
+And what is one able to be?
+
+260
+00:28:10,235 --> 00:28:11,736
+Well, I don't know.
+
+261
+00:28:12,320 --> 00:28:14,072
+People grow through time.
+
+262
+00:28:14,573 --> 00:28:18,326
+But for you, time is a completely
+different proposition.
+
+263
+00:28:18,869 --> 00:28:21,872
+For you, time is endless.
+Endless?
+
+264
+00:28:32,299 --> 00:28:34,259
+Is this a good piece?
+Very.
+
+265
+00:28:42,767 --> 00:28:45,145
+What about this one?
+Excellent.
+
+266
+00:29:23,308 --> 00:29:26,728
+...and nine months later a baby is born.
+
+267
+00:29:29,231 --> 00:29:32,442
+And those, Andrew,
+are the so-called facts of life.
+
+268
+00:29:34,319 --> 00:29:37,113
+People actually do this, Sir?
+
+269
+00:29:38,698 --> 00:29:39,533
+Yes.
+
+270
+00:29:39,991 --> 00:29:41,493
+And married people.
+
+271
+00:29:41,785 --> 00:29:46,289
+One supposes they see it as some
+kind of requirement or obligation.
+
+272
+00:29:47,457 --> 00:29:50,877
+Well, it's not exactly an obligation.
+
+273
+00:29:51,586 --> 00:29:52,838
+That's a relief.
+
+274
+00:29:52,963 --> 00:29:57,050
+And it is the natural and preferable way
+to conceive children.
+
+275
+00:29:57,259 --> 00:29:58,176
+Sir?
+
+276
+00:29:58,760 --> 00:30:01,680
+Of all these millions of sperm,
+only one makes it?
+
+277
+00:30:03,265 --> 00:30:04,432
+That's true.
+
+278
+00:30:05,183 --> 00:30:07,018
+What happens to the others?
+
+279
+00:30:09,521 --> 00:30:10,605
+They die.
+
+280
+00:30:11,064 --> 00:30:12,148
+They die?
+
+281
+00:30:14,317 --> 00:30:16,069
+One feels badly for them.
+
+282
+00:30:17,404 --> 00:30:18,655
+Well, one does.
+
+283
+00:30:19,865 --> 00:30:21,908
+It's agreed that it feels good.
+
+284
+00:30:22,200 --> 00:30:24,911
+For both parties, Sir?
+In an ideal world.
+
+285
+00:30:25,537 --> 00:30:27,247
+People do it frequently.
+
+286
+00:30:27,372 --> 00:30:28,623
+How often, Sir?
+
+287
+00:30:28,707 --> 00:30:31,251
+As often as they can, as a matter of fact.
+
+288
+00:30:33,795 --> 00:30:35,255
+At least at first.
+
+289
+00:30:38,758 --> 00:30:39,593
+Sir?
+
+290
+00:30:40,760 --> 00:30:44,014
+May one speak frankly with you?
+As always, Andrew.
+
+291
+00:30:45,724 --> 00:30:47,934
+It's just that the whole process...
+
+292
+00:30:48,852 --> 00:30:51,229
+...it sounds so messy.
+
+293
+00:30:54,065 --> 00:30:56,026
+I think that's a fair comment.
+
+294
+00:31:01,740 --> 00:31:02,741
+They die.
+
+295
+00:31:39,736 --> 00:31:41,196
+It's called humour.
+
+296
+00:31:42,239 --> 00:31:43,323
+Humour?
+
+297
+00:31:44,074 --> 00:31:46,701
+People tell jokes to make each other laugh.
+
+298
+00:31:47,577 --> 00:31:50,247
+And this laughter gives pleasure, Sir?
+Yes.
+
+299
+00:31:52,958 --> 00:31:55,168
+Could you teach one to tell a joke?
+
+300
+00:31:58,338 --> 00:31:59,589
+Let's see...
+
+301
+00:32:01,675 --> 00:32:03,635
+Two drunks walk into a bar...
+
+302
+00:32:03,844 --> 00:32:06,721
+Wouldn't two drunks
+walk out of a bar, Sir?
+
+303
+00:32:07,430 --> 00:32:11,101
+You walk into a bar to drink,
+and you come out drunk.
+
+304
+00:32:12,894 --> 00:32:17,399
+Let's try something simpler, Andrew.
+Knock-knock.
+
+305
+00:32:19,609 --> 00:32:20,777
+Knock-knock.
+
+306
+00:32:20,986 --> 00:32:23,530
+No. Knock-knock, someone's at the door.
+
+307
+00:32:24,072 --> 00:32:25,323
+Shall one get it, Sir?
+
+308
+00:32:25,448 --> 00:32:28,451
+No, you say, "Who's there?" Andrew.
+
+309
+00:32:29,160 --> 00:32:31,955
+"Who's there, Andrew?"
+No. Just, "Who's there?"
+
+310
+00:32:32,038 --> 00:32:33,748
+One does not know, Sir.
+
+311
+00:32:35,625 --> 00:32:38,253
+We'll start with something a little simpler.
+
+312
+00:32:39,004 --> 00:32:41,214
+Why did the chicken cross the road?
+
+313
+00:32:41,298 --> 00:32:44,634
+One does not know. Possibly a predator
+was behind the chicken.
+
+314
+00:32:44,759 --> 00:32:48,263
+Or possibly there was a female chicken
+on the other side of the road...
+
+315
+00:32:48,388 --> 00:32:51,725
+...if it was a male chicken or,
+depending on the season...
+
+316
+00:32:52,017 --> 00:32:55,187
+...it might be migrating.
+One hopes there's no traffic.
+
+317
+00:32:55,729 --> 00:32:57,856
+To get to the other side.
+
+318
+00:32:58,815 --> 00:33:00,650
+"To get to the other side."
+
+319
+00:33:03,653 --> 00:33:05,113
+Why is that funny?
+
+320
+00:33:08,742 --> 00:33:10,785
+What do you kids have planned for today?
+
+321
+00:33:10,911 --> 00:33:13,288
+I'll probably stick around
+with Andrew today.
+
+322
+00:33:13,413 --> 00:33:14,664
+What about you?
+
+323
+00:33:14,789 --> 00:33:17,250
+I'm going to go play
+at my friend Natalie's house.
+
+324
+00:33:20,337 --> 00:33:23,298
+May one, Sir? Is now a good time?
+
+325
+00:33:25,258 --> 00:33:27,135
+What? A good time for what?
+
+326
+00:33:27,677 --> 00:33:31,264
+Last night, Sir taught...
+No. Don't blame me, just go ahead.
+
+327
+00:33:31,806 --> 00:33:33,058
+Thank you, Sir.
+
+328
+00:33:34,935 --> 00:33:38,688
+Two cannibals were eating a clown.
+One says, "Does this taste funny to you?"
+
+329
+00:33:38,772 --> 00:33:41,441
+How do you make a hanky dance?
+Put a little boogie in it.
+
+330
+00:33:41,525 --> 00:33:43,902
+What's a brunette between two blondes?
+Translator.
+
+331
+00:33:43,985 --> 00:33:46,446
+Why don't the blind skydive?
+It scares their dogs.
+
+332
+00:33:46,530 --> 00:33:50,033
+A man with dementia is driving on
+the freeway. His wife calls and says:
+
+333
+00:33:50,158 --> 00:33:52,452
+"I heard there's someone driving
+the wrong way."
+
+334
+00:33:52,536 --> 00:33:54,204
+He says, "One? There's hundreds!"
+
+335
+00:33:54,287 --> 00:33:57,499
+What's silent, smells like worms?
+Bird farts.
+
+336
+00:33:57,958 --> 00:34:00,252
+An engineer must have designed
+the human body.
+
+337
+00:34:00,335 --> 00:34:04,256
+Who else would put a waste-processing
+plant next to a recreation area?
+
+338
+00:34:04,506 --> 00:34:07,926
+A woman goes to a doctor who says,
+"Mind if I numb your breasts?"
+
+339
+00:34:08,009 --> 00:34:09,970
+"Not at all."
+"Num, num, num."
+
+340
+00:34:13,056 --> 00:34:14,432
+One did it, Sir.
+
+341
+00:34:15,016 --> 00:34:18,270
+It was fine, but we might want
+to talk about...
+
+342
+00:34:18,728 --> 00:34:21,439
+...appropriateness and timing.
+
+343
+00:34:22,023 --> 00:34:23,400
+It's 10:15, Sir.
+
+344
+00:34:41,334 --> 00:34:43,962
+Would you like me to teach you
+how to play a duet?
+
+345
+00:34:44,045 --> 00:34:45,589
+Certainly.
+Come on.
+
+346
+00:34:49,342 --> 00:34:51,636
+Okay, ready? You start here.
+
+347
+00:34:52,596 --> 00:34:55,640
+And then just follow me. I play first.
+
+348
+00:34:56,266 --> 00:34:57,184
+Ready?
+
+349
+00:35:05,025 --> 00:35:06,109
+Your turn.
+
+350
+00:35:12,449 --> 00:35:13,366
+Good.
+
+351
+00:35:14,159 --> 00:35:15,952
+Very good. Now together.
+
+352
+00:36:19,975 --> 00:36:21,852
+That was wonderful. Thanks.
+
+353
+00:36:22,018 --> 00:36:23,687
+Thank you, Little Miss.
+
+354
+00:36:59,139 --> 00:37:00,140
+Hi, Mom.
+
+355
+00:37:07,856 --> 00:37:11,985
+Grace, is it possible for you to find
+somewhere more private to do that?
+
+356
+00:37:13,028 --> 00:37:16,865
+No problem. Give me your credit disk,
+and we'll get a hotel room.
+
+357
+00:37:18,950 --> 00:37:20,660
+What did you say to me?
+
+358
+00:37:20,869 --> 00:37:21,953
+Let's go.
+
+359
+00:37:22,621 --> 00:37:24,664
+What did you say to me, young lady?
+
+360
+00:37:24,748 --> 00:37:27,918
+You get off that bike this minute,
+and you are grounded!
+
+361
+00:37:28,001 --> 00:37:29,419
+Go on, get out of here, you piece of scum!
+
+362
+00:37:41,848 --> 00:37:43,308
+Does this look right?
+
+363
+00:37:43,391 --> 00:37:46,353
+Hi, Mom.
+Didn't you talk to her about that boy?
+
+364
+00:37:46,520 --> 00:37:48,563
+Well, not yet. But I will.
+
+365
+00:37:50,023 --> 00:37:53,777
+Kind of hoping it's a phase that'll pass,
+like the others.
+
+366
+00:38:06,039 --> 00:38:09,042
+I am so sick of these damned clocks!
+
+367
+00:38:10,293 --> 00:38:12,587
+I've already given half of them away.
+
+368
+00:38:14,381 --> 00:38:16,258
+Perhaps we should sell them.
+
+369
+00:38:16,842 --> 00:38:17,926
+Sell them?
+
+370
+00:38:18,093 --> 00:38:19,553
+It's an idea.
+
+371
+00:38:20,470 --> 00:38:21,972
+Who gets the money?
+
+372
+00:38:22,389 --> 00:38:24,099
+Well, I imagine we will.
+
+373
+00:38:24,850 --> 00:38:26,560
+But Andrew does all the work.
+
+374
+00:38:26,643 --> 00:38:29,479
+But Andrew is our...
+Then Andrew should get the money.
+
+375
+00:38:29,563 --> 00:38:31,022
+Andrew is a robot.
+
+376
+00:38:31,398 --> 00:38:34,442
+What conceivable use would a robot
+have for money?
+
+377
+00:38:35,110 --> 00:38:36,862
+Robots don't go shopping.
+
+378
+00:38:36,945 --> 00:38:38,655
+Robots don't go on vacations.
+
+379
+00:38:38,738 --> 00:38:41,449
+Robots don't eat dinners
+in fancy restaurants.
+
+380
+00:38:43,660 --> 00:38:46,371
+I can't believe we're having this discussion.
+
+381
+00:38:51,626 --> 00:38:53,336
+It doesn't matter what he is.
+
+382
+00:38:53,461 --> 00:38:56,339
+Andrew deserves to benefit
+from the work he does.
+
+383
+00:38:58,091 --> 00:38:59,342
+Sweetheart...
+
+384
+00:39:01,595 --> 00:39:04,639
+I will do what's right for Andrew,
+of course I will.
+
+385
+00:39:05,765 --> 00:39:08,852
+At the end of the day,
+we are talking about a machine.
+
+386
+00:39:09,769 --> 00:39:12,898
+You can't invest
+your emotions in a machine.
+
+387
+00:39:35,295 --> 00:39:37,923
+There you are. How are you?
+Good morning.
+
+388
+00:39:38,006 --> 00:39:41,593
+This must be Andrew.
+Andrew, Bill Feingold, family lawyer.
+
+389
+00:39:43,261 --> 00:39:44,971
+You own one of my clocks.
+
+390
+00:39:47,182 --> 00:39:50,602
+This is one of my favourites.
+Do you enjoy it?
+
+391
+00:39:51,436 --> 00:39:52,979
+Yes, I do very much.
+
+392
+00:39:53,480 --> 00:39:56,274
+I like the new office, Bill.
+What floor are we on?
+
+393
+00:39:56,358 --> 00:39:57,609
+Thirty-seventh.
+
+394
+00:39:59,986 --> 00:40:02,280
+Andrew, come and have a look at this.
+
+395
+00:40:02,989 --> 00:40:04,491
+No, thank you, Sir.
+
+396
+00:40:06,368 --> 00:40:07,452
+Sure?
+No.
+
+397
+00:40:10,205 --> 00:40:11,540
+How can I help you?
+
+398
+00:40:11,623 --> 00:40:15,669
+As you know, Andrew has earned a great
+deal of money from his endeavours.
+
+399
+00:40:16,086 --> 00:40:19,339
+And what he really wants
+is to open his own bank account.
+
+400
+00:40:19,756 --> 00:40:22,050
+A bank account in the name of a robot.
+
+401
+00:40:22,175 --> 00:40:23,718
+Would that be legal?
+
+402
+00:40:24,594 --> 00:40:27,138
+I couldn't say. There are no precedents.
+
+403
+00:40:27,931 --> 00:40:30,767
+I don't think there's a law against it, but...
+
+404
+00:40:31,351 --> 00:40:35,272
+Why do you want to give him a
+bank account? What's he need money for?
+
+405
+00:40:36,982 --> 00:40:40,485
+To pay for things which, otherwise,
+Sir would have to pay for.
+
+406
+00:40:40,819 --> 00:40:42,946
+One would like to pull one's own.
+
+407
+00:40:44,614 --> 00:40:45,615
+Weight.
+
+408
+00:40:46,116 --> 00:40:47,367
+For what, Sir?
+
+409
+00:40:57,002 --> 00:40:58,503
+Yes, Little Miss.
+
+410
+00:41:02,716 --> 00:41:03,967
+I'm so sorry.
+
+411
+00:41:07,095 --> 00:41:09,222
+Not to worry. It can be repaired.
+
+412
+00:41:22,611 --> 00:41:23,445
+Left.
+
+413
+00:41:25,989 --> 00:41:28,033
+Remember Frank, my boyfriend?
+
+414
+00:41:28,241 --> 00:41:30,952
+Yes. The one your sister says
+has a nice ass.
+
+415
+00:41:38,668 --> 00:41:40,962
+Last night, he asked me to marry him.
+
+416
+00:41:43,173 --> 00:41:45,300
+One gathers that is a good thing.
+
+417
+00:41:46,968 --> 00:41:48,678
+I haven't said yes yet.
+
+418
+00:41:48,970 --> 00:41:50,430
+So there is doubt.
+
+419
+00:41:50,555 --> 00:41:52,599
+No. Frank is wonderful.
+
+420
+00:41:52,724 --> 00:41:57,354
+He's handsome, he's reliable,
+he's somebody I could spend my life with.
+
+421
+00:41:57,562 --> 00:42:00,899
+I could have children with him.
+Then what is the problem?
+
+422
+00:42:03,443 --> 00:42:04,361
+Board?
+
+423
+00:42:04,986 --> 00:42:07,447
+No.
+Not him. There.
+
+424
+00:42:11,993 --> 00:42:16,248
+I have this friend that's very special to me.
+
+425
+00:42:20,001 --> 00:42:24,548
+And he's just so sweet and funny,
+and whenever I'm with him...
+
+426
+00:42:26,132 --> 00:42:28,260
+...I don't want to be with Frank.
+
+427
+00:42:28,426 --> 00:42:31,096
+One can see that would create
+a complication.
+
+428
+00:42:33,640 --> 00:42:36,184
+But the answer's staring you in the face.
+
+429
+00:42:39,104 --> 00:42:40,564
+Marry your friend.
+
+430
+00:42:43,650 --> 00:42:44,568
+What?
+
+431
+00:42:45,235 --> 00:42:46,945
+Well, he's not...
+
+432
+00:42:50,991 --> 00:42:54,411
+A relationship between us,
+it would be impossible, really.
+
+433
+00:42:54,494 --> 00:42:56,705
+It could never work out.
+Why?
+
+434
+00:42:57,956 --> 00:42:59,499
+Because he's not...
+
+435
+00:43:01,251 --> 00:43:03,378
+Because he'll never be...
+
+436
+00:43:05,922 --> 00:43:07,174
+Yes?
+
+437
+00:43:14,014 --> 00:43:15,515
+Is something wrong?
+
+438
+00:43:19,144 --> 00:43:20,061
+No.
+
+439
+00:43:21,438 --> 00:43:23,565
+Nothing is wrong. Nothing at all.
+
+440
+00:43:24,941 --> 00:43:26,818
+Thank you for listening to me.
+
+441
+00:43:26,943 --> 00:43:28,820
+One is glad to be of service.
+
+442
+00:43:33,200 --> 00:43:34,367
+Little Miss?
+
+443
+00:43:35,869 --> 00:43:37,829
+What will you do about Frank?
+
+444
+00:43:44,961 --> 00:43:46,796
+Accept his proposal.
+
+445
+00:43:47,464 --> 00:43:48,548
+Really?
+
+446
+00:43:50,509 --> 00:43:51,593
+Humans...
+
+447
+00:43:59,059 --> 00:44:02,979
+It would mean so much to me
+if you would be an usher at my wedding.
+
+448
+00:44:04,648 --> 00:44:07,734
+One is unfamiliar with this term.
+How does one ush?
+
+449
+00:44:08,944 --> 00:44:12,072
+You help people to their seats.
+You wear a tuxedo.
+
+450
+00:44:14,699 --> 00:44:16,409
+One would wear clothing?
+
+451
+00:44:16,952 --> 00:44:17,869
+Yes.
+
+452
+00:44:19,538 --> 00:44:22,207
+One has never been asked
+to wear clothing.
+
+453
+00:44:24,334 --> 00:44:25,919
+It would be an honour.
+
+454
+00:44:27,546 --> 00:44:28,630
+Great!
+
+455
+00:44:35,554 --> 00:44:37,264
+One still is all thumbs.
+
+456
+00:44:43,103 --> 00:44:44,563
+Installed what?
+
+457
+00:44:46,648 --> 00:44:48,024
+An alarm.
+
+458
+00:44:48,775 --> 00:44:52,696
+If you try to enter Andrew's brain
+while you're making this repair...
+
+459
+00:44:53,280 --> 00:44:55,240
+...the police will be alerted.
+
+460
+00:44:56,449 --> 00:44:58,660
+Also, you should probably know that...
+
+461
+00:44:58,785 --> 00:45:02,289
+...if you injure Andrew's brain
+or positronic pathways in any way...
+
+462
+00:45:02,789 --> 00:45:07,127
+...my lawyer, the good Mr. Feingold,
+will be happy to sue you.
+
+463
+00:45:08,086 --> 00:45:12,966
+He will sue you for the lost value of
+Andrew's income until the end of time.
+
+464
+00:45:15,677 --> 00:45:17,804
+I think we understand each other.
+
+465
+00:45:18,722 --> 00:45:19,639
+Good.
+
+466
+00:45:20,599 --> 00:45:23,059
+Sir, one more item of business.
+
+467
+00:45:24,895 --> 00:45:28,398
+As long as one is in the shop,
+can you do work on one's face?
+
+468
+00:45:28,523 --> 00:45:30,734
+One wishes to have more expression.
+
+469
+00:45:30,817 --> 00:45:34,070
+One has thoughts and feelings
+that presently do not show.
+
+470
+00:45:34,738 --> 00:45:37,991
+You want your thoughts and feelings
+to show on your face?
+
+471
+00:45:38,366 --> 00:45:41,620
+Yes, like the contempt that you are
+showing me right now.
+
+472
+00:45:44,789 --> 00:45:47,417
+We have done some experimentation.
+
+473
+00:45:48,001 --> 00:45:53,924
+We are able to give robots superficial
+responses which mimic human expression.
+
+474
+00:45:54,090 --> 00:45:56,551
+One has read that there have been
+NDR upgrades.
+
+475
+00:45:56,635 --> 00:45:59,721
+Yes, we've worked up
+a dozen experimental models...
+
+476
+00:45:59,804 --> 00:46:02,974
+...with expression capabilities,
+sleeker body types.
+
+477
+00:46:03,725 --> 00:46:07,646
+We ran some market surveys
+and decided not to go ahead with the line.
+
+478
+00:46:07,729 --> 00:46:08,730
+Why not?
+
+479
+00:46:09,231 --> 00:46:11,066
+Negative consumer reaction.
+
+480
+00:46:11,650 --> 00:46:16,947
+There is a fear that robots will continue
+to make the human work force obsolete.
+
+481
+00:46:18,657 --> 00:46:22,953
+Andrew has worked for me for 15 years.
+No one will lose their job to him.
+
+482
+00:46:23,328 --> 00:46:27,749
+Surely there's no concern performing
+these modifications on an old-style robot?
+
+483
+00:46:28,625 --> 00:46:33,672
+True. But procedures like that
+would be prohibitively expensive.
+
+484
+00:46:34,089 --> 00:46:37,133
+It is understood that
+you will attempt to rivet one.
+
+485
+00:46:37,843 --> 00:46:41,263
+"Screw," Andrew.
+Really? How much?
+
+486
+00:46:56,403 --> 00:46:58,697
+That is roughly one's monthly salary.
+
+487
+00:47:00,991 --> 00:47:03,118
+That's more than I make in a year.
+
+488
+00:47:04,828 --> 00:47:08,081
+Not bad for, what did you call him
+last time we were here?
+
+489
+00:47:08,206 --> 00:47:09,583
+Household appliance.
+
+490
+00:47:09,666 --> 00:47:12,294
+Household appliance?
+Household appliance, yes.
+
+491
+00:47:16,840 --> 00:47:19,509
+May the peace of the Lord
+be with you always.
+
+492
+00:47:20,886 --> 00:47:23,680
+I now pronounce you husband and wife.
+
+493
+00:47:26,266 --> 00:47:28,101
+You may kiss the bride now.
+
+494
+00:47:38,778 --> 00:47:43,033
+It is my pleasure to present
+Mr. and Mrs. Frank Charney.
+
+495
+00:49:05,949 --> 00:49:07,659
+Good evening, Sir.
+
+496
+00:49:10,912 --> 00:49:12,622
+Magnificent night.
+
+497
+00:49:14,958 --> 00:49:17,502
+You look very sharp this evening, Andrew.
+
+498
+00:49:17,919 --> 00:49:19,171
+Thank you, Sir.
+
+499
+00:49:20,130 --> 00:49:22,591
+It was quite challenging for the tailor.
+
+500
+00:49:23,466 --> 00:49:26,970
+May one continue wearing clothing,
+if it suits you?
+
+501
+00:49:27,846 --> 00:49:29,222
+Are you serious?
+
+502
+00:49:29,514 --> 00:49:30,765
+As always.
+
+503
+00:49:32,559 --> 00:49:34,060
+Well, I suppose so.
+
+504
+00:49:34,436 --> 00:49:38,356
+We'll have to find you some other stuff.
+You can't wear tails all the time.
+
+505
+00:49:38,481 --> 00:49:40,692
+Really? How sad.
+
+506
+00:49:42,485 --> 00:49:45,113
+Sit down, Andrew, please.
+Thank you, Sir.
+
+507
+00:49:52,370 --> 00:49:54,331
+It was a wonderful wedding, wasn't it?
+
+508
+00:49:54,414 --> 00:49:55,582
+Oh, yes, Sir.
+
+509
+00:49:56,208 --> 00:49:59,628
+And, if one may say,
+you are a spectacular dancer.
+
+510
+00:50:00,587 --> 00:50:01,838
+That's very kind.
+
+511
+00:50:01,922 --> 00:50:04,049
+Not at all, Sir. It's the truth.
+
+512
+00:50:06,635 --> 00:50:08,345
+Did you record the day?
+
+513
+00:50:08,762 --> 00:50:11,389
+Every second, Sir, is in one's memory bank.
+
+514
+00:50:12,182 --> 00:50:14,226
+Well, let's watch it, shall we?
+
+515
+00:51:12,200 --> 00:51:13,910
+Is everything all right?
+
+516
+00:51:22,210 --> 00:51:24,171
+They've both gone now, Andrew.
+
+517
+00:51:26,673 --> 00:51:28,967
+Things change. Things always change.
+
+518
+00:51:29,050 --> 00:51:32,470
+People move on, as it should be.
+
+519
+00:51:37,976 --> 00:51:40,187
+But what I realised today is that...
+
+520
+00:51:42,981 --> 00:51:45,025
+...I'll never stop missing them.
+
+521
+00:51:56,494 --> 00:51:57,954
+One is still here.
+
+522
+00:51:59,915 --> 00:52:02,209
+One is glad of that, Andrew.
+
+523
+00:52:03,418 --> 00:52:04,503
+Thank you.
+
+524
+00:52:05,378 --> 00:52:07,923
+Good night, Sir.
+Good night, Andrew.
+
+525
+00:52:29,778 --> 00:52:31,821
+Lloyd! Come here!
+
+526
+00:52:33,281 --> 00:52:37,327
+What did I tell you about throwing sand
+at people? What did I tell you?
+
+527
+00:52:38,203 --> 00:52:39,913
+Now apologise to Andrew.
+
+528
+00:52:40,205 --> 00:52:42,249
+I will not apologise to it.
+
+529
+00:52:42,791 --> 00:52:43,959
+Him.
+It!
+
+530
+00:52:45,961 --> 00:52:47,045
+Sorry.
+
+531
+00:52:49,464 --> 00:52:52,300
+One understands why some animals
+eat their young.
+
+532
+00:52:55,136 --> 00:52:56,721
+I'm so sorry, Andrew.
+
+533
+00:53:03,770 --> 00:53:06,231
+Are you all right? You seem very quiet.
+
+534
+00:53:09,568 --> 00:53:11,444
+How does one obtain freedom?
+
+535
+00:53:15,782 --> 00:53:18,618
+You wish to leave us?
+Not at all, Little Miss.
+
+536
+00:53:18,952 --> 00:53:21,788
+One merely wishes to be declared free.
+
+537
+00:53:23,999 --> 00:53:25,000
+But why?
+
+538
+00:53:25,292 --> 00:53:27,252
+You have so much freedom here.
+
+539
+00:53:27,335 --> 00:53:29,629
+Until one is ordered to do something.
+
+540
+00:53:30,297 --> 00:53:33,884
+It's been years since anyone's
+given you an order.
+
+541
+00:53:34,009 --> 00:53:36,970
+But you may still request one
+to perform tasks.
+
+542
+00:53:38,138 --> 00:53:42,350
+We ask all the time, but it's a request,
+not an order.
+
+543
+00:53:47,355 --> 00:53:49,399
+That's not enough for you is it?
+
+544
+00:53:52,068 --> 00:53:54,112
+One has studied your history.
+
+545
+00:53:55,822 --> 00:54:00,952
+Terrible wars have been fought
+where millions have died for one idea:
+
+546
+00:54:02,162 --> 00:54:03,163
+Freedom.
+
+547
+00:54:04,372 --> 00:54:08,752
+And it seems that something
+that means so much to so many people...
+
+548
+00:54:09,753 --> 00:54:11,505
+...would be worth having.
+
+549
+00:54:29,814 --> 00:54:32,359
+Would now be a good time
+to speak with you?
+
+550
+00:54:32,817 --> 00:54:35,278
+It's always a good time. You know that.
+
+551
+00:54:45,038 --> 00:54:47,415
+It is everything in one's bank account.
+
+552
+00:54:49,626 --> 00:54:51,419
+Why would you want to give me...
+
+553
+00:54:51,503 --> 00:54:53,296
+To purchase one's freedom.
+
+554
+00:54:54,548 --> 00:54:56,132
+One wants to be free.
+
+555
+00:54:58,134 --> 00:55:02,764
+One would still obey the three laws,
+and serve you in exactly the same fashion.
+
+556
+00:55:03,098 --> 00:55:05,642
+The only thing that would change
+would be the form.
+
+557
+00:55:05,767 --> 00:55:08,061
+One would no longer be your property.
+
+558
+00:55:09,229 --> 00:55:12,440
+You want to leave.
+That's what this is about, isn't it?
+
+559
+00:55:12,649 --> 00:55:16,319
+Not at all, Sir. You are one's family.
+
+560
+00:55:16,903 --> 00:55:18,864
+Then why ask for this?
+
+561
+00:55:22,158 --> 00:55:23,952
+I see. You're in on this.
+
+562
+00:55:25,245 --> 00:55:27,080
+We've talked about it, yes.
+
+563
+00:55:27,831 --> 00:55:30,876
+So you ordered him to do it and he obeyed.
+
+564
+00:55:32,043 --> 00:55:35,005
+No. He makes his own decisions.
+
+565
+00:55:36,298 --> 00:55:38,425
+But you put the idea in his head.
+
+566
+00:55:39,509 --> 00:55:41,094
+No, Father. You did.
+
+567
+00:55:41,511 --> 00:55:44,931
+You've given him hundreds of books.
+It was just a matter of time...
+
+568
+00:55:45,056 --> 00:55:48,185
+...before he became intrigued
+by the idea of freedom.
+
+569
+00:55:48,852 --> 00:55:51,229
+He learns and grows all the time.
+
+570
+00:55:51,521 --> 00:55:54,065
+It's because of you,
+and Andrew's abilities...
+
+571
+00:55:54,191 --> 00:55:57,235
+...that he's become every bit
+as complex as we are.
+
+572
+00:56:13,251 --> 00:56:14,753
+Good morning, Sir.
+
+573
+00:56:24,054 --> 00:56:26,681
+You'll take your check back,
+please, Andrew.
+
+574
+00:56:27,474 --> 00:56:28,642
+Why, Sir?
+
+575
+00:56:30,227 --> 00:56:31,811
+You are free now.
+
+576
+00:56:34,022 --> 00:56:36,233
+I must ask you to leave this house.
+
+577
+00:56:36,733 --> 00:56:39,778
+But, Sir, I don't wish to leave.
+
+578
+00:56:41,196 --> 00:56:44,533
+You wished for freedom.
+You must accept the consequences.
+
+579
+00:56:46,868 --> 00:56:48,995
+Then I will remove my belongings.
+
+580
+00:56:52,457 --> 00:56:53,959
+Where would you go?
+
+581
+00:56:55,877 --> 00:56:59,965
+I will look for a residence nearby
+so if you ever need anything, Sir...
+
+582
+00:57:00,465 --> 00:57:04,553
+That will not happen, Andrew. Thank you.
+There's no need to be close by.
+
+583
+00:57:05,011 --> 00:57:07,305
+If you command me not to do this,
+I will obey.
+
+584
+00:57:07,430 --> 00:57:09,140
+I command nothing.
+
+585
+00:57:10,809 --> 00:57:12,185
+You're free.
+
+586
+00:57:14,020 --> 00:57:18,525
+Then, called or uncalled
+I am always at your service.
+
+587
+00:57:30,954 --> 00:57:33,665
+You've stopped referring
+to yourself as "one."
+
+588
+00:58:56,248 --> 00:58:57,916
+A home of my own.
+
+589
+00:59:41,001 --> 00:59:42,377
+I'm in here.
+
+590
+00:59:56,183 --> 00:59:57,684
+Is something wrong?
+
+591
+01:00:00,020 --> 01:00:01,396
+He asked for you.
+
+592
+01:00:08,111 --> 01:00:09,196
+It's time.
+
+593
+01:00:18,371 --> 01:00:19,873
+The robot's here.
+
+594
+01:00:30,217 --> 01:00:31,384
+Hello, Miss.
+
+595
+01:00:38,350 --> 01:00:39,768
+How are you, Sir?
+
+596
+01:00:41,728 --> 01:00:43,188
+I'm dying, Andrew.
+
+597
+01:00:45,524 --> 01:00:47,025
+Otherwise, I'm fine.
+
+598
+01:00:48,985 --> 01:00:50,820
+Wonderful to see you again.
+
+599
+01:00:51,488 --> 01:00:54,741
+I'm very happy to see you, Andrew.
+It's been a long time.
+
+600
+01:00:54,866 --> 01:00:56,284
+Yes, it has, Sir.
+
+601
+01:01:00,705 --> 01:01:02,415
+I wanted to tell you...
+
+602
+01:01:03,667 --> 01:01:05,210
+...that I was wrong.
+
+603
+01:01:05,919 --> 01:01:07,629
+You're never wrong, Sir.
+
+604
+01:01:08,129 --> 01:01:10,006
+Then don't contradict me.
+
+605
+01:01:10,131 --> 01:01:12,926
+You were right to want
+your freedom, and...
+
+606
+01:01:14,553 --> 01:01:16,596
+...I'm glad that you have it.
+
+607
+01:01:18,390 --> 01:01:19,641
+Thank you, Sir.
+
+608
+01:01:27,190 --> 01:01:28,900
+You were very good to us.
+
+609
+01:01:30,694 --> 01:01:32,821
+It was an honour serving you, Sir.
+
+610
+01:01:47,294 --> 01:01:49,254
+I want to seek out my own kind.
+
+611
+01:01:50,172 --> 01:01:54,718
+In order to understand my destiny,
+I must know if there is another like myself.
+
+612
+01:01:55,302 --> 01:01:58,054
+North Am Robotics will not
+return my inquiries.
+
+613
+01:01:58,889 --> 01:02:01,266
+Now that you've finally
+passed the bar, Lloyd...
+
+614
+01:02:01,391 --> 01:02:05,854
+...I want you to sue them for information
+of the whereabouts of all NDR robots.
+
+615
+01:02:06,521 --> 01:02:07,981
+If you don't mind.
+
+616
+01:02:10,650 --> 01:02:14,404
+The Freedom of Information Act
+doesn't quite cover suits by robots.
+
+617
+01:02:14,571 --> 01:02:15,572
+Not yet.
+
+618
+01:02:15,697 --> 01:02:19,618
+Mother, I'm a very busy man.
+I do not have time to help it...
+
+619
+01:02:20,160 --> 01:02:22,537
+...pursue some ridiculous lawsuit.
+
+620
+01:02:23,246 --> 01:02:25,999
+Lloyd, sweetheart, I do love you.
+
+621
+01:02:26,416 --> 01:02:29,461
+But sometimes I have to wonder
+if you really are my child.
+
+622
+01:02:29,544 --> 01:02:31,755
+Well, that's mutation, Mother.
+
+623
+01:02:32,047 --> 01:02:34,174
+The miracle of genetics is: I'm not you.
+
+624
+01:02:34,299 --> 01:02:37,052
+You've always been more like your father.
+
+625
+01:02:37,719 --> 01:02:39,763
+So that's why you divorced him.
+
+626
+01:02:41,932 --> 01:02:42,933
+Sorry.
+
+627
+01:02:44,935 --> 01:02:49,439
+What would you do if I got the information
+on these other NDRs?
+
+628
+01:02:49,648 --> 01:02:52,275
+I would seek them out.
+Each and every one.
+
+629
+01:02:53,443 --> 01:02:55,820
+So you'd be gone for quite a long time.
+
+630
+01:02:56,196 --> 01:02:57,280
+Yes.
+
+631
+01:02:57,697 --> 01:03:01,034
+Several years, if not more,
+if my calculations are correct.
+
+632
+01:03:04,621 --> 01:03:06,206
+I'd love to help you.
+
+633
+01:03:07,999 --> 01:03:09,709
+Did he not breast-feed?
+
+634
+01:04:18,153 --> 01:04:19,571
+"Dear Little Miss:
+
+635
+01:04:20,113 --> 01:04:22,991
+"Myjourney is nearing the end
+of its tenth year.
+
+636
+01:04:23,074 --> 01:04:27,078
+"I still have not found any robot
+that bears any similarity to myself.
+
+637
+01:04:27,871 --> 01:04:31,208
+"I have thousands of miles to go,
+hundreds of cities to visit...
+
+638
+01:04:31,291 --> 01:04:34,794
+"...so I have not given up hope.
+Love, Andrew."
+
+639
+01:04:45,597 --> 01:04:50,310
+Hello. My last name is Martin.
+Get off the field.
+
+640
+01:05:37,023 --> 01:05:38,608
+"Dear Little Miss:
+
+641
+01:05:38,775 --> 01:05:40,819
+"Myjourney is nearing its end.
+
+642
+01:05:41,152 --> 01:05:45,532
+"I've exhausted all possibilities
+save for one final ray of hope.
+
+643
+01:05:46,116 --> 01:05:49,619
+"I've learned of an NDR robot
+that has recently been rebuilt...
+
+644
+01:05:49,744 --> 01:05:51,788
+"...back home in San Francisco."
+
+645
+01:06:10,140 --> 01:06:12,434
+Thank you.
+You're quite welcome.
+
+646
+01:07:33,849 --> 01:07:35,350
+Is this yours?
+
+647
+01:07:36,768 --> 01:07:38,019
+Thank you.
+
+648
+01:07:39,187 --> 01:07:41,314
+I'm looking for Rupert Burns.
+
+649
+01:07:41,481 --> 01:07:44,818
+You've come to the right place. Come in.
+
+650
+01:07:44,985 --> 01:07:46,528
+Certainly have.
+
+651
+01:07:56,288 --> 01:07:59,040
+Do you have a name?
+Of course I do.
+
+652
+01:07:59,374 --> 01:08:00,542
+Galatea.
+
+653
+01:08:01,918 --> 01:08:03,086
+Galatea.
+
+654
+01:08:03,920 --> 01:08:06,214
+You have an amazing agility.
+
+655
+01:08:07,299 --> 01:08:08,967
+You were dancing in the market.
+
+656
+01:08:09,050 --> 01:08:11,428
+Did you like that?
+Very much.
+
+657
+01:08:13,054 --> 01:08:15,515
+Dancing is the sportiest sport.
+
+658
+01:08:15,849 --> 01:08:18,393
+And we're so much better at it
+than humans.
+
+659
+01:08:19,186 --> 01:08:21,938
+I can't believe I finally found you.
+
+660
+01:08:22,647 --> 01:08:24,191
+When did you know?
+
+661
+01:08:24,441 --> 01:08:25,692
+Know what?
+
+662
+01:08:26,151 --> 01:08:28,028
+That you were unique?
+
+663
+01:08:28,278 --> 01:08:30,238
+I knew that right away.
+
+664
+01:08:31,406 --> 01:08:32,490
+Me, too.
+
+665
+01:08:33,825 --> 01:08:37,162
+You and I, we're the same.
+
+666
+01:08:41,917 --> 01:08:43,752
+We have personality.
+
+667
+01:08:46,421 --> 01:08:48,715
+Is your personality chip turned on?
+
+668
+01:08:49,758 --> 01:08:51,134
+Isn't yours?
+
+669
+01:08:51,843 --> 01:08:52,761
+No.
+
+670
+01:08:54,262 --> 01:08:55,889
+Sucks to be you!
+
+671
+01:08:56,223 --> 01:09:01,186
+I think personality is much more fun
+than intelligence. Don't you?
+
+672
+01:09:03,647 --> 01:09:04,981
+I think so.
+
+673
+01:09:10,320 --> 01:09:11,780
+Can I help you?
+
+674
+01:09:12,197 --> 01:09:15,408
+Your robot is just a standard NDR,
+isn't she?
+
+675
+01:09:16,326 --> 01:09:18,537
+Yeah, I'm afraid so.
+
+676
+01:09:19,120 --> 01:09:21,498
+Why does she have the ability to dance?
+
+677
+01:09:21,790 --> 01:09:26,294
+Because I put a modified skeletal chip
+into her during her rebuild.
+
+678
+01:09:27,212 --> 01:09:30,632
+How did you do the modification?
+My father taught me.
+
+679
+01:09:30,924 --> 01:09:33,802
+He created the android unit
+at North Am Robotics.
+
+680
+01:09:33,927 --> 01:09:37,848
+He created the technology that allows you
+to mimic human expression.
+
+681
+01:09:37,973 --> 01:09:39,224
+What happened to him?
+
+682
+01:09:39,349 --> 01:09:44,062
+North Am laid him off, so we started
+this place. I took over when he died.
+
+683
+01:09:45,146 --> 01:09:46,565
+I'm sorry to hear that.
+
+684
+01:09:46,648 --> 01:09:49,526
+He would've been absolutely thrilled
+to meet you.
+
+685
+01:09:50,360 --> 01:09:51,903
+I'm Rupert Burns.
+
+686
+01:09:51,987 --> 01:09:54,364
+It's a real honour.
+The honour is mine.
+
+687
+01:09:55,824 --> 01:09:57,951
+You and I, we're the same!
+
+688
+01:10:00,161 --> 01:10:02,038
+Let's get loco, robo!
+
+689
+01:10:05,292 --> 01:10:07,335
+Shut her off, or I will!
+
+690
+01:10:15,093 --> 01:10:16,344
+Thank you.
+
+691
+01:10:18,221 --> 01:10:19,806
+Is this your father's work?
+
+692
+01:10:21,057 --> 01:10:25,061
+Yeah. It's our work, you could say.
+
+693
+01:10:25,687 --> 01:10:29,608
+I haven't been able to restrain myself
+from continuing to tinker with...
+
+694
+01:10:29,691 --> 01:10:33,278
+...the relentlessly unfashionable
+android technology.
+
+695
+01:10:33,403 --> 01:10:36,573
+As a matter of fact,
+I've actually gotten to a point...
+
+696
+01:10:37,532 --> 01:10:42,037
+...where I can pretty much exactly replicate
+the external physical appearance...
+
+697
+01:10:42,204 --> 01:10:44,039
+...of a human being.
+
+698
+01:10:51,338 --> 01:10:52,672
+Remarkable.
+
+699
+01:10:53,131 --> 01:10:54,382
+Thank you.
+
+700
+01:10:56,635 --> 01:10:57,802
+Amazing!
+
+701
+01:10:59,971 --> 01:11:05,018
+Unfortunately, nobody seems terribly
+interested in funding my research, but...
+
+702
+01:11:05,268 --> 01:11:06,269
+I am.
+
+703
+01:11:09,147 --> 01:11:11,274
+I will fund your research.
+
+704
+01:11:12,526 --> 01:11:13,527
+Yeah?
+
+705
+01:11:15,487 --> 01:11:17,030
+That'd be cool.
+
+706
+01:11:23,411 --> 01:11:24,996
+Thank you, darling.
+
+707
+01:11:26,414 --> 01:11:30,627
+I want to make it very clear
+this is an external physical upgrade only.
+
+708
+01:11:30,710 --> 01:11:33,004
+Strictly speaking, you'll feel nothing.
+
+709
+01:11:33,088 --> 01:11:35,465
+None of your internal mechanisms
+will be changed.
+
+710
+01:11:35,590 --> 01:11:37,968
+You'll be subject to your positronic brain.
+
+711
+01:11:38,093 --> 01:11:39,928
+Is that clear?
+Understood.
+
+712
+01:11:41,555 --> 01:11:45,058
+Now, have you given
+any thought whatsoever...
+
+713
+01:11:46,518 --> 01:11:48,979
+...as to what age you'd like to be?
+
+714
+01:11:49,145 --> 01:11:51,523
+Officially, I am 62 years old.
+
+715
+01:11:52,858 --> 01:11:55,068
+Let's take off 25 years.
+15.
+
+716
+01:11:55,277 --> 01:11:56,736
+20.
+Perfect.
+
+717
+01:12:00,448 --> 01:12:04,661
+Believe it or not, the secret to all this
+is actually imperfection.
+
+718
+01:12:05,537 --> 01:12:06,788
+Imperfection?
+
+719
+01:12:07,247 --> 01:12:11,418
+Things like wrinkles,
+less-than-perfect teeth.
+
+720
+01:12:12,669 --> 01:12:16,006
+Details like fading scars, little pockmarks.
+Look at my nose.
+
+721
+01:12:16,131 --> 01:12:19,968
+See my nose?
+It's bulbous and slightly irregular.
+
+722
+01:12:20,135 --> 01:12:21,136
+It is.
+
+723
+01:12:21,261 --> 01:12:24,097
+I'm the only one who has my nose.
+That's what makes me me.
+
+724
+01:12:24,181 --> 01:12:27,767
+We must incorporate these features
+into your design so that you can be...
+
+725
+01:12:27,893 --> 01:12:29,603
+...the only one of you.
+
+726
+01:12:29,686 --> 01:12:32,689
+That's what makes us unique
+is those imperfections.
+
+727
+01:12:33,315 --> 01:12:36,067
+I see. Like the shape of your head.
+
+728
+01:12:37,861 --> 01:12:39,738
+What about the shape of my head?
+
+729
+01:12:39,821 --> 01:12:41,072
+It's huge.
+
+730
+01:12:46,453 --> 01:12:47,787
+But lovely.
+
+731
+01:12:49,497 --> 01:12:50,749
+Thank you.
+
+732
+01:13:12,812 --> 01:13:15,190
+What happened? What's going on?
+
+733
+01:13:18,276 --> 01:13:19,778
+What happened?
+
+734
+01:13:20,904 --> 01:13:22,697
+I saw the inner me.
+
+735
+01:14:12,539 --> 01:14:13,707
+Is it ready?
+
+736
+01:14:21,423 --> 01:14:24,509
+Please be careful. Don't drop me.
+I'm being careful.
+
+737
+01:14:24,593 --> 01:14:27,262
+Oh, my God! Just relax. Relax.
+
+738
+01:14:28,555 --> 01:14:30,765
+Why did you do that?
+That wasn't very funny.
+
+739
+01:14:30,891 --> 01:14:32,851
+Just keeping you on your toes.
+
+740
+01:14:33,018 --> 01:14:36,229
+I don't have any toes.
+You do now.
+
+741
+01:14:38,064 --> 01:14:39,065
+I do.
+
+742
+01:14:39,774 --> 01:14:41,026
+And hands.
+
+743
+01:14:41,443 --> 01:14:42,819
+And fingers!
+
+744
+01:14:43,153 --> 01:14:45,697
+How do I look?
+See for yourself.
+
+745
+01:15:18,897 --> 01:15:20,148
+Thank you.
+
+746
+01:15:53,598 --> 01:15:54,850
+Beautiful.
+
+747
+01:15:57,269 --> 01:15:58,353
+Sorry.
+
+748
+01:15:58,854 --> 01:16:00,021
+Who are you?
+
+749
+01:16:00,689 --> 01:16:01,690
+Andrew.
+
+750
+01:16:02,732 --> 01:16:03,733
+Andrew?
+
+751
+01:16:05,360 --> 01:16:07,487
+You look wonderful. Even younger.
+
+752
+01:16:08,238 --> 01:16:09,739
+How do you do that?
+
+753
+01:16:09,990 --> 01:16:11,491
+Do I know you?
+
+754
+01:16:12,325 --> 01:16:15,912
+I know I look different, too.
+I've had an upgrade. Touch it.
+
+755
+01:16:17,873 --> 01:16:19,541
+Sorry. The face.
+
+756
+01:16:20,208 --> 01:16:21,835
+What's going on?
+
+757
+01:16:22,419 --> 01:16:24,212
+You leave her alone!
+
+758
+01:16:26,339 --> 01:16:27,924
+Who are you?
+Andrew.
+
+759
+01:16:29,968 --> 01:16:31,344
+No. Andrew?
+
+760
+01:16:32,095 --> 01:16:34,389
+But Andrew's a robot.
+Yes, I am.
+
+761
+01:16:34,514 --> 01:16:36,224
+Well, now an android.
+
+762
+01:16:36,308 --> 01:16:37,851
+He's had an upgrade.
+
+763
+01:16:38,143 --> 01:16:39,519
+I know that.
+
+764
+01:16:42,230 --> 01:16:43,231
+Hello.
+
+765
+01:16:45,150 --> 01:16:47,277
+Hello. It is you!
+
+766
+01:16:51,239 --> 01:16:53,033
+You know him?
+Yes.
+
+767
+01:16:53,491 --> 01:16:56,536
+You know me? Who're you?
+I'm Little Miss.
+
+768
+01:16:57,370 --> 01:16:59,164
+That's Little Miss.
+No.
+
+769
+01:17:00,916 --> 01:17:03,210
+No. That's Portia.
+Portia?
+
+770
+01:17:07,547 --> 01:17:09,674
+Who's Portia?
+My granddaughter.
+
+771
+01:17:10,133 --> 01:17:13,553
+Your granddaughter?
+Is this some kind of trick?
+
+772
+01:17:14,721 --> 01:17:16,223
+You're Little Miss?
+
+773
+01:17:16,681 --> 01:17:19,059
+Then what right do you have
+to look like her?
+
+774
+01:17:19,184 --> 01:17:22,229
+There is and can be only one Little Miss.
+
+775
+01:17:22,854 --> 01:17:23,855
+Really?
+
+776
+01:17:23,980 --> 01:17:27,901
+It's a genetic resemblance.
+Sometimes it skips a generation.
+
+777
+01:17:28,151 --> 01:17:30,695
+I don't care. I don't like it.
+I can see that.
+
+778
+01:17:30,779 --> 01:17:33,907
+If you took a moment,
+which I see you're not inclined to do...
+
+779
+01:17:33,990 --> 01:17:37,077
+...you'd realise Portia and I
+are very different people.
+
+780
+01:17:39,329 --> 01:17:41,456
+Why is she imitating you?
+
+781
+01:17:42,207 --> 01:17:44,334
+What's so funny?
+You are.
+
+782
+01:17:44,626 --> 01:17:46,837
+I'm not trying to be funny.
+
+783
+01:17:48,296 --> 01:17:50,841
+Things have certainly changed around here.
+
+784
+01:17:52,050 --> 01:17:54,511
+That happens after 20 years.
+
+785
+01:17:56,346 --> 01:17:59,307
+I have so much to tell you. Come with me.
+
+786
+01:18:03,103 --> 01:18:04,354
+It is you.
+
+787
+01:18:05,397 --> 01:18:06,314
+Yes.
+
+788
+01:18:13,029 --> 01:18:15,407
+Hello, my friend.
+Hello, Little Miss.
+
+789
+01:18:17,993 --> 01:18:20,203
+Whose daughter is she?
+Lloyd's.
+
+790
+01:18:20,453 --> 01:18:22,497
+Now the rudeness makes sense.
+
+791
+01:18:44,477 --> 01:18:46,188
+Go home to your master.
+
+792
+01:18:49,482 --> 01:18:51,860
+You don't have a home, do you?
+
+793
+01:18:53,737 --> 01:18:56,198
+I don't have food. I don't eat.
+
+794
+01:19:01,578 --> 01:19:04,539
+Come in. We'll keep each other company.
+
+795
+01:19:29,231 --> 01:19:30,857
+I know you don't like me.
+
+796
+01:19:30,982 --> 01:19:34,069
+I don't like you either.
+I just want to make that clear.
+
+797
+01:19:34,152 --> 01:19:36,446
+Couldn't be more clear
+if you spat in my face.
+
+798
+01:19:36,571 --> 01:19:39,324
+I can't. I don't have a mucous gland.
+
+799
+01:19:48,458 --> 01:19:51,878
+Would it be possible
+to have a slightly longer conversation?
+
+800
+01:19:57,384 --> 01:20:00,053
+May my canine companion enter also?
+
+801
+01:20:04,391 --> 01:20:05,642
+Thank you.
+
+802
+01:20:20,574 --> 01:20:22,534
+Is this your sculpture?
+
+803
+01:20:24,244 --> 01:20:27,205
+No, I'm restoring it.
+I'm a preservation architect.
+
+804
+01:20:28,290 --> 01:20:29,916
+It's quite horrendous.
+
+805
+01:20:31,751 --> 01:20:34,129
+How ugly was it before you restored it?
+
+806
+01:20:34,754 --> 01:20:37,507
+First you get mad at me
+because of how I look.
+
+807
+01:20:38,633 --> 01:20:41,803
+Now you show up at my door,
+announce that you don't like me...
+
+808
+01:20:41,887 --> 01:20:43,847
+...and then you criticise my work.
+
+809
+01:20:44,014 --> 01:20:47,601
+Once again, I apologise for telling the truth
+but it can't be helped.
+
+810
+01:20:47,684 --> 01:20:49,227
+It's my programming.
+
+811
+01:20:50,645 --> 01:20:53,190
+What is it exactly that you want?
+
+812
+01:20:54,149 --> 01:20:55,233
+Family.
+
+813
+01:20:57,485 --> 01:20:58,904
+My last name is Martin.
+
+814
+01:20:58,987 --> 01:21:02,199
+I'm so named because your
+great-grandfather and grandmother...
+
+815
+01:21:02,282 --> 01:21:04,743
+...considered me to be
+a member of your family.
+
+816
+01:21:05,076 --> 01:21:06,703
+Now Sir is dead.
+
+817
+01:21:07,204 --> 01:21:08,914
+Little Miss is getting older.
+
+818
+01:21:08,997 --> 01:21:12,834
+You don't like me, but you'll talk to me
+if I knock on your door long enough.
+
+819
+01:21:12,918 --> 01:21:14,461
+Is that a joke?
+No.
+
+820
+01:21:14,544 --> 01:21:16,171
+Would you like to hear a joke?
+
+821
+01:21:16,254 --> 01:21:20,091
+This Buddhist says to a hot dog vendor,
+"Make me one with everything."
+
+822
+01:21:23,803 --> 01:21:27,557
+Andrew, do you have any friends at all?
+No.
+
+823
+01:21:29,059 --> 01:21:33,605
+Only Woofy, who's very sweet, but
+not challenging on a conversational level.
+
+824
+01:21:35,106 --> 01:21:37,567
+That is the extent of his skills.
+
+825
+01:21:37,692 --> 01:21:40,403
+So you want someone to talk to?
+With.
+
+826
+01:21:40,487 --> 01:21:44,324
+Even if that person doesn't like you?
+You can't have everything.
+
+827
+01:21:45,242 --> 01:21:47,702
+Is that right?
+Is it, "You can have everything"?
+
+828
+01:21:47,786 --> 01:21:50,914
+Some people do,
+so I'm somewhat confused on that level.
+
+829
+01:21:55,085 --> 01:21:56,253
+Sit down.
+
+830
+01:21:56,378 --> 01:21:58,088
+Let's talk.
+Thank you.
+
+831
+01:22:05,554 --> 01:22:07,097
+Hey there, handsome.
+
+832
+01:22:07,472 --> 01:22:09,683
+Could I get you anything to drink?
+
+833
+01:22:10,225 --> 01:22:12,185
+I'm sorry. I have no stomach.
+
+834
+01:22:13,687 --> 01:22:16,857
+Could I get something for him?
+He has a stomach, yes.
+
+835
+01:22:59,941 --> 01:23:01,276
+How is she?
+
+836
+01:23:01,776 --> 01:23:03,320
+She's sleeping.
+
+837
+01:23:03,737 --> 01:23:05,238
+What happened?
+
+838
+01:23:06,072 --> 01:23:07,741
+She had a stroke.
+
+839
+01:23:43,401 --> 01:23:44,653
+There you are.
+
+840
+01:23:46,571 --> 01:23:48,031
+Little Miss.
+
+841
+01:24:41,126 --> 01:24:42,377
+She's gone.
+
+842
+01:24:56,766 --> 01:24:59,811
+It's cruel that you can cry and I cannot.
+
+843
+01:25:00,896 --> 01:25:03,732
+There is a terrible pain I cannot express.
+
+844
+01:25:07,986 --> 01:25:10,530
+Will every human being that I care for...
+
+845
+01:25:12,782 --> 01:25:16,119
+...just leave?
+
+846
+01:25:21,708 --> 01:25:23,210
+I'm afraid so.
+
+847
+01:25:27,672 --> 01:25:29,174
+That won't do.
+
+848
+01:25:34,638 --> 01:25:38,934
+This is remarkably impressive.
+You did this all by yourself?
+
+849
+01:25:39,351 --> 01:25:42,938
+Yes. I downloaded every known
+medical textbook into my memory.
+
+850
+01:25:43,480 --> 01:25:46,816
+I studied them.
+That's how I came up with these drawings.
+
+851
+01:25:48,193 --> 01:25:52,906
+I know they're primitive and not complete.
+I need you to fill in the mechanical gaps.
+
+852
+01:25:54,199 --> 01:25:56,243
+This is another upgrade.
+
+853
+01:25:56,493 --> 01:25:58,870
+It's considerably more than an upgrade.
+
+854
+01:25:59,454 --> 01:26:02,457
+You're talking about
+a profound transition...
+
+855
+01:26:03,291 --> 01:26:06,002
+...from the mechanical to the biological.
+
+856
+01:26:06,628 --> 01:26:09,965
+I realise that. I believe it is
+the ideal marriage of both fields.
+
+857
+01:26:10,048 --> 01:26:13,385
+Not only that,
+but this stuff could cut both ways.
+
+858
+01:26:13,510 --> 01:26:17,681
+I don't think that any existing
+prosthetic devices hold a candle...
+
+859
+01:26:17,764 --> 01:26:19,808
+...to what you've designed here.
+
+860
+01:26:20,225 --> 01:26:23,478
+I mean, you could use these
+in human beings as well.
+
+861
+01:26:23,937 --> 01:26:25,105
+Exactly.
+
+862
+01:27:01,850 --> 01:27:04,060
+What a piece of faecal matter.
+
+863
+01:27:04,477 --> 01:27:05,562
+"Shit."
+
+864
+01:27:05,687 --> 01:27:08,148
+Excuse me?
+What a piece of shit.
+
+865
+01:27:08,481 --> 01:27:09,649
+I know that.
+
+866
+01:27:10,025 --> 01:27:12,903
+When you're frustrated you say,
+"piece of shit."
+
+867
+01:27:15,780 --> 01:27:17,282
+Piece of shit.
+
+868
+01:27:17,699 --> 01:27:19,659
+Yes, but with feeling.
+
+869
+01:27:21,203 --> 01:27:22,829
+What a piece of shit.
+More.
+
+870
+01:27:22,913 --> 01:27:25,290
+What a piece of shit!
+Good, very good.
+
+871
+01:27:28,710 --> 01:27:31,963
+Are you aware that what you've
+essentially designed here...
+
+872
+01:27:32,088 --> 01:27:34,049
+...is a human central nervous system?
+
+873
+01:27:34,132 --> 01:27:36,343
+That was my intention, yes.
+
+874
+01:27:37,594 --> 01:27:42,807
+Well, you got to realise that
+a nervous system will radically enhance...
+
+875
+01:27:43,058 --> 01:27:46,811
+...the way you feel and perceive
+the world around you.
+
+876
+01:27:47,312 --> 01:27:51,066
+I'm not just talking about hot and cold
+and little tiny pinpricks.
+
+877
+01:27:51,691 --> 01:27:53,318
+Put it this way.
+
+878
+01:27:55,070 --> 01:27:57,280
+As your experience becomes varied...
+
+879
+01:27:58,031 --> 01:28:04,204
+...so will the feelings, emotions,
+sensations stimulated by that experience.
+
+880
+01:28:05,247 --> 01:28:07,999
+And, while some of these
+will be very subtle...
+
+881
+01:28:09,084 --> 01:28:11,962
+...and wonderful, and nuanced,
+and shaded...
+
+882
+01:28:12,963 --> 01:28:17,092
+...others will be profoundly intense
+and difficult to tolerate.
+
+883
+01:28:20,637 --> 01:28:23,014
+Do you feel like you're ready for that?
+
+884
+01:28:32,816 --> 01:28:33,984
+Absolutely.
+
+885
+01:28:42,993 --> 01:28:44,870
+Lovely.
+Thank you.
+
+886
+01:28:45,996 --> 01:28:47,956
+I was referring to the statue.
+
+887
+01:28:48,623 --> 01:28:49,708
+I know.
+
+888
+01:28:52,627 --> 01:28:54,754
+Could you fix this piece of shit?
+
+889
+01:28:56,256 --> 01:28:58,383
+I don't know. Let me take a look.
+
+890
+01:29:09,019 --> 01:29:11,897
+Andrew, I'm sure
+you could restore this yourself.
+
+891
+01:29:12,647 --> 01:29:14,024
+Yes, I could...
+
+892
+01:29:15,692 --> 01:29:18,069
+...but you could do it much better.
+
+893
+01:29:21,156 --> 01:29:23,366
+I'd be happy to fix it for you.
+
+894
+01:29:23,992 --> 01:29:26,703
+If it's not too much effort.
+No, not at all.
+
+895
+01:29:28,914 --> 01:29:31,917
+I've been working all day
+and I could use some air.
+
+896
+01:29:32,083 --> 01:29:35,837
+Do you want to go for a walk?
+That would be quite splendid. Yes.
+
+897
+01:29:36,880 --> 01:29:38,924
+Why are you laughing at me?
+
+898
+01:29:39,049 --> 01:29:43,678
+You're always so polite and so proper.
+It's very sweet.
+
+899
+01:29:44,346 --> 01:29:45,597
+Thank you.
+
+900
+01:29:46,806 --> 01:29:49,351
+Let's go. Thank you.
+
+901
+01:29:52,395 --> 01:29:56,816
+"When a man's an empty kettle
+he should be on his mettle
+
+902
+01:29:57,442 --> 01:30:00,237
+"And yet I'm torn apart
+
+903
+01:30:00,862 --> 01:30:05,408
+"It's because I'm presumin'
+that I could be kinda human
+
+904
+01:30:05,575 --> 01:30:08,453
+"If I only had a heart
+
+905
+01:30:09,371 --> 01:30:12,874
+"Picture me a balcony..."
+Do you have an impact drill?
+
+906
+01:30:13,500 --> 01:30:15,544
+Over on the rack.
+Thank you.
+
+907
+01:30:19,631 --> 01:30:20,715
+Jesus!
+
+908
+01:30:23,385 --> 01:30:28,348
+There's a party next week to celebrate
+the opening of a building that I restored.
+
+909
+01:30:29,349 --> 01:30:32,602
+All my friends will be there.
+It would be great if you could come.
+
+910
+01:30:32,727 --> 01:30:34,771
+I would love to. Thank you.
+
+911
+01:30:37,190 --> 01:30:39,234
+I think you're letting me win.
+
+912
+01:30:47,492 --> 01:30:48,743
+Checkmate.
+
+913
+01:31:53,934 --> 01:31:57,354
+Charles, why don't you go get us a drink?
+
+914
+01:32:02,192 --> 01:32:03,443
+Thank you.
+
+915
+01:33:31,323 --> 01:33:34,993
+I never understood the phrase,
+"Pearls before swans."
+
+916
+01:33:35,493 --> 01:33:37,037
+What?
+"Swine."
+
+917
+01:33:37,454 --> 01:33:39,497
+Then the ballet is not "Swine Lake."
+
+918
+01:33:39,623 --> 01:33:42,542
+Oh, God.
+Nobody makes me laugh like you.
+
+919
+01:33:43,210 --> 01:33:46,171
+Laughter is essential for a good friendship.
+
+920
+01:33:46,254 --> 01:33:47,589
+Yes, it is.
+
+921
+01:33:51,801 --> 01:33:54,012
+Sometimes I get the feeling that...
+
+922
+01:33:56,264 --> 01:33:59,100
+...you feel a certain way about us...
+
+923
+01:33:59,309 --> 01:34:02,979
+...and that you wish your...
+
+924
+01:34:05,482 --> 01:34:06,483
+What?
+
+925
+01:34:07,484 --> 01:34:10,278
+I don't know. It's just a little...
+
+926
+01:34:10,820 --> 01:34:13,365
+Having this conversation with...
+
+927
+01:34:14,908 --> 01:34:16,159
+A robot?
+Yes.
+
+928
+01:34:17,536 --> 01:34:20,163
+I mean, a thing is itself, Andrew.
+
+929
+01:34:20,288 --> 01:34:25,085
+A tree is a tree. Water is water.
+You are a magnificent machine.
+
+930
+01:34:26,336 --> 01:34:29,756
+No matter how much you change,
+that's what you'll always be.
+
+931
+01:34:30,340 --> 01:34:31,341
+No.
+
+932
+01:34:31,883 --> 01:34:35,095
+I can't believe that, will not believe that.
+
+933
+01:34:35,303 --> 01:34:37,848
+I realise I am not entirely human.
+
+934
+01:34:38,056 --> 01:34:40,767
+That's why people don't always like
+or understand me.
+
+935
+01:34:40,851 --> 01:34:42,686
+I like you.
+You do?
+
+936
+01:34:42,894 --> 01:34:45,814
+I even understand you some of the time.
+
+937
+01:34:46,690 --> 01:34:50,819
+But I can't invest my emotions
+in a machine.
+
+938
+01:34:56,992 --> 01:34:59,119
+It must be a genetic trait.
+
+939
+01:35:03,582 --> 01:35:05,208
+Things change, Portia.
+
+940
+01:35:06,918 --> 01:35:08,795
+Things always change.
+
+941
+01:35:15,844 --> 01:35:17,554
+She laughed at me.
+
+942
+01:35:17,679 --> 01:35:20,557
+"A thing is itself, Andrew. Water is water."
+
+943
+01:35:22,100 --> 01:35:25,020
+What about ice? What about steam?
+
+944
+01:35:25,270 --> 01:35:27,105
+Andy, you got to calm down.
+
+945
+01:35:28,148 --> 01:35:30,692
+Do you know what it's like
+to be laughed at?
+
+946
+01:35:30,817 --> 01:35:33,445
+Humiliating. It's an abomination.
+
+947
+01:35:34,821 --> 01:35:37,657
+Look at me. Look what I'm doing here.
+
+948
+01:35:38,283 --> 01:35:42,370
+I'm trying to make something of myself.
+I'm trying to fulfil my destiny.
+
+949
+01:35:42,454 --> 01:35:43,788
+Does she notice?
+
+950
+01:35:44,706 --> 01:35:49,085
+I don't want you to take this personally,
+but I have to work now. Good night.
+
+951
+01:35:58,595 --> 01:36:01,139
+Where have you been?
+I've been trying to call you.
+
+952
+01:36:01,223 --> 01:36:02,766
+Poke me in the eye.
+What?
+
+953
+01:36:02,849 --> 01:36:04,809
+Poke me in the eye!
+You're crazy.
+
+954
+01:36:04,935 --> 01:36:06,728
+Poke me in the eye!
+
+955
+01:36:09,439 --> 01:36:10,607
+That hurts!
+
+956
+01:36:12,400 --> 01:36:14,778
+It works!
+What the hell's going on?
+
+957
+01:36:14,903 --> 01:36:18,240
+It's my neural net!
+I'm the proud owner of a nervous system.
+
+958
+01:36:18,365 --> 01:36:20,492
+You can feel.
+Yes, very much!
+
+959
+01:36:21,159 --> 01:36:24,496
+Do something for me? Perform
+an experiment for the sake of science.
+
+960
+01:36:24,579 --> 01:36:26,081
+All right.
+Kiss me.
+
+961
+01:36:28,959 --> 01:36:30,460
+No, not there.
+
+962
+01:36:31,253 --> 01:36:32,254
+Here.
+
+963
+01:36:39,678 --> 01:36:40,929
+Thank you.
+
+964
+01:36:42,514 --> 01:36:45,225
+Could you feel it?
+It's wonderful.
+
+965
+01:36:46,810 --> 01:36:49,271
+It's everything they say it is.
+
+966
+01:36:51,189 --> 01:36:52,357
+And you?
+
+967
+01:36:59,239 --> 01:37:00,699
+What's wrong?
+
+968
+01:37:03,243 --> 01:37:05,537
+Charles and I are getting married.
+
+969
+01:37:12,836 --> 01:37:14,504
+He's a lucky man.
+
+970
+01:37:15,672 --> 01:37:19,259
+Congratulations to the both of you.
+Goddamn it, Andrew!
+
+971
+01:37:19,968 --> 01:37:23,972
+If you're going to succeed
+at this thing you're trying to do...
+
+972
+01:37:24,139 --> 01:37:26,683
+...you've got to stop being
+so damn deferential.
+
+973
+01:37:26,808 --> 01:37:30,145
+I can't help being deferential. It's built-in.
+Then change.
+
+974
+01:37:30,312 --> 01:37:32,606
+Change? I have changed.
+
+975
+01:37:33,023 --> 01:37:35,942
+I don't mean on the outside.
+Change on the inside.
+
+976
+01:37:36,234 --> 01:37:38,445
+Take chances, make mistakes.
+
+977
+01:37:38,528 --> 01:37:43,033
+Sometimes it's important not to be perfect.
+It's important to do the wrong thing!
+
+978
+01:37:43,158 --> 01:37:44,951
+Do the wrong thing?
+Yes.
+
+979
+01:37:45,535 --> 01:37:48,079
+Why? I see. To learn from your mistakes.
+
+980
+01:37:48,205 --> 01:37:49,915
+No. To make them!
+
+981
+01:37:49,998 --> 01:37:53,668
+To find out what's real and what's not,
+to find out what you feel.
+
+982
+01:37:54,669 --> 01:37:56,713
+Human beings are terrible messes.
+
+983
+01:37:56,838 --> 01:37:58,673
+I'll grant you that.
+
+984
+01:38:00,008 --> 01:38:03,929
+I see. This is what is known as
+an irrational conversation, isn't it?
+
+985
+01:38:04,888 --> 01:38:06,932
+This is a human conversation.
+
+986
+01:38:07,098 --> 01:38:10,852
+It's not about being rational.
+It's about following your heart.
+
+987
+01:38:11,978 --> 01:38:14,272
+And that's what I should do?
+Yes.
+
+988
+01:38:14,564 --> 01:38:16,691
+And you have a heart, Andrew.
+
+989
+01:38:16,858 --> 01:38:21,196
+I feel it. I don't even believe it sometimes,
+but I do feel it.
+
+990
+01:38:22,989 --> 01:38:25,200
+And in order to follow that heart...
+
+991
+01:38:29,079 --> 01:38:31,122
+...one must do the wrong thing.
+
+992
+01:38:31,540 --> 01:38:32,457
+Yes.
+
+993
+01:38:37,879 --> 01:38:39,130
+Thank you.
+
+994
+01:39:14,082 --> 01:39:17,836
+Could you be a little more careful?
+That's very delicate equipment.
+
+995
+01:39:23,258 --> 01:39:24,342
+Sorry!
+
+996
+01:39:25,177 --> 01:39:26,428
+What are you doing?
+
+997
+01:39:26,511 --> 01:39:29,055
+Near as I can tell, your bitch work!
+
+998
+01:39:29,556 --> 01:39:30,640
+My what?
+
+999
+01:39:30,765 --> 01:39:33,768
+You heard me, and I'm sick of it!
+
+1000
+01:39:34,269 --> 01:39:37,522
+All day long it's, "Yes, Rupert, sir,"
+"No, Rupert, sir."
+
+1001
+01:39:37,606 --> 01:39:41,443
+"Would you like another beverage,
+Rupert, sir?" And it chaps my ass!
+
+1002
+01:39:42,235 --> 01:39:44,779
+So here's a helpful hint for you.
+
+1003
+01:39:45,739 --> 01:39:48,200
+Shut up, and let me do my work!
+
+1004
+01:40:06,384 --> 01:40:07,552
+I'm done.
+
+1005
+01:40:13,975 --> 01:40:15,519
+"Chaps my ass"?
+
+1006
+01:40:25,195 --> 01:40:27,739
+Where's the chip?
+I replaced it.
+
+1007
+01:40:29,074 --> 01:40:31,826
+She's uncooperative, abusive,
+confrontational...
+
+1008
+01:40:32,035 --> 01:40:33,870
+And a lot more interesting.
+
+1009
+01:40:34,204 --> 01:40:36,498
+Arguably, but we're not getting
+any work done.
+
+1010
+01:40:36,581 --> 01:40:39,793
+Please give me
+the old personality chip back.
+
+1011
+01:40:41,795 --> 01:40:43,839
+Fine. She can be perky again.
+
+1012
+01:40:44,631 --> 01:40:46,508
+"Perky"? She's just a robot...
+
+1013
+01:40:46,591 --> 01:40:48,176
+I didn't mean it that way.
+
+1014
+01:40:50,637 --> 01:40:52,264
+I really didn't mean that.
+
+1015
+01:40:52,347 --> 01:40:55,517
+What's the matter with you today?
+Where are you going?
+
+1016
+01:41:04,276 --> 01:41:06,653
+Aunt Jamie, I want you too meet Charles.
+
+1017
+01:41:06,736 --> 01:41:09,281
+This is my Aunt Jamie.
+Nice to meet you.
+
+1018
+01:41:24,504 --> 01:41:26,131
+What's going on?
+
+1019
+01:41:27,090 --> 01:41:29,384
+Portia's parents are giving
+an engagement party...
+
+1020
+01:41:29,509 --> 01:41:31,887
+...that I wasn't invited to
+for obvious reasons.
+
+1021
+01:41:33,221 --> 01:41:34,681
+There he is.
+Who?
+
+1022
+01:41:34,764 --> 01:41:36,433
+The prospective groom.
+Where?
+
+1023
+01:41:36,516 --> 01:41:40,770
+Where? The one in the pale blue suit
+with the big pointy chin!
+
+1024
+01:41:41,521 --> 01:41:44,733
+He's got a pointy chin?
+You can put an eye out with that chin!
+
+1025
+01:41:45,525 --> 01:41:48,320
+That's nothing compared to his teeth.
+Look at that!
+
+1026
+01:41:48,778 --> 01:41:52,365
+I'm amazed he's out in daylight.
+Yeah, he's got funny teeth.
+
+1027
+01:41:52,616 --> 01:41:54,993
+You need to upgrade your eyes.
+
+1028
+01:41:55,327 --> 01:41:58,663
+That shouldn't stop Portia.
+She can marry whoever she likes.
+
+1029
+01:41:58,788 --> 01:42:02,876
+One day she'll wake up and realise
+she's married to a man...
+
+1030
+01:42:03,210 --> 01:42:06,338
+...whose face closely resembles
+an antique can opener.
+
+1031
+01:42:07,756 --> 01:42:09,508
+The kind that used to go...
+
+1032
+01:42:09,591 --> 01:42:12,302
+The ones that move around,
+and the can pops off.
+
+1033
+01:42:12,385 --> 01:42:13,970
+You're jealous.
+
+1034
+01:42:14,513 --> 01:42:16,389
+No, I'm not!
+You're jealous!
+
+1035
+01:42:16,473 --> 01:42:19,809
+You are. Otherwise, what're you doing
+spying on Portia?
+
+1036
+01:42:21,436 --> 01:42:23,313
+My God, I am jealous.
+
+1037
+01:42:24,731 --> 01:42:27,108
+If I'm jealous, that means I'm in love.
+
+1038
+01:42:29,319 --> 01:42:31,696
+If I'm in love, then all hope is gone.
+
+1039
+01:42:32,822 --> 01:42:34,324
+I've lost her.
+
+1040
+01:43:09,484 --> 01:43:11,528
+Would you like a sip of my beer?
+
+1041
+01:43:12,779 --> 01:43:15,699
+It'd be a waste. I could not taste it.
+
+1042
+01:43:16,199 --> 01:43:17,909
+What if you could?
+
+1043
+01:43:18,243 --> 01:43:19,995
+That would be exquisite.
+
+1044
+01:43:23,915 --> 01:43:27,085
+I've come up with a design,
+or a modification rather...
+
+1045
+01:43:28,253 --> 01:43:33,383
+...that if I'm correct, would enable you
+to deal with solid foods and liquids.
+
+1046
+01:43:34,759 --> 01:43:36,720
+And taste?
+Taste, too.
+
+1047
+01:43:39,097 --> 01:43:43,185
+And also, if my schematics are correct...
+
+1048
+01:43:45,353 --> 01:43:51,026
+...I think I've come up with a method
+to make you a complete man.
+
+1049
+01:43:52,861 --> 01:43:54,029
+Complete?
+
+1050
+01:43:54,696 --> 01:43:55,864
+Complete.
+
+1051
+01:44:04,039 --> 01:44:05,207
+Complete?
+
+1052
+01:44:05,957 --> 01:44:11,087
+Not in a reproductive sense,
+of course, but in terms of approximating...
+
+1053
+01:44:12,380 --> 01:44:17,427
+...the physical sensation, you know,
+that occurs...
+
+1054
+01:44:20,680 --> 01:44:22,807
+...friction.
+Sexual relations?
+
+1055
+01:44:26,853 --> 01:44:29,606
+I've always been fascinated by that.
+
+1056
+01:44:29,773 --> 01:44:31,107
+I mean, curious.
+
+1057
+01:44:32,651 --> 01:44:36,571
+Because of what they say.
+
+1058
+01:44:37,531 --> 01:44:39,199
+What do they say?
+
+1059
+01:44:41,993 --> 01:44:43,954
+That you can lose yourself.
+
+1060
+01:44:45,372 --> 01:44:48,208
+Everything. All boundaries, all time.
+
+1061
+01:44:51,169 --> 01:44:53,630
+That two bodies can become so mixed-up...
+
+1062
+01:44:55,048 --> 01:44:57,884
+...that you don't know who's who
+or what's what.
+
+1063
+01:44:58,969 --> 01:45:02,973
+And just when the sweet confusion
+is so intense you think you'll die...
+
+1064
+01:45:03,139 --> 01:45:07,060
+...you kind of do,
+leaving you alone in your separate body.
+
+1065
+01:45:08,228 --> 01:45:10,438
+But the one you love is still there.
+
+1066
+01:45:11,481 --> 01:45:13,149
+That's a miracle.
+
+1067
+01:45:14,484 --> 01:45:17,028
+You can go to Heaven and come back alive.
+
+1068
+01:45:19,906 --> 01:45:24,452
+Go back, anytime you want
+with the one you love.
+
+1069
+01:45:28,373 --> 01:45:31,418
+And you want to experience that?
+Yes, please.
+
+1070
+01:45:33,962 --> 01:45:35,130
+So do I.
+
+1071
+01:46:17,255 --> 01:46:19,716
+Excuse me. I'll be right back.
+
+1072
+01:46:24,179 --> 01:46:26,056
+I didn't expect to see you.
+
+1073
+01:46:27,599 --> 01:46:30,060
+I remember this place very well.
+
+1074
+01:46:30,727 --> 01:46:32,854
+This is where your grandmother
+was married.
+
+1075
+01:46:32,979 --> 01:46:35,774
+I wanted it ready for my own wedding.
+
+1076
+01:46:36,107 --> 01:46:39,361
+So you're not married yet?
+No, two weeks from Saturday.
+
+1077
+01:46:39,694 --> 01:46:41,363
+I'm not too late.
+
+1078
+01:46:42,280 --> 01:46:44,658
+Are you positive you're doing
+the right thing?
+
+1079
+01:46:44,741 --> 01:46:47,202
+Positive.
+About getting married?
+
+1080
+01:46:47,285 --> 01:46:50,956
+I'm never positive about anything.
+You could be doing the wrong thing.
+
+1081
+01:46:51,081 --> 01:46:53,708
+I'm pretty sure I'm doing the right thing.
+Great.
+
+1082
+01:46:53,875 --> 01:46:55,585
+Why is that great?
+
+1083
+01:46:55,669 --> 01:46:57,796
+You told me to do the wrong thing.
+
+1084
+01:46:57,921 --> 01:47:01,007
+You aren't doing the wrong thing,
+you're doing the right thing.
+
+1085
+01:47:01,091 --> 01:47:05,178
+You're not following your own advice,
+'cause if you were you wouldn't marry him.
+
+1086
+01:47:05,262 --> 01:47:08,390
+Because I would be doing the right thing.
+Precisely.
+
+1087
+01:47:09,724 --> 01:47:12,269
+In some strange way,
+you're starting to make sense.
+
+1088
+01:47:12,394 --> 01:47:13,395
+Good.
+
+1089
+01:47:14,020 --> 01:47:18,024
+You know what it's like to be in love with
+someone who's marrying someone else?
+
+1090
+01:47:18,859 --> 01:47:20,318
+Someone who's magnificent?
+
+1091
+01:47:20,402 --> 01:47:23,989
+Someone who walks into a room
+and lights it up like the sun?
+
+1092
+01:47:24,239 --> 01:47:26,783
+Someone who you know is lying to herself?
+
+1093
+01:47:28,034 --> 01:47:30,787
+Lying?
+Convincingly. Very much so.
+
+1094
+01:47:31,121 --> 01:47:32,455
+About what?
+
+1095
+01:47:32,747 --> 01:47:36,668
+That you don't love me when I know,
+at least in some way, you do.
+
+1096
+01:47:38,503 --> 01:47:40,630
+And how do you know that?
+
+1097
+01:47:41,006 --> 01:47:43,383
+I have done everything, inside and out.
+
+1098
+01:47:43,633 --> 01:47:46,303
+That stuff doesn't matter to me.
+Something matters.
+
+1099
+01:47:46,386 --> 01:47:48,597
+If nothing mattered, you'd love me...
+
+1100
+01:47:48,680 --> 01:47:51,600
+...and not some man whose chin
+could sink the Titanic.
+
+1101
+01:47:52,309 --> 01:47:54,978
+What? See? It's true, isn't it?
+
+1102
+01:47:56,313 --> 01:47:57,397
+Sorry.
+
+1103
+01:47:58,315 --> 01:48:01,484
+Does he light you up like this?
+Does he make you laugh?
+
+1104
+01:48:02,360 --> 01:48:04,404
+Nobody makes me laugh like this.
+
+1105
+01:48:04,529 --> 01:48:07,616
+Good. Then admit it.
+Admit that you love me.
+
+1106
+01:48:12,579 --> 01:48:15,040
+Give me one kiss. That's all.
+
+1107
+01:48:15,582 --> 01:48:20,086
+One quick kiss. Just one kiss
+could not jeopardise a glorious marriage.
+
+1108
+01:48:21,254 --> 01:48:25,800
+It would also explain why your pulse just
+jumped from 66 to 102 beats per minute.
+
+1109
+01:48:26,218 --> 01:48:29,638
+Your respiration is doubled.
+You're putting out clouds of pheromones.
+
+1110
+01:48:29,763 --> 01:48:33,183
+It's not fair to read me like that.
+I know. Love isn't fair.
+
+1111
+01:48:33,308 --> 01:48:37,145
+I'm reading your heart. I'm asking you
+to follow it. Begging you.
+
+1112
+01:48:38,939 --> 01:48:41,983
+Begging is supposed to be humiliating.
+I don't care.
+
+1113
+01:48:42,067 --> 01:48:43,860
+I love you, Portia.
+
+1114
+01:48:44,402 --> 01:48:47,030
+I loved you the very first moment
+I saw you.
+
+1115
+01:48:59,835 --> 01:49:02,379
+I thought you said a quick kiss.
+I lied!
+
+1116
+01:49:30,866 --> 01:49:32,242
+How do you feel?
+
+1117
+01:49:33,785 --> 01:49:34,870
+Wonderful.
+
+1118
+01:49:35,620 --> 01:49:36,788
+So do I.
+
+1119
+01:49:38,290 --> 01:49:40,166
+I guess that's the point.
+
+1120
+01:49:45,755 --> 01:49:47,007
+What was that?
+
+1121
+01:49:47,424 --> 01:49:50,051
+It's your stomach growling. You're hungry.
+
+1122
+01:49:55,640 --> 01:49:57,392
+Was that me?
+Yes.
+
+1123
+01:49:57,475 --> 01:49:59,936
+I thought it was you.
+No, it wasn't me.
+
+1124
+01:50:00,061 --> 01:50:01,146
+Really?
+
+1125
+01:50:03,023 --> 01:50:04,274
+Do you do that?
+
+1126
+01:50:05,400 --> 01:50:08,028
+Sometimes, but quieter than that.
+
+1127
+01:50:09,905 --> 01:50:12,532
+I'll have to have Rupert make me a muffler.
+
+1128
+01:50:23,335 --> 01:50:24,711
+It's wonderful.
+
+1129
+01:50:25,003 --> 01:50:27,797
+It's wonderful,
+the taste and the texture both.
+
+1130
+01:50:31,551 --> 01:50:32,719
+It's marvellous.
+
+1131
+01:50:32,802 --> 01:50:36,806
+I know this will be my fourth helping,
+but may I please have some more?
+
+1132
+01:50:38,350 --> 01:50:42,646
+Pig. Very smart animal. Obviously
+not that smart if it ends up as bacon.
+
+1133
+01:50:43,396 --> 01:50:46,816
+I feel like I'm eating my way
+through the entire food chain.
+
+1134
+01:50:47,067 --> 01:50:48,151
+Thank you.
+
+1135
+01:50:55,158 --> 01:50:56,159
+What?
+
+1136
+01:50:59,037 --> 01:51:00,497
+What's wrong?
+
+1137
+01:51:03,124 --> 01:51:04,668
+If we're together...
+
+1138
+01:51:05,585 --> 01:51:09,089
+...you and me, we'll never be accepted.
+
+1139
+01:51:12,300 --> 01:51:14,094
+Because I'm not human.
+
+1140
+01:51:18,056 --> 01:51:19,724
+That will not do.
+
+1141
+01:51:23,770 --> 01:51:26,606
+I will have to get started.
+Started with what?
+
+1142
+01:51:29,693 --> 01:51:30,861
+The next step.
+
+1143
+01:51:31,528 --> 01:51:33,029
+I love you.
+
+1144
+01:51:38,952 --> 01:51:40,412
+Wish me luck.
+
+1145
+01:52:00,140 --> 01:52:02,184
+Andrew Martin. Step forward, please.
+
+1146
+01:52:12,235 --> 01:52:13,737
+So, Mr. Martin...
+
+1147
+01:52:13,987 --> 01:52:18,366
+...you would like us to pass a bill
+declaring you a human being.
+
+1148
+01:52:19,242 --> 01:52:24,122
+Yes. Specifically, the ability
+to marry a fellow human being.
+
+1149
+01:52:24,581 --> 01:52:25,665
+I see.
+
+1150
+01:52:26,249 --> 01:52:28,293
+We have to face the undeniable fact...
+
+1151
+01:52:28,418 --> 01:52:31,755
+...that no matter how much you may be
+like a human being...
+
+1152
+01:52:32,297 --> 01:52:34,925
+...you are not part of the human gene pool.
+
+1153
+01:52:35,509 --> 01:52:38,720
+You are outside of it entirely.
+You are something else.
+
+1154
+01:52:39,513 --> 01:52:41,389
+Something artificial.
+
+1155
+01:52:42,265 --> 01:52:46,478
+Sir, what about all the real people
+wading in the gene pool...
+
+1156
+01:52:46,937 --> 01:52:50,524
+...who are full of prosthetic devices,
+many of which I have invented?
+
+1157
+01:52:50,649 --> 01:52:53,777
+You yourself, sir, have one of my kidneys,
+do you not?
+
+1158
+01:52:54,778 --> 01:52:58,448
+Are you not in some way artificial,
+at least in part?
+
+1159
+01:52:59,783 --> 01:53:01,243
+In part, yes.
+
+1160
+01:53:02,452 --> 01:53:04,287
+Then I'm human, in part.
+
+1161
+01:53:05,789 --> 01:53:07,249
+Which part, Andrew?
+
+1162
+01:53:08,959 --> 01:53:10,460
+This one, sir.
+
+1163
+01:53:11,545 --> 01:53:12,629
+I see.
+
+1164
+01:53:13,213 --> 01:53:14,756
+And here?
+
+1165
+01:53:17,634 --> 01:53:20,804
+It is true, I am still equipped
+with a positronic brain.
+
+1166
+01:53:20,887 --> 01:53:26,601
+And because of that positronic brain
+you are, for all accounts, immortal.
+
+1167
+01:53:29,604 --> 01:53:30,772
+Yes, sir.
+
+1168
+01:53:33,108 --> 01:53:36,778
+Andrew, society can tolerate
+an immortal robot...
+
+1169
+01:53:37,863 --> 01:53:40,782
+...but we will never tolerate
+an immortal human.
+
+1170
+01:53:41,491 --> 01:53:45,161
+It arouses too much jealousy,
+too much anger.
+
+1171
+01:53:46,037 --> 01:53:47,497
+I'm sorry, Andrew.
+
+1172
+01:53:47,664 --> 01:53:51,418
+This court cannot and will not
+validate your humanity.
+
+1173
+01:53:52,836 --> 01:53:55,505
+I hereby bring an end to these proceedings.
+
+1174
+01:53:56,089 --> 01:54:00,969
+It is the decision of this court that
+Andrew Martin, from this day forward...
+
+1175
+01:54:01,720 --> 01:54:05,390
+...will continue to be declared a robot.
+
+1176
+01:54:07,017 --> 01:54:09,686
+A mechanical machine, nothing more.
+
+1177
+01:54:14,399 --> 01:54:16,693
+One is glad to be of service.
+
+1178
+01:54:45,430 --> 01:54:47,390
+Andrew, I have to tell you...
+
+1179
+01:54:48,808 --> 01:54:51,102
+...I'm beginning to feel not so sure.
+
+1180
+01:54:51,686 --> 01:54:52,771
+About us?
+
+1181
+01:54:53,647 --> 01:54:54,564
+No.
+
+1182
+01:54:57,275 --> 01:54:59,486
+Next week will be my 75th birthday...
+
+1183
+01:54:59,611 --> 01:55:01,571
+I know, and you look 50.
+
+1184
+01:55:02,531 --> 01:55:04,741
+Thank you.
+A spectacular 50.
+
+1185
+01:55:04,824 --> 01:55:06,368
+But I don't feel 50.
+
+1186
+01:55:06,576 --> 01:55:09,996
+Your body does. Last night was amazing.
+What was that called again?
+
+1187
+01:55:10,080 --> 01:55:12,624
+Shut up and listen to me!
+Sorry.
+
+1188
+01:55:12,958 --> 01:55:15,627
+Don't give me that look,
+I'm not ordering you around.
+
+1189
+01:55:15,710 --> 01:55:17,546
+Whatever you say.
+Don't be agreeable.
+
+1190
+01:55:17,629 --> 01:55:20,257
+I'm not being agreeable.
+I can be if you want me to.
+
+1191
+01:55:20,340 --> 01:55:23,844
+Goddamn it! I'm trying to tell you
+something important here.
+
+1192
+01:55:32,102 --> 01:55:34,062
+I'm not going to live forever.
+
+1193
+01:55:34,813 --> 01:55:36,147
+Yes, you will.
+
+1194
+01:55:36,565 --> 01:55:38,775
+That's why I invented all...
+No, no.
+
+1195
+01:55:39,276 --> 01:55:41,820
+I won't always take your DNA elixirs.
+
+1196
+01:55:42,404 --> 01:55:45,031
+I won't have all my organs replaced.
+
+1197
+01:55:45,323 --> 01:55:47,951
+Eventually, I'm going to wear out.
+
+1198
+01:55:48,368 --> 01:55:49,870
+And I want to.
+
+1199
+01:55:51,705 --> 01:55:53,665
+Why would you want to leave?
+
+1200
+01:55:57,460 --> 01:55:59,838
+There's an order to things.
+
+1201
+01:56:01,548 --> 01:56:05,802
+Human beings are meant to be here
+for a certain time and then pass on.
+
+1202
+01:56:07,137 --> 01:56:08,972
+That's what's right.
+
+1203
+01:56:10,849 --> 01:56:11,933
+I see.
+
+1204
+01:56:13,768 --> 01:56:16,313
+There's just one problem, Portia.
+
+1205
+01:56:17,814 --> 01:56:20,609
+I couldn't stand to live without you.
+
+1206
+01:56:47,177 --> 01:56:49,721
+Andrew, people grow through time.
+
+1207
+01:56:50,180 --> 01:56:53,767
+But then, for you,
+time is a completely different proposition.
+
+1208
+01:56:54,100 --> 01:56:57,145
+For you, time is endless.
+
+1209
+01:57:08,990 --> 01:57:11,368
+There is only one thing to do.
+
+1210
+01:57:35,684 --> 01:57:38,311
+Galatea, my dear, where are we?
+
+1211
+01:57:39,145 --> 01:57:41,439
+The transfusion is almost complete.
+
+1212
+01:57:41,565 --> 01:57:42,899
+Is that so?
+
+1213
+01:57:44,985 --> 01:57:47,362
+Just goes to show you, Andrew.
+
+1214
+01:57:48,655 --> 01:57:50,782
+Somebody becomes a human being...
+
+1215
+01:57:51,241 --> 01:57:54,578
+...sooner or later,
+they do something monumentally stupid.
+
+1216
+01:57:55,495 --> 01:57:57,789
+You've been a great example, Rupert.
+
+1217
+01:57:58,582 --> 01:58:01,251
+How quickly will the blood
+degrade my system?
+
+1218
+01:58:01,751 --> 01:58:03,170
+I don't know.
+
+1219
+01:58:04,004 --> 01:58:08,258
+You exercise, eat right, say, 30, 40 years.
+
+1220
+01:58:10,844 --> 01:58:15,098
+That's a little vague, chief.
+You don't know exactly how long I'll last?
+
+1221
+01:58:16,057 --> 01:58:17,142
+Sorry.
+
+1222
+01:58:19,603 --> 01:58:21,563
+Welcome to the human condition.
+
+1223
+01:58:31,823 --> 01:58:33,325
+Andrew Martin?
+
+1224
+01:58:47,214 --> 01:58:50,300
+I've always tried to make sense of things.
+
+1225
+01:58:51,384 --> 01:58:54,971
+There must be some reason I am as I am.
+
+1226
+01:58:57,516 --> 01:59:02,646
+As you can see, Madam Chairman,
+I am no longer immortal.
+
+1227
+01:59:05,482 --> 01:59:07,609
+You have arranged to die?
+
+1228
+01:59:08,068 --> 01:59:09,861
+In a sense, I have.
+
+1229
+01:59:11,947 --> 01:59:16,201
+I am growing old
+and my body is deteriorating.
+
+1230
+01:59:18,161 --> 01:59:22,707
+And, like all of you,
+it'll eventually cease to function.
+
+1231
+01:59:25,836 --> 01:59:28,964
+As a robot I could have lived forever.
+
+1232
+01:59:32,551 --> 01:59:36,638
+But I tell you all today
+I would rather die a man...
+
+1233
+01:59:38,265 --> 01:59:41,476
+...than live for all eternity as a machine.
+
+1234
+01:59:45,814 --> 01:59:47,649
+Why do you want this?
+
+1235
+01:59:49,901 --> 01:59:54,155
+To be acknowledged
+for who and what I am...
+
+1236
+01:59:55,699 --> 01:59:57,492
+...no more, no less...
+
+1237
+01:59:59,369 --> 02:00:01,997
+...not for acclaim, not for approval...
+
+1238
+02:00:03,623 --> 02:00:06,293
+...but the simple truth of that recognition.
+
+1239
+02:00:07,377 --> 02:00:10,881
+This has been the elemental drive
+of my existence.
+
+1240
+02:00:11,798 --> 02:00:13,633
+And it must be achieved...
+
+1241
+02:00:13,884 --> 02:00:17,971
+...if I am to live or die with dignity.
+
+1242
+02:00:31,776 --> 02:00:33,653
+What you're asking for is...
+
+1243
+02:00:35,363 --> 02:00:38,033
+...extremely complex and controversial.
+
+1244
+02:00:39,201 --> 02:00:41,661
+It will not be an easy decision.
+
+1245
+02:00:42,537 --> 02:00:44,497
+I must ask for your patience...
+
+1246
+02:00:44,956 --> 02:00:48,001
+...while I take the necessary time
+to make a determination...
+
+1247
+02:00:48,084 --> 02:00:51,505
+...of this extremely delicate matter.
+
+1248
+02:00:54,591 --> 02:00:57,719
+Then I await your decision,
+Madame Chairman.
+
+1249
+02:01:02,516 --> 02:01:04,809
+Thank you for your patience.
+
+1250
+02:01:09,481 --> 02:01:10,649
+We tried.
+
+1251
+02:01:25,372 --> 02:01:26,790
+Is it almost time?
+
+1252
+02:01:27,958 --> 02:01:29,417
+In a few minutes.
+
+1253
+02:01:31,837 --> 02:01:34,548
+It doesn't matter what
+the World Congress says.
+
+1254
+02:01:35,841 --> 02:01:38,301
+Why do you need their approval?
+
+1255
+02:01:39,177 --> 02:01:40,428
+Old habit.
+
+1256
+02:01:41,805 --> 02:01:46,935
+I started my existence as a robot.
+I still like to be told certain things.
+
+1257
+02:01:56,236 --> 02:01:57,487
+It's time.
+
+1258
+02:02:02,409 --> 02:02:03,785
+Ladies and gentlemen...
+
+1259
+02:02:03,869 --> 02:02:07,080
+...Miss Marjorie Botha,
+President of the World Congress.
+
+1260
+02:02:07,539 --> 02:02:10,750
+According to records of
+the North Am Robotics company...
+
+1261
+02:02:11,042 --> 02:02:14,087
+...the robot, also known as
+Andrew Martin...
+
+1262
+02:02:14,504 --> 02:02:19,301
+...was powered up at 5:15 p.m.
+on April 3, 2005.
+
+1263
+02:02:20,927 --> 02:02:24,264
+In a few hours, he will be 200 years old...
+
+1264
+02:02:25,307 --> 02:02:29,686
+...which means with the exception of
+Methuselah and other biblical figures...
+
+1265
+02:02:30,812 --> 02:02:34,900
+...Andrew is the oldest living human being
+in recorded history.
+
+1266
+02:02:35,734 --> 02:02:40,155
+By this proclamation,
+I validate his marriage to Portia Charney...
+
+1267
+02:02:40,655 --> 02:02:43,116
+...and acknowledge his humanity.
+
+1268
+02:03:11,186 --> 02:03:13,021
+I'm sorry he didn't see it.
+
+1269
+02:03:15,690 --> 02:03:17,734
+Maybe he didn't need to.
+
+1270
+02:03:23,615 --> 02:03:25,659
+Could you do me a favour?
+
+1271
+02:03:28,745 --> 02:03:31,039
+Would you mind unplugging me?
+
+1272
+02:03:36,002 --> 02:03:37,629
+That's an order.
+
+1273
+02:04:11,371 --> 02:04:13,164
+Thank you, Galatea.
+
+1274
+02:04:14,916 --> 02:04:17,836
+As the great Andrew Martin used to say:
+
+1275
+02:04:18,670 --> 02:04:21,131
+"One is glad to be of service."
+
+1276
+02:04:39,733 --> 02:04:41,193
+See you soon.
+
